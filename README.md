@@ -259,7 +259,6 @@ Equipe de desenvolvimento de hardware
 Equipe de qualidade
 Equipe de gerenciamento de projeto
 
-
 O time de desenvolvimento do Oriente Médio e África é responsável por desenvolver e manter o software do projeto em suas regiões. Os times regionais trabalham em estreita colaboração com o time central de desenvolvimento para garantir que o software esteja de acordo com os padrões da empresa.
 
 **Experiência**
@@ -271,21 +270,21 @@ Os membros do time têm experiência variando de 2 a 10 anos no desenvolvimento 
 Os membros do time têm uma variedade de certificações, incluindo:
 
 **Cloud Provider	Certification	Description**
-- Google Cloud Platform	Google Cloud Certified Professional Cloud Architect	Demonstrates the ability to design, build, and manage scalable, reliable, and secure cloud-based solutions that leverage Google Cloud Platform products and services.
-- Amazon Web Services	AWS Certified Solutions Architect - Associate	Demonstrates the ability to design and deploy highly scalable, cost-effective, and reliable distributed computing solutions on AWS.
-- Microsoft Azure	Microsoft Certified Azure Solutions Architect Expert	Demonstrates the ability to design and implement complex cloud-based solutions using Microsoft Azure services.
+**- Google Cloud Platform	**Google Cloud Certified Professional Cloud Architect	Demonstrates the ability to design, build, and manage scalable, reliable, and secure cloud-based solutions that leverage Google Cloud Platform products and services.
+**- Amazon Web Services**	AWS Certified Solutions Architect - Associate	Demonstrates the ability to design and deploy highly scalable, cost-effective, and reliable distributed computing solutions on AWS.
+**- Microsoft Azure	**Microsoft Certified Azure Solutions Architect Expert	Demonstrates the ability to design and implement complex cloud-based solutions using Microsoft Azure services.
 - Tencent Cloud	Tencent Cloud Certified - Cloud Architect	Demonstrates the ability to design, build, and operate scalable, reliable, and secure cloud-based solutions using Tencent Cloud services.
-- Huawei Cloud	Huawei Certified - Cloud Architect	Demonstrates the ability to design, build, and operate scalable, reliable, and secure cloud-based solutions using Huawei Cloud services.
-- IBM Cloud	IBM Certified Cloud Architect - Associate	Demonstrates the ability to design and implement cloud-based solutions using IBM Cloud services.
-- Oracle Cloud	Oracle Certified Cloud Infrastructure Architect Associate	Demonstrates the ability to design, implement, and manage cloud-based solutions using Oracle Cloud Infrastructure services.
-- Alibaba Cloud	Alibaba Cloud Certified - Cloud Architect	Demonstrates the ability to design, build, and operate scalable, reliable, and secure cloud-based solutions using Alibaba Cloud services.
-- ISO 50001:2018	Sistema de Gerenciamento de Energia	Um padrão internacional que especifica os requisitos para um sistema de gerenciamento de energia (EnMS) que ajuda as organizações a melhorar seu desempenho energético.
-- Uptime Institute Tier Certifications	
-. Accredited Tier Designer	Demonstrates the ability to design data centers that meet the Uptime Institute Tier Standard.
-. Accredited Operations Specialist	Demonstrates the ability to operate data centers that meet the Uptime Institute Tier Standard.
-. Accredited Tier Specialist	Demonstrates the ability to assess and improve the availability of data centers.
-. Accredited Sustainability Advisor	Demonstrates the ability to assess and improve the sustainability of data centers.
-. Accredited Tier Professional	Demonstrates the ability to design, operate, and assess the availability and sustainability of data centers.
+**- Huawei Cloud	Huawei Certified **- Cloud Architect	Demonstrates the ability to design, build, and operate scalable, reliable, and secure cloud-based solutions using Huawei Cloud services.
+**- IBM Cloud	IBM Certified Cloud Architect ** - Associate	Demonstrates the ability to design and implement cloud-based solutions using IBM Cloud services.
+**- Oracle Cloud	Oracle Certified ** Cloud Infrastructure Architect Associate	Demonstrates the ability to design, implement, and manage cloud-based solutions using Oracle Cloud Infrastructure services.
+**- Alibaba Cloud	Alibaba Cloud Certified** - Cloud Architect	Demonstrates the ability to design, build, and operate scalable, reliable, and secure cloud-based solutions using Alibaba Cloud services.
+**- ISO 50001:2018	**Sistema de Gerenciamento de Energia	Um padrão internacional que especifica os requisitos para um sistema de gerenciamento de energia (EnMS) que ajuda as organizações a melhorar seu desempenho energético.
+**- Uptime Institute Tier Certifications	**
+-  Accredited Tier Designer	Demonstrates the ability to design data centers that meet the Uptime Institute Tier Standard.
+-  Accredited Operations Specialist	Demonstrates the ability to operate data centers that meet the Uptime Institute Tier Standard.
+-  Accredited Tier Specialist	Demonstrates the ability to assess and improve the availability of data centers.
+-  Accredited Sustainability Advisor	Demonstrates the ability to assess and improve the sustainability of data centers.
+-  Accredited Tier Professional	Demonstrates the ability to design, operate, and assess the availability and sustainability of data centers.
 . Accredited Operations Professional	Demonstrates the ability to operate and assess the availability and sustainability of data centers.
 
 **Remuneração**
@@ -311,3 +310,107 @@ O time de desenvolvimento trabalha em uma variedade de turnos, para garantir que
 - Representante das big cloud
 
 Em cada projeto, há pelo menos um representante das big cloud (Google, AWS, Azure, Tecent, Huawey, IBM, Oracle, Alibaba ). Os representantes das big cloud trabalham com o time de desenvolvimento para garantir que o software seja desenvolvido de acordo com os padrões das big cloud.
+
+
+
+**EcoHold Vision: 🌟**
+
+Lead the global charge for innovative sustainable solutions, driving the shift to a green and low-carbon economy. #SustainabilityRevolution
+
+Mission: 🚀
+
+Develop and offer cutting-edge sustainable solutions, maximizing positive impact on the environment and society, while fueling economic growth. #GreenTechPioneers
+
+Purpose: 🌿🤝
+
+Build a sustainable Present by delivering innovative solutions that tackle environmental, social, and economic challenges head-on. #PresentForward
+
+Value Proposition: 💎🌍
+
+We offer top-notch sustainable solutions powered by advanced technology, meeting customer needs while reducing environmental impact. #InnovationForGood
+
+**Differentiators: 🌟✨**
+
+1️⃣ Sustainability champions: Minimize resource consumption and carbon emissions across all subsidiaries. #EcoWarriors
+
+2️⃣ Tech innovation gurus: Harness AI, solar energy, high-tech recycling, and smart agriculture for sustainable solutions. #TechForGood
+
+3️⃣ Integrated approach masters: Provide a complete eco-system from data clouds to digital education and intelligent logistics. #SustainableSynergy
+
+4️⃣ Value-added focus: Tailor-made solutions for customers, driving sustainability and efficiency hand in hand. #CustomSustainability
+
+5️⃣ Strategic partnerships: Collaborate with industry leaders for continuous innovation and top-quality products/services. #PartnersInSustainability
+
+**Solutions, Products, and Services: 🛠️📦🚀**
+
+1️⃣ EcoData: Energy-efficient and scalable Sustainable Data Clouds with a minimal carbon footprint. #DataRevolution
+
+2️⃣ EcoSolar: Deploy sustainable solar energy systems, empowering distributed generation and solar panel installations. #SolarPower
+
+3️⃣ EcoAI: AI-based solutions optimizing processes, decision-making, and data analysis with a focus on sustainability. #AIforGood
+
+4️⃣ PopliJoias: Craft sustainable jewelry using environmentally responsible materials and processes. #JewelryWithAPurpose
+
+5️⃣ SmartFarm: Intelligent agriculture solutions with remote monitoring, automation, and efficient resource utilization. #SmartFarming
+
+6️⃣ RecicloTech: Advanced recycling technologies maximizing material recovery and waste reduction. #RecyclingInnovation
+
+7️⃣ EcoDrive: Drive sustainable mobility with electric vehicles, transportation sharing, and smart charging infrastructure. #GreenMobility
+
+8️⃣ Carbon Zero: Generate and supply renewable energy (wind, solar, hydro, biomass) to slash carbon emissions. #RenewableRevolution
+
+9️⃣ Poplixo Construction Platform: Sustainable construction solutions with eco-friendly materials, efficient methods, and renewable energies. #EcoConstruction
+
+🔟 Digital Education: Provide digital solutions fostering sustainability awareness and innovation skills. #DigitalLearning
+
+1️⃣1️⃣ Intelligent Finance: Advanced financial technologies (blockchain, e-payments) for sustainable financial management. #SmartFinance
+
+1️⃣2️⃣ Intelligent Communication: Advanced communication solutions (smart networks, IoT) focusing on efficiency and sustainability. #ConnectedSustainability
+
+1️⃣3️⃣ Digital Entertainment: Innovative entertainment experiences promoting environmental and social awareness. #EntertainmentForChange
+
+1️⃣4️⃣ Intelligent Logistics: Optimize logistics with efficient routing, transportation monitoring, and intelligent supply chain management. #LogisticsEvolved
+
+
+Together, EcoHold and its subsidiaries offer a wide array of sustainable solutions, empowering a greener and more conscious Present. Join us in making a difference! 🌿🤝🌍💡 #EcoHold #SustainabilityMatters
+
+**Chamada Zero Carbono**
+
+|(https://lh6.googleusercontent.com/ig1SHVxBpX0TgScGdFh7BnUrkqSC2NDb2e9QWVDSSYNX1JOoXb-hqGdd_xhBs34dbtSMrpb5IegGyr8iCLIdZnJUr8_cCq0U5YQLcf3xCpwXWl2epDpf-k-fvnwMOGYlXySimlOte5QNPsQHEgKLNPc)|
+|(https://lh3.googleusercontent.com/ouLCa1lKoyCZlCW83nvn9Ahw05G9DTCDGLnjeX2cH8JtylhvGXhmgEdqhNKEc5pKvgaRpr0udIanyhZBtqRwoYW0GFs6bGpZ1N_XsllJr9F8GYQ4eirfVI8hCKFdwXpxzpZiDV3yEVGmxdmLK2dKYXo)|
+
+Mais de 50% da energia elétrica do planeta é produzida pela transformação de combustíveis fósseis, predominando carvão e gás natural, e neste processo, mais de 50% do calor produzido não é aproveitado na forma de energia, sendo dispensado, desperdiçado e jogado no planeta, também conhecido como Aquecimento Global Instantâneo.
+O mesmo acontece com mais de 500 sites nucleares, com eficiência energética inferior a 40%, ou seja, 60% do calor produzido é jogado no mar.
+O desperdício energético equivale a US$17 trilhões por ano, logo, uma empresa produtora de energia, distribuidora de energia, no mínimo devem ser certificadas ISO 5001 para usufruir desta oportunidade.
+
+A transição net zero passa pelo incremento da eficiência energética da matriz atual, incluindo solar - 5 horas por dia de produção a 20% de EE.
+
+Neste cenário discorremos e entregamos duas soluções:
+Incremental: Redes Híbridas Gás Natural/H2
+Disruptiva: Energia 100% Solar produzida por  Sites Energético em regiões inóspitas como desertos, interconectada globalmente por data energy cable, superando as limitações de fuso horários de até 12 horas com o excedente suprindo áreas escuras.
+
+
+**ENERGY EFFICIENCY CONSIDERATIONS FOR HPC PROCUREMENT DOCUMENT: 2.0.1. (lição de casa)**
+
+👋 Hello, everyone!
+
+🌟 I have an incredible mission, and I'm reaching out to ask for your help! We're working on an exciting project about energy efficiency and financial analysis of data centers. And that's where you come in! 😄
+
+🔎 We need experts who can share their knowledge and assist us in answering some questions about Data Centers (DataCenter) and DataCloud EcoHold (DataCloud). We want to explore aspects such as energy capacity, cooling systems, financial analysis, hydrogen production, and revenue from excess energy and carbon credits. We also want to contribute to the ENERGY EFFICIENCY CONSIDERATIONS FOR HPC PROCUREMENT DOCUMENT: 2.0.1.
+
+💡 We have a table with some preliminary information, but we're looking to fill in the missing financial values to conduct more accurate analyses. If you have expertise in this area and can contribute these values, it would be incredible!
+
+🤝 Additionally, if you know individuals or companies interested in investing in this type of project or providing valuable insights, please share their contacts with us. We're looking for industry professionals, investors, and engaged companies to join this initiative.
+
+🌍 We believe that together we can make a difference and drive energy efficiency in data centers. We're excited to connect with you and discuss further details. Let's join forces for this exciting project!
+
+📩 If you're ready to embark on this journey with us, feel free to reach out to us via LinkedIn or email. I'm eager to hear your ideas and collaborate on this innovative initiative!
+
+
+Thank you very much for your attention and support. Let's make energy efficiency a reality!
+
+Best regards,
+Zeh Sobrinho
+EcoHold
+Co-Founder
+
