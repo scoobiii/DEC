@@ -56,7 +56,7 @@ Satisfação do cliente: O Google Cloud tem uma alta satisfação do cliente, o 
 * O crescimento do consumo de energia do Google desde a inauguração e o crescimento do suprimento de energia no mundo, 1% da Europa (compare com um países do G7 e BRICS) o que justifica operar geradores a diesel por 10 horas por dia, insustentável
 * Mercado em crescimento e **oportunidade - África**
 
-#Produtos e Serviços
+# Produtos e Serviços
 
 **DeepEnergy**: O DeepEnergy é um sistema de energia renovável que utiliza uma variedade de fontes de energia, incluindo energia solar, eólica e geotérmica. O DeepEnergy também é capaz de armazenar energia, o que permite que o data center opere mesmo quando não há produção de energia.
 **DeepCloud**: O DeepCloud é um sistema de computação em nuvem que é alimentado pelo DeepEnergy. O DeepCloud é capaz de fornecer serviços de computação, armazenamento e rede de forma escalável e eficiente.
@@ -77,7 +77,7 @@ O DEC Project também tem o potencial de reduzir os custos dos data centers. O D
 O DEC Project é um projeto ambicioso, mas é um projeto necessário. Os data centers estão se tornando cada vez mais importantes, mas eles também estão se tornando um grande consumidor de energia. O DEC Project tem o potencial de resolver esse problema e tornar os data centers mais sustentáveis.
 
 
-#Financeiro
+# Financeiro
 
 **CapEx:**
 A estimativa de Capex para o DEC Project é de US$ 1 bilhão.
@@ -111,11 +111,64 @@ Governança; Soluções EcoHold validadas por
 - UPTimeInstitute
 - Open Compute
 
+# Time EcoHold
+**Conselho Administrativo:**
+Presidente: Zeh Sobrinho
+Vice-Presidente: Maria Santos
+Diretores: João Silva, Ana Pereira, Pedro Costa, Claudia Soares e Carlos Lopes
+Consultores especializados: A EcoHold não fornece detalhes sobre seus consultores especializados.
+Conselho Jurídico Centralizado: A EcoHold não fornece detalhes sobre seu conselho jurídico centralizado.
+**Equipe Executiva:**
+CEO (Chief Executive Officer): Zeh Sobrinho
+CFO (Chief Financial Officer): Carlos Lopes
+CIO (Chief Information Officer): Pedro Costa
+CTO (Chief Technology Officer): João Silva
+CMO (Chief Marketing Officer): Ana Pereira
+CHRO (Chief Human Resources Officer): Claudia Soares
+CSO (Chief Sustainability Officer): Zeh Sobrinho
+CCO (Chief Communications Officer): Ana Pereira
+CLO (Chief Legal Officer): Claudia Soares
+**Camada Estratégica:**
+Gerente de Estratégia: Zeh Sobrinho
+Gerente de Desenvolvimento de Negócios: João Silva
+Gerente de Parcerias Estratégicas: Ana Pereira
+Gerente de Sustentabilidade: Claudia Soares
+Gerente de Inovação e Tecnologia: Pedro Costa
+**Camada Tática:**
+Gerentes de Departamentos (por exemplo, Finanças, Marketing, Tecnologia, Recursos Humanos): A EcoHold não fornece detalhes sobre seus gerentes de departamento.
+Gerente de Operações: Pedro Costa
+Gerente de Projetos: João Silva
+Gerente de Qualidade: Claudia Soares
+Gerente de Sustentabilidade: Claudia Soares
+Gerente de Comunicações: Ana Pereira
+Gerente de Riscos: Pedro Costa
+**Camada Operacional:**
+Equipe de Desenvolvimento de Produtos/Serviços: A EcoHold não fornece detalhes sobre sua equipe de desenvolvimento de produtos/serviços.
+Equipe de Produção/Operações: A EcoHold não fornece detalhes sobre sua equipe de produção/operações.
+Equipe de Vendas e Marketing: A EcoHold não fornece detalhes sobre sua equipe de vendas e marketing.
+Equipe de Recursos Humanos: A EcoHold não fornece detalhes sobre sua equipe de recursos humanos.
+Equipe Financeira: A EcoHold não fornece detalhes sobre sua equipe financeira.
+Equipe de TI (Tecnologia da Informação): A EcoHold não fornece detalhes sobre sua equipe de TI.
+Equipe de Atendimento ao Cliente: A EcoHold não fornece detalhes sobre sua equipe de atendimento ao cliente.
+Equipe de Logística e Cadeia de Suprimentos: A EcoHold não fornece detalhes sobre sua equipe de logística e cadeia de suprimentos.
+Equipe de Sustentabilidade: Claudia Soares
+
+# Fornecedores:
+Google Cloud Platform
+AWS
+Azure
+IBM Cloud
+Oracle Cloud
+SAP Cloud
+Microsoft Dynamics 365
+Salesforce
+ServiceNow
+Workday
+Adobe Experience Cloud
+
 **Time de desenvolvimento**
 
-O time de desenvolvimento é responsável por desenvolver e manter o software do projeto. O time é composto por engenheiros de software, engenheiros de hardware, engenheiros de qualidade e gerentes de projeto.
-
-Nomes dos times regionais
+O time de desenvolvimento regional poor continente e diferentes fuso horários mantem o desenvolvimento full time, é responsável por desenvolver e manter as entregas do projeto por ecossistema. O time é composto por engenheiros de software, engenheiros de hardware, engenheiros de qualidade e gerentes de projeto.
 
 **América do Norte:**
 - Estados Unidos
@@ -235,28 +288,28 @@ Os membros do time têm experiência variando de 2 a 10 anos no desenvolvimento 
 Os membros do time têm uma variedade de certificações, incluindo:
 
 **Cloud Provider	Certification	Description**
-**- Google Cloud Platform	**Google Cloud Certified Professional Cloud Architect	Demonstrates the ability to design, build, and manage scalable, reliable, and secure cloud-based solutions that leverage Google Cloud Platform products and services.
+**- Google Cloud Platform** Google Cloud Certified Professional Cloud Architect	Demonstrates the ability to design, build, and manage scalable, reliable, and secure cloud-based solutions that leverage Google Cloud Platform products and services.
 **- Amazon Web Services**	AWS Certified Solutions Architect - Associate	Demonstrates the ability to design and deploy highly scalable, cost-effective, and reliable distributed computing solutions on AWS.
-**- Microsoft Azure	**Microsoft Certified Azure Solutions Architect Expert	Demonstrates the ability to design and implement complex cloud-based solutions using Microsoft Azure services.
-- Tencent Cloud	Tencent Cloud Certified - Cloud Architect	Demonstrates the ability to design, build, and operate scalable, reliable, and secure cloud-based solutions using Tencent Cloud services.
-**- Huawei Cloud	Huawei Certified **- Cloud Architect	Demonstrates the ability to design, build, and operate scalable, reliable, and secure cloud-based solutions using Huawei Cloud services.
-**- IBM Cloud	IBM Certified Cloud Architect ** - Associate	Demonstrates the ability to design and implement cloud-based solutions using IBM Cloud services.
-**- Oracle Cloud	Oracle Certified ** Cloud Infrastructure Architect Associate	Demonstrates the ability to design, implement, and manage cloud-based solutions using Oracle Cloud Infrastructure services.
-**- Alibaba Cloud	Alibaba Cloud Certified** - Cloud Architect	Demonstrates the ability to design, build, and operate scalable, reliable, and secure cloud-based solutions using Alibaba Cloud services.
-**- ISO 50001:2018	**Sistema de Gerenciamento de Energia	Um padrão internacional que especifica os requisitos para um sistema de gerenciamento de energia (EnMS) que ajuda as organizações a melhorar seu desempenho energético.
-**- Uptime Institute Tier Certifications	**
+**- Microsoft Azure** Microsoft Certified Azure Solutions Architect Expert	Demonstrates the ability to design and implement complex cloud-based solutions using Microsoft Azure services.
+**- Tencent Cloud	Tencent Cloud Certified** Cloud Architect	Demonstrates the ability to design, build, and operate scalable, reliable, and secure cloud-based solutions using Tencent Cloud services.
+**- Huawei Cloud	Huawei Certified** Cloud Architect	Demonstrates the ability to design, build, and operate scalable, reliable, and secure cloud-based solutions using Huawei Cloud services.
+**- IBM Cloud	IBM Certified Cloud Architect** Associate	Demonstrates the ability to design and implement cloud-based solutions using IBM Cloud services.
+**- Oracle Cloud	Oracle Certified** Cloud Infrastructure Architect Associate	Demonstrates the ability to design, implement, and manage cloud-based solutions using Oracle Cloud Infrastructure services.
+**- Alibaba Cloud	Alibaba Cloud Certified** Cloud Architect	Demonstrates the ability to design, build, and operate scalable, reliable, and secure cloud-based solutions using Alibaba Cloud services.
+**- ISO 50001:2018** Sistema de Gerenciamento de Energia	Um padrão internacional que especifica os requisitos para um sistema de gerenciamento de energia (EnMS) que ajuda as organizações a melhorar seu desempenho energético.
+**- Uptime Institute Tier Certifications**
 -  Accredited Tier Designer	Demonstrates the ability to design data centers that meet the Uptime Institute Tier Standard.
 -  Accredited Operations Specialist	Demonstrates the ability to operate data centers that meet the Uptime Institute Tier Standard.
 -  Accredited Tier Specialist	Demonstrates the ability to assess and improve the availability of data centers.
 -  Accredited Sustainability Advisor	Demonstrates the ability to assess and improve the sustainability of data centers.
 -  Accredited Tier Professional	Demonstrates the ability to design, operate, and assess the availability and sustainability of data centers.
-. Accredited Operations Professional	Demonstrates the ability to operate and assess the availability and sustainability of data centers.
+- Accredited Operations Professional	Demonstrates the ability to operate and assess the availability and sustainability of data centers.
 
 **Remuneração**
 
 Os membros do time recebem uma remuneração competitiva, de acordo com suas habilidades e experiência. Eles também recebem participação nos lucros da empresa.
 
-- StoKOption
+**- StoKOption**
 
 Os membros do time recebem participação nos lucros da empresa por meio de um plano de opções de ações restritas. Este plano permite que os membros do time se tornem acionistas da empresa e se beneficiem de seu sucesso.
 
@@ -266,7 +319,7 @@ O time de desenvolvimento é responsável por entregar todos os projetos do cron
 
 - Time regional de desenvolvimento
 
-Cada time regional de desenvolvimento é responsável por desenvolver e manter o software do projeto em sua região. Os times regionais trabalham em estreita colaboração com o time central de desenvolvimento para garantir que o software esteja de acordo com os padrões da empresa.
+Cada time regional de desenvolvimento é responsável por desenvolver e manter as entregas do projeto em sua região. Os times regionais trabalham em estreita colaboração com o time central de desenvolvimento para garantir que o software esteja de acordo com os padrões da empresa.
 
 - Agendas de trabalho e rodízio
 
@@ -275,7 +328,6 @@ O time de desenvolvimento trabalha em uma variedade de turnos, para garantir que
 - Representante das big cloud
 
 Em cada projeto, há pelo menos um representante das big cloud (Google, AWS, Azure, Tecent, Huawey, IBM, Oracle, Alibaba ). Os representantes das big cloud trabalham com o time de desenvolvimento para garantir que o software seja desenvolvido de acordo com os padrões das big cloud.
-
 
 
 #EcoHold Vision: 🌟
@@ -355,7 +407,7 @@ Incremental: Redes Híbridas Gás Natural/H2
 Disruptiva: Energia 100% Solar produzida por  Sites Energético em regiões inóspitas como desertos, interconectada globalmente por data energy cable, superando as limitações de fuso horários de até 12 horas com o excedente suprindo áreas escuras.
 
 
-#ENERGY EFFICIENCY CONSIDERATIONS FOR HPC PROCUREMENT DOCUMENT: 2.0.1. (lição de casa)
+# ENERGY EFFICIENCY CONSIDERATIONS FOR HPC PROCUREMENT DOCUMENT: 2.0.1. (lição de casa)
 
 👋 Hello, everyone!
 
@@ -370,7 +422,6 @@ Disruptiva: Energia 100% Solar produzida por  Sites Energético em regiões inó
 🌍 We believe that together we can make a difference and drive energy efficiency in data centers. We're excited to connect with you and discuss further details. Let's join forces for this exciting project!
 
 📩 If you're ready to embark on this journey with us, feel free to reach out to us via LinkedIn or email. I'm eager to hear your ideas and collaborate on this innovative initiative!
-
 
 Thank you very much for your attention and support. Let's make energy efficiency a reality!
 
