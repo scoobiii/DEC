@@ -1,30 +1,49 @@
 # O DEC Project
 
-**Olá, queridões e queridonas, comunidades, investidores, FAPESP, Google, AWS, Azure, Tecent, Huawey, IBM, Oracle, Alibaba e mercado!
+Olá, queridões e queridonas, comunidades, investidores, FAPESP, Google, AWS, Azure, Tecent, Huawey, IBM, Oracle, Alibaba e mercado!
 Meu nome é **Zeh Sobrinho e sou o fundador e CEO da EcoHold**, uma empresa que desenvolve soluções sustentáveis para data centers.
 Estou aqui hoje para apresentar o DEC Project, um projeto de pesquisa e desenvolvimento que visa criar um novo modelo de data center que seja mais eficiente em termos de energia e sustentável.
 
+# Chamada Zero Carbono
+
+|<img src="https://lh6.googleusercontent.com/ig1SHVxBpX0TgScGdFh7BnUrkqSC2NDb2e9QWVDSSYNX1JOoXb-hqGdd_xhBs34dbtSMrpb5IegGyr8iCLIdZnJUr8_cCq0U5YQLcf3xCpwXWl2epDpf-k-fvnwMOGYlXySimlOte5QNPsQHEgKLNPc" width="80%" height="80%" />|
+|<img src="https://lh3.googleusercontent.com/ouLCa1lKoyCZlCW83nvn9Ahw05G9DTCDGLnjeX2cH8JtylhvGXhmgEdqhNKEc5pKvgaRpr0udIanyhZBtqRwoYW0GFs6bGpZ1N_XsllJr9F8GYQ4eirfVI8hCKFdwXpxzpZiDV3yEVGmxdmLK2dKYXo" width="80%" height="80%" />|
+
 # Dor & Solução
-**Dor: O Google Cloud é caro.**
+
+**Global**
+Mais de 50% da energia elétrica do planeta é produzida pela transformação de combustíveis fósseis, predominando carvão e gás natural, e neste processo, mais de 50% do calor produzido não é aproveitado na forma de energia, sendo dispensado, desperdiçado e jogado no planeta, também conhecido como Aquecimento Global Instantâneo.
+O mesmo acontece com mais de 500 sites nucleares, com eficiência energética inferior a 40%, ou seja, 60% do calor produzido é jogado no mar.
+O desperdício energético equivale a US$17 trilhões por ano, logo, uma empresa produtora de energia, distribuidora de energia, no mínimo devem ser certificadas ISO 5001 para usufruir desta oportunidade.
+
+A transição net zero passa pelo incremento da eficiência energética da matriz atual, incluindo solar - 5 horas por dia de produção a 20% de EE.
+
+Neste cenário discorremos e entregamos duas soluções:
+Incremental: Redes Híbridas Gás Natural/H2
+Disruptiva: Energia 100% Solar produzida por  Sites Energético em regiões inóspitas como desertos, interconectada globalmente por data energy cable, superando as limitações de fuso horários de até 12 horas com o excedente suprindo áreas escuras.
+
+**Bigcloud**
+
+Dor: O Google Cloud é caro.
 Custo por hora de execução: US$0,015-0,20.
 Custo mensal médio: US$100-10.000.
 Tendência: O mercado de computação em nuvem está crescendo rapidamente.
 Receita global de computação em nuvem: US$371,4 bilhões em 2020.
 Receita global de computação em nuvem projetada: US$832,1 bilhões em 2025.
 
-**Dor: O Google Cloud é caro**.
+*Dor: O Google Cloud é caro.
 Métrica: Custo por hora de execução.
 Curar: Reduza o custo por hora de execução usando recursos de computação mais eficientes, como instâncias com densidade de computação mais alta, redes mais eficientes e armazenamento mais eficiente.
 
-**Dor: O Google Cloud é difícil de usar.**
+Dor: O Google Cloud é difícil de usar.
 Métrica: Tempo necessário para configurar e implantar um aplicativo.
 Curar: Crie um painel de controle amigável que facilite a configuração e a implantação de aplicativos.
 
-**Dor: O Google Cloud não é confiável.**
+Dor: O Google Cloud não é confiável.
 Métrica: Tempo médio de disponibilidade.
 Curar: Implemente estratégias de redundância e resiliência.
 
-**Dor: O Google Cloud não é seguro.**
+Dor: O Google Cloud não é seguro.
 Métrica: Número de violações de segurança.
 Curar: Implemente medidas de segurança, como autenticação multifator e criptografia.
 
@@ -59,13 +78,21 @@ Satisfação do cliente: O Google Cloud tem uma alta satisfação do cliente, o 
 # Produtos e Serviços
 
 **DeepEnergy**: O DeepEnergy é um sistema de energia renovável que utiliza uma variedade de fontes de energia, incluindo energia solar, eólica e geotérmica. O DeepEnergy também é capaz de armazenar energia, o que permite que o data center opere mesmo quando não há produção de energia.
+
 **DeepCloud**: O DeepCloud é um sistema de computação em nuvem que é alimentado pelo DeepEnergy. O DeepCloud é capaz de fornecer serviços de computação, armazenamento e rede de forma escalável e eficiente.
+
 **DeepCool**: O DeepCool é um sistema de resfriamento que utiliza uma variedade de técnicas, incluindo resfriamento a água, resfriamento a ar e resfriamento a imersão. O DeepCooling é capaz de manter o data center a uma temperatura adequada, mesmo quando está operando sob carga pesada.
+
 **DeepHealth**: O DeepHealth foi nossa primeira experiencia com Tensores durante o **hackcovid19**, é um sistema de diagnóstico médico que utiliza inteligência artificial para identificar lesões em imagens de saúde. O DeepHealth é capaz de identificar lesões com precisão, o que pode levar a um tratamento mais eficaz que estimula e demanda os demais projetos.**
+
 **DeepAI**: Redução do consumo de energia dos modelos de IA
+
 **DeepVision**: Imagens por IA com saída STL, 3DM, DWG com detalhes de marcas e componentes para serem entregues pela indústria 4.0, impossível hoje, apenas via impressão 2D.
+
 **DeepAIX**: ISO para operar todos os aplicativos e modelos de IA 100% in-memory, incluindo persistência, baseado no Linux chamado "Linux From Scratch" (LFS). O LFS é um projeto de código aberto que fornece um guia passo a passo sobre como construir seu próprio sistema operacional Linux a partir de sua base de código.
+
 **DeepSun** sistema global de datacloud supridos por energia solar superando o fusuhorario de 12hs e limitação horaria de 5 horas do sol) 10 TW abrindo oportunidades para novas cidades em áreas, antes inóspitas
+
 **O papel da Africa no projeto DEC**
 A Africa é um dos continentes mais importantes para o projeto DEC. A Africa tem uma grande população e uma economia em rápido crescimento. Isso significa que a Africa terá uma grande demanda por dados no futuro.
 
@@ -75,7 +102,6 @@ O DEC Project tem o potencial de revolucionar a maneira como os data centers sã
 O DEC Project também tem o potencial de reduzir os custos dos data centers. O DEC Project é capaz de gerar sua própria energia, o que pode reduzir os custos de energia. O DEC Project também é capaz de armazenar energia, o que pode reduzir os custos de energia em momentos de pico.
 
 O DEC Project é um projeto ambicioso, mas é um projeto necessário. Os data centers estão se tornando cada vez mais importantes, mas eles também estão se tornando um grande consumidor de energia. O DEC Project tem o potencial de resolver esse problema e tornar os data centers mais sustentáveis.
-
 
 # Financeiro
 
@@ -100,77 +126,97 @@ Isso significa que a empresa espera recuperar seu investimento em dois
 #Normas e certificações:
 ** O DEC atende a uma série de normas e certificações, incluindo:**
 - ISO 27001: Esta norma internacional de segurança da informação fornece um conjunto de requisitos para gerenciar os riscos de segurança da informação.
+
 - HIPAA: Esta lei dos Estados Unidos exige que os fornecedores de saúde atendam a certos requisitos de segurança da informação para proteger os dados de saúde dos pacientes.
+
 - SOC 2: Esta norma fornece um conjunto de requisitos para gerenciar os controles internos de uma organização.
 Validação de resultados: O Google Cloud trabalha com uma série de organizações para validar seus resultados, incluindo:
 Governança; Soluções EcoHold validadas por
+
 - NIST: O Instituto Nacional de Padrões e Tecnologia (NIST) é uma agência do governo dos Estados Unidos que desenvolve padrões e diretrizes para segurança da informação.
+
 - CSA: A Comissão de Autoridades de Segurança (CSA) é uma associação internacional de organizações que trabalham para promover a segurança da informação.
+
 - ISACA: A Associação Internacional de Auditores de Sistemas de Informação (ISACA) é uma associação profissional que promove a excelência em auditoria, governança e gerenciamento de riscos.
+
 - ISO 50001
+
 - UPTimeInstitute
+
 - Open Compute
 
 # Time EcoHold
+
 **Conselho Administrativo:**
+
 Presidente: Zeh Sobrinho
 Vice-Presidente: Maria Santos
 Diretores: João Silva, Ana Pereira, Pedro Costa, Claudia Soares e Carlos Lopes
 Consultores especializados: A EcoHold não fornece detalhes sobre seus consultores especializados.
 Conselho Jurídico Centralizado: A EcoHold não fornece detalhes sobre seu conselho jurídico centralizado.
+
 **Equipe Executiva:**
-CEO (Chief Executive Officer): Zeh Sobrinho
-CFO (Chief Financial Officer): Carlos Lopes
-CIO (Chief Information Officer): Pedro Costa
-CTO (Chief Technology Officer): João Silva
-CMO (Chief Marketing Officer): Ana Pereira
-CHRO (Chief Human Resources Officer): Claudia Soares
-CSO (Chief Sustainability Officer): Zeh Sobrinho
-CCO (Chief Communications Officer): Ana Pereira
-CLO (Chief Legal Officer): Claudia Soares
+
+- CEO (Chief Executive Officer): Zeh Sobrinho
+- CFO (Chief Financial Officer): Paulo Manoel
+- CIO (Chief Information Officer): Pedro Costa
+- CTO (Chief Technology Officer): João Silva
+- CMO (Chief Marketing Officer): Ana Pereira
+- CHRO (Chief Human Resources Officer): Claudia Soares
+- CSO (Chief Sustainability Officer): Zeh Sobrinho
+- CCO (Chief Communications Officer): Ana Pereira
+- CLO (Chief Legal Officer): Claudia Soares
+
 **Camada Estratégica:**
-Gerente de Estratégia: Zeh Sobrinho
-Gerente de Desenvolvimento de Negócios: João Silva
-Gerente de Parcerias Estratégicas: Ana Pereira
-Gerente de Sustentabilidade: Claudia Soares
-Gerente de Inovação e Tecnologia: Pedro Costa
+
+- Gerente de Estratégia: Zeh Sobrinho
+- Gerente de Desenvolvimento de Negócios: João Silva
+- Gerente de Parcerias Estratégicas: Ana Pereira
+- Gerente de Sustentabilidade: Claudia Soares
+- Gerente de Inovação e Tecnologia: Pedro Costa
+
 **Camada Tática:**
-Gerentes de Departamentos (por exemplo, Finanças, Marketing, Tecnologia, Recursos Humanos): A EcoHold não fornece detalhes sobre seus gerentes de departamento.
-Gerente de Operações: Pedro Costa
-Gerente de Projetos: João Silva
-Gerente de Qualidade: Claudia Soares
-Gerente de Sustentabilidade: Claudia Soares
-Gerente de Comunicações: Ana Pereira
-Gerente de Riscos: Pedro Costa
+
+- Gerentes de Departamentos.Times Regionais
+- Gerente de Operações: Pedro Costa
+- Gerente de Projetos: João Silva
+- Gerente de Qualidade: Claudia Soares
+- Gerente de Sustentabilidade: Claudia Soares
+- Gerente de Comunicações: Ana Pereira
+- Gerente de Riscos: Pedro Costa
+
 **Camada Operacional:**
-Equipe de Desenvolvimento de Produtos/Serviços: A EcoHold não fornece detalhes sobre sua equipe de desenvolvimento de produtos/serviços.
-Equipe de Produção/Operações: A EcoHold não fornece detalhes sobre sua equipe de produção/operações.
-Equipe de Vendas e Marketing: A EcoHold não fornece detalhes sobre sua equipe de vendas e marketing.
-Equipe de Recursos Humanos: A EcoHold não fornece detalhes sobre sua equipe de recursos humanos.
-Equipe Financeira: A EcoHold não fornece detalhes sobre sua equipe financeira.
-Equipe de TI (Tecnologia da Informação): A EcoHold não fornece detalhes sobre sua equipe de TI.
-Equipe de Atendimento ao Cliente: A EcoHold não fornece detalhes sobre sua equipe de atendimento ao cliente.
-Equipe de Logística e Cadeia de Suprimentos: A EcoHold não fornece detalhes sobre sua equipe de logística e cadeia de suprimentos.
-Equipe de Sustentabilidade: Claudia Soares
+
+- Equipe de Desenvolvimento de Produtos/Serviços: Times Regionais.
+- Equipe de Produção/Operações: 
+- Equipe de Vendas e Marketing: 
+- Equipe de Recursos Humanos:
+- Equipe Financeira:
+- Equipe de TI (Tecnologia da Informação):
+- Equipe de Atendimento ao Cliente:
+- Equipe de Logística e Cadeia de Suprimentos:
+- Equipe de Sustentabilidade: Claudia Soares
 
 # Fornecedores:
-Google Cloud Platform
-AWS
-Azure
-IBM Cloud
-Oracle Cloud
-SAP Cloud
-Microsoft Dynamics 365
-Salesforce
-ServiceNow
-Workday
-Adobe Experience Cloud
+
+- Google Cloud Platform
+- AWS
+- Azure
+- IBM Cloud
+- Oracle Cloud
+- SAP Cloud
+- Microsoft Dynamics 365
+- Salesforce
+- ServiceNow
+- Workday
+- Adobe Experience Cloud
 
 **Time de desenvolvimento**
 
 O time de desenvolvimento regional poor continente e diferentes fuso horários mantem o desenvolvimento full time, é responsável por desenvolver e manter as entregas do projeto por ecossistema. O time é composto por engenheiros de software, engenheiros de hardware, engenheiros de qualidade e gerentes de projeto.
 
 **América do Norte:**
+
 - Estados Unidos
 Equipe de desenvolvimento de software
 Equipe de desenvolvimento de hardware
@@ -183,6 +229,7 @@ Equipe de qualidade
 Equipe de gerenciamento de projeto
 
 **Europa:**
+
 - Reino Unido
 Equipe de desenvolvimento de software
 Equipe de desenvolvimento de hardware
@@ -200,6 +247,7 @@ Equipe de qualidade
 Equipe de gerenciamento de projeto
 
 **Ásia:**
+
 - China
 Equipe de desenvolvimento de software
 Equipe de desenvolvimento de hardware
@@ -217,6 +265,7 @@ Equipe de qualidade
 Equipe de gerenciamento de projeto
 
 **América Latina:**
+
 - Brasil
 Equipe de desenvolvimento de software
 Equipe de desenvolvimento de hardware
@@ -239,6 +288,7 @@ Equipe de qualidade
 Equipe de gerenciamento de projeto
 
 **Oriente Médio:**
+
 - Israel
 Equipe de desenvolvimento de software
 Equipe de desenvolvimento de hardware
@@ -256,6 +306,7 @@ Equipe de qualidade
 Equipe de gerenciamento de projeto
 
 **África:**
+
 - Nigéria
 Equipe de desenvolvimento de software
 Equipe de desenvolvimento de hardware
@@ -288,15 +339,25 @@ Os membros do time têm experiência variando de 2 a 10 anos no desenvolvimento 
 Os membros do time têm uma variedade de certificações, incluindo:
 
 **Cloud Provider	Certification	Description**
+
 **- Google Cloud Platform** Google Cloud Certified Professional Cloud Architect	Demonstrates the ability to design, build, and manage scalable, reliable, and secure cloud-based solutions that leverage Google Cloud Platform products and services.
+
 **- Amazon Web Services**	AWS Certified Solutions Architect - Associate	Demonstrates the ability to design and deploy highly scalable, cost-effective, and reliable distributed computing solutions on AWS.
+
 **- Microsoft Azure** Microsoft Certified Azure Solutions Architect Expert	Demonstrates the ability to design and implement complex cloud-based solutions using Microsoft Azure services.
+
 **- Tencent Cloud	Tencent Cloud Certified** Cloud Architect	Demonstrates the ability to design, build, and operate scalable, reliable, and secure cloud-based solutions using Tencent Cloud services.
+
 **- Huawei Cloud	Huawei Certified** Cloud Architect	Demonstrates the ability to design, build, and operate scalable, reliable, and secure cloud-based solutions using Huawei Cloud services.
+
 **- IBM Cloud	IBM Certified Cloud Architect** Associate	Demonstrates the ability to design and implement cloud-based solutions using IBM Cloud services.
+
 **- Oracle Cloud	Oracle Certified** Cloud Infrastructure Architect Associate	Demonstrates the ability to design, implement, and manage cloud-based solutions using Oracle Cloud Infrastructure services.
+
 **- Alibaba Cloud	Alibaba Cloud Certified** Cloud Architect	Demonstrates the ability to design, build, and operate scalable, reliable, and secure cloud-based solutions using Alibaba Cloud services.
+
 **- ISO 50001:2018** Sistema de Gerenciamento de Energia	Um padrão internacional que especifica os requisitos para um sistema de gerenciamento de energia (EnMS) que ajuda as organizações a melhorar seu desempenho energético.
+
 **- Uptime Institute Tier Certifications**
 -  Accredited Tier Designer	Demonstrates the ability to design data centers that meet the Uptime Institute Tier Standard.
 -  Accredited Operations Specialist	Demonstrates the ability to operate data centers that meet the Uptime Institute Tier Standard.
@@ -329,8 +390,7 @@ O time de desenvolvimento trabalha em uma variedade de turnos, para garantir que
 
 Em cada projeto, há pelo menos um representante das big cloud (Google, AWS, Azure, Tecent, Huawey, IBM, Oracle, Alibaba ). Os representantes das big cloud trabalham com o time de desenvolvimento para garantir que o software seja desenvolvido de acordo com os padrões das big cloud.
 
-
-#EcoHold Vision: 🌟
+# EcoHold Vision: 🌟
 
 Lead the global charge for innovative sustainable solutions, driving the shift to a green and low-carbon economy. #SustainabilityRevolution
 
@@ -388,24 +448,7 @@ We offer top-notch sustainable solutions powered by advanced technology, meeting
 
 1️⃣4️⃣ Intelligent Logistics: Optimize logistics with efficient routing, transportation monitoring, and intelligent supply chain management. #LogisticsEvolved
 
-
 Together, EcoHold and its subsidiaries offer a wide array of sustainable solutions, empowering a greener and more conscious Present. Join us in making a difference! 🌿🤝🌍💡 #EcoHold #SustainabilityMatters
-
-#Chamada Zero Carbono
-
-|(https://lh6.googleusercontent.com/ig1SHVxBpX0TgScGdFh7BnUrkqSC2NDb2e9QWVDSSYNX1JOoXb-hqGdd_xhBs34dbtSMrpb5IegGyr8iCLIdZnJUr8_cCq0U5YQLcf3xCpwXWl2epDpf-k-fvnwMOGYlXySimlOte5QNPsQHEgKLNPc)|
-|(https://lh3.googleusercontent.com/ouLCa1lKoyCZlCW83nvn9Ahw05G9DTCDGLnjeX2cH8JtylhvGXhmgEdqhNKEc5pKvgaRpr0udIanyhZBtqRwoYW0GFs6bGpZ1N_XsllJr9F8GYQ4eirfVI8hCKFdwXpxzpZiDV3yEVGmxdmLK2dKYXo)|
-
-Mais de 50% da energia elétrica do planeta é produzida pela transformação de combustíveis fósseis, predominando carvão e gás natural, e neste processo, mais de 50% do calor produzido não é aproveitado na forma de energia, sendo dispensado, desperdiçado e jogado no planeta, também conhecido como Aquecimento Global Instantâneo.
-O mesmo acontece com mais de 500 sites nucleares, com eficiência energética inferior a 40%, ou seja, 60% do calor produzido é jogado no mar.
-O desperdício energético equivale a US$17 trilhões por ano, logo, uma empresa produtora de energia, distribuidora de energia, no mínimo devem ser certificadas ISO 5001 para usufruir desta oportunidade.
-
-A transição net zero passa pelo incremento da eficiência energética da matriz atual, incluindo solar - 5 horas por dia de produção a 20% de EE.
-
-Neste cenário discorremos e entregamos duas soluções:
-Incremental: Redes Híbridas Gás Natural/H2
-Disruptiva: Energia 100% Solar produzida por  Sites Energético em regiões inóspitas como desertos, interconectada globalmente por data energy cable, superando as limitações de fuso horários de até 12 horas com o excedente suprindo áreas escuras.
-
 
 # ENERGY EFFICIENCY CONSIDERATIONS FOR HPC PROCUREMENT DOCUMENT: 2.0.1. (lição de casa)
 
