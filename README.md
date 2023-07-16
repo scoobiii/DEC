@@ -51,8 +51,8 @@ Custo mensal médio: US$100-10.000.
 Tendência: O mercado de computação em nuvem está crescendo rapidamente.
 Receita global de computação em nuvem: US$371,4 bilhões em 2020.
 Receita global de computação em nuvem projetada: US$832,1 bilhões em 2025.
-Dor: O Google Cloud é caro.
 
+Dor: O Google Cloud é caro.
 Métrica: Custo por hora de execução.
 
 Curar: Reduza o custo por hora de execução usando recursos de computação mais eficientes, como instâncias com densidade de computação mais alta, redes mais eficientes e armazenamento mais eficiente.
@@ -75,7 +75,7 @@ Métrica: Número de violações de segurança.
 
 Curar: Implemente medidas de segurança, como autenticação multifator e criptografia.
 
-Como você pode ver, a demanda de energia do Google cresceu de cerca de 100 megawatts (MW) em 2000 para cerca de 10 gigawatts (GW) em 2022. Isso representa um aumento de cerca de 100 vezes em 22 anos.
+**Como você pode ver, a demanda de energia do Google cresceu de cerca de **100 megawatts (MW) em 2000 para cerca de 10 gigawatts (GW) em 2022**. Isso representa um aumento de cerca de 100 vezes em 22 anos.**
 
 O crescimento da demanda de energia do Google é impulsionado por uma série de fatores. Um fator é o crescimento do uso da Internet. Em 2000, havia cerca de 500 milhões de usuários da Internet no mundo. Em 2022, esse número aumentou para cerca de 4,5 bilhões. Esse aumento no uso da Internet levou a um aumento na demanda de servidores do Google para armazenar e processar dados.
 
@@ -134,14 +134,180 @@ Isso significa que a empresa espera recuperar seu investimento em dois
 
 **Normas e certificações:** O DEC atende a uma série de normas e certificações, incluindo:
 
-ISO 27001: Esta norma internacional de segurança da informação fornece um conjunto de requisitos para gerenciar os riscos de segurança da informação.
-HIPAA: Esta lei dos Estados Unidos exige que os fornecedores de saúde atendam a certos requisitos de segurança da informação para proteger os dados de saúde dos pacientes.
-SOC 2: Esta norma fornece um conjunto de requisitos para gerenciar os controles internos de uma organização.
+- ISO 27001: Esta norma internacional de segurança da informação fornece um conjunto de requisitos para gerenciar os riscos de segurança da informação.
+- HIPAA: Esta lei dos Estados Unidos exige que os fornecedores de saúde atendam a certos requisitos de segurança da informação para proteger os dados de saúde dos pacientes.
+- SOC 2: Esta norma fornece um conjunto de requisitos para gerenciar os controles internos de uma organização.
 Validação de resultados: O Google Cloud trabalha com uma série de organizações para validar seus resultados, incluindo:
 Governança; Soluções EcoHold validadas por
-NIST: O Instituto Nacional de Padrões e Tecnologia (NIST) é uma agência do governo dos Estados Unidos que desenvolve padrões e diretrizes para segurança da informação.
-CSA: A Comissão de Autoridades de Segurança (CSA) é uma associação internacional de organizações que trabalham para promover a segurança da informação.
-ISACA: A Associação Internacional de Auditores de Sistemas de Informação (ISACA) é uma associação profissional que promove a excelência em auditoria, governança e gerenciamento de riscos.
-ISO 50001
-UPTimeInstitute
-Open Compute
+- NIST: O Instituto Nacional de Padrões e Tecnologia (NIST) é uma agência do governo dos Estados Unidos que desenvolve padrões e diretrizes para segurança da informação.
+- CSA: A Comissão de Autoridades de Segurança (CSA) é uma associação internacional de organizações que trabalham para promover a segurança da informação.
+- ISACA: A Associação Internacional de Auditores de Sistemas de Informação (ISACA) é uma associação profissional que promove a excelência em auditoria, governança e gerenciamento de riscos.
+- ISO 50001
+- UPTimeInstitute
+- Open Compute
+
+**Time de desenvolvimento**
+
+O time de desenvolvimento é responsável por desenvolver e manter o software do projeto. O time é composto por engenheiros de software, engenheiros de hardware, engenheiros de qualidade e gerentes de projeto.
+
+Nomes dos times regionais
+
+**América do Norte:**
+- Estados Unidos
+Equipe de desenvolvimento de software
+Equipe de desenvolvimento de hardware
+Equipe de qualidade
+Equipe de gerenciamento de projeto
+- Canadá
+Equipe de desenvolvimento de software
+Equipe de desenvolvimento de hardware
+Equipe de qualidade
+Equipe de gerenciamento de projeto
+
+**Europa:**
+- Reino Unido
+Equipe de desenvolvimento de software
+Equipe de desenvolvimento de hardware
+Equipe de qualidade
+Equipe de gerenciamento de projeto
+- Alemanha
+Equipe de desenvolvimento de software
+Equipe de desenvolvimento de hardware
+Equipe de qualidade
+Equipe de gerenciamento de projeto
+- França
+Equipe de desenvolvimento de software
+Equipe de desenvolvimento de hardware
+Equipe de qualidade
+Equipe de gerenciamento de projeto
+
+**Ásia:**
+- China
+Equipe de desenvolvimento de software
+Equipe de desenvolvimento de hardware
+Equipe de qualidade
+Equipe de gerenciamento de projeto
+- Japão
+Equipe de desenvolvimento de software
+Equipe de desenvolvimento de hardware
+Equipe de qualidade
+Equipe de gerenciamento de projeto
+- Coreia do Sul
+Equipe de desenvolvimento de software
+Equipe de desenvolvimento de hardware
+Equipe de qualidade
+Equipe de gerenciamento de projeto
+
+**América Latina:**
+- Brasil
+Equipe de desenvolvimento de software
+Equipe de desenvolvimento de hardware
+Equipe de qualidade
+Equipe de gerenciamento de projeto
+- México
+Equipe de desenvolvimento de software
+Equipe de desenvolvimento de hardware
+Equipe de qualidade
+Equipe de gerenciamento de projeto
+- Argentina
+Equipe de desenvolvimento de software
+Equipe de desenvolvimento de hardware
+Equipe de qualidade
+Equipe de gerenciamento de projeto
+- Chile
+Equipe de desenvolvimento de software
+Equipe de desenvolvimento de hardware
+Equipe de qualidade
+Equipe de gerenciamento de projeto
+
+**Oriente Médio:**
+- Israel
+Equipe de desenvolvimento de software
+Equipe de desenvolvimento de hardware
+Equipe de qualidade
+Equipe de gerenciamento de projeto
+- Arábia Saudita
+Equipe de desenvolvimento de software
+Equipe de desenvolvimento de hardware
+Equipe de qualidade
+Equipe de gerenciamento de projeto
+- Emirados Árabes Unidos
+Equipe de desenvolvimento de software
+Equipe de desenvolvimento de hardware
+Equipe de qualidade
+Equipe de gerenciamento de projeto
+
+**África:**
+- Nigéria
+Equipe de desenvolvimento de software
+Equipe de desenvolvimento de hardware
+Equipe de qualidade
+Equipe de gerenciamento de projeto
+- África do Sul
+Equipe de desenvolvimento de software
+Equipe de desenvolvimento de hardware
+Equipe de qualidade
+Equipe de gerenciamento de projeto
+- Egito
+Equipe de desenvolvimento de software
+Equipe de desenvolvimento de hardware
+Equipe de qualidade
+Equipe de gerenciamento de projeto
+- Angola
+Equipe de desenvolvimento de software
+Equipe de desenvolvimento de hardware
+Equipe de qualidade
+Equipe de gerenciamento de projeto
+
+
+O time de desenvolvimento do Oriente Médio e África é responsável por desenvolver e manter o software do projeto em suas regiões. Os times regionais trabalham em estreita colaboração com o time central de desenvolvimento para garantir que o software esteja de acordo com os padrões da empresa.
+
+**Experiência**
+
+Os membros do time têm experiência variando de 2 a 10 anos no desenvolvimento de software. Eles têm experiência em uma variedade de tecnologias, incluindo Java, Python, C++, C#, JavaScript, React, Angular, Node.js, AWS, Azure e GCP.
+
+**Certificações**
+
+Os membros do time têm uma variedade de certificações, incluindo:
+
+**Cloud Provider	Certification	Description**
+- Google Cloud Platform	Google Cloud Certified Professional Cloud Architect	Demonstrates the ability to design, build, and manage scalable, reliable, and secure cloud-based solutions that leverage Google Cloud Platform products and services.
+- Amazon Web Services	AWS Certified Solutions Architect - Associate	Demonstrates the ability to design and deploy highly scalable, cost-effective, and reliable distributed computing solutions on AWS.
+- Microsoft Azure	Microsoft Certified Azure Solutions Architect Expert	Demonstrates the ability to design and implement complex cloud-based solutions using Microsoft Azure services.
+- Tencent Cloud	Tencent Cloud Certified - Cloud Architect	Demonstrates the ability to design, build, and operate scalable, reliable, and secure cloud-based solutions using Tencent Cloud services.
+- Huawei Cloud	Huawei Certified - Cloud Architect	Demonstrates the ability to design, build, and operate scalable, reliable, and secure cloud-based solutions using Huawei Cloud services.
+- IBM Cloud	IBM Certified Cloud Architect - Associate	Demonstrates the ability to design and implement cloud-based solutions using IBM Cloud services.
+- Oracle Cloud	Oracle Certified Cloud Infrastructure Architect Associate	Demonstrates the ability to design, implement, and manage cloud-based solutions using Oracle Cloud Infrastructure services.
+- Alibaba Cloud	Alibaba Cloud Certified - Cloud Architect	Demonstrates the ability to design, build, and operate scalable, reliable, and secure cloud-based solutions using Alibaba Cloud services.
+- ISO 50001:2018	Sistema de Gerenciamento de Energia	Um padrão internacional que especifica os requisitos para um sistema de gerenciamento de energia (EnMS) que ajuda as organizações a melhorar seu desempenho energético.
+- Uptime Institute Tier Certifications	
+. Accredited Tier Designer	Demonstrates the ability to design data centers that meet the Uptime Institute Tier Standard.
+. Accredited Operations Specialist	Demonstrates the ability to operate data centers that meet the Uptime Institute Tier Standard.
+. Accredited Tier Specialist	Demonstrates the ability to assess and improve the availability of data centers.
+. Accredited Sustainability Advisor	Demonstrates the ability to assess and improve the sustainability of data centers.
+. Accredited Tier Professional	Demonstrates the ability to design, operate, and assess the availability and sustainability of data centers.
+. Accredited Operations Professional	Demonstrates the ability to operate and assess the availability and sustainability of data centers.
+
+**Remuneração**
+
+Os membros do time recebem uma remuneração competitiva, de acordo com suas habilidades e experiência. Eles também recebem participação nos lucros da empresa.
+
+- StoKOption
+
+Os membros do time recebem participação nos lucros da empresa por meio de um plano de opções de ações restritas. Este plano permite que os membros do time se tornem acionistas da empresa e se beneficiem de seu sucesso.
+
+- Correlação das entregas dos projetos e o time completo
+
+O time de desenvolvimento é responsável por entregar todos os projetos do cronograma. O time trabalha em estreita colaboração com os outros times da empresa para garantir que os projetos sejam bem-sucedidos.
+
+- Time regional de desenvolvimento
+
+Cada time regional de desenvolvimento é responsável por desenvolver e manter o software do projeto em sua região. Os times regionais trabalham em estreita colaboração com o time central de desenvolvimento para garantir que o software esteja de acordo com os padrões da empresa.
+
+- Agendas de trabalho e rodízio
+
+O time de desenvolvimento trabalha em uma variedade de turnos, para garantir que o software esteja disponível 24 horas por dia, 7 dias por semana, 365 dias por ano. Os times regionais trabalham em turnos que correspondem aos fusos horários de suas regiões.
+
+- Representante das big cloud
+
+Em cada projeto, há pelo menos um representante das big cloud (Google, AWS, Azure, Tecent, Huawey, IBM, Oracle, Alibaba ). Os representantes das big cloud trabalham com o time de desenvolvimento para garantir que o software seja desenvolvido de acordo com os padrões das big cloud.
