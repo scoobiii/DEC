@@ -468,5 +468,6 @@ Together, EcoHold and its subsidiaries offer a wide array of sustainable solutio
 
 Thank you very much for your attention and support. Let's make energy efficiency a reality!
 
-Best regards,
-Zeh Sobrinho, EcoHold Co-Criador
+Best regards
+
+Zeh Sobrinho | EcoHold | Co-Criador
