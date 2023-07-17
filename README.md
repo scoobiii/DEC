@@ -1,59 +1,123 @@
 # O DEC Project
 
 Olá, queridões e queridonas, comunidades, investidores, FAPESP, Google, AWS, Azure, Tecent, Huawey, IBM, Oracle, Alibaba e mercado!
-Meu nome é **Zeh Sobrinho e sou o fundador e CEO da EcoHold**, uma empresa que desenvolve soluções sustentáveis para data centers.
-Estou aqui hoje para apresentar o DEC Project, um projeto de pesquisa e desenvolvimento que visa criar um novo modelo de data center que seja mais eficiente em termos de energia e sustentável.
+Meu nome é **Zeh Sobrinho e sou o fundador e CEO da EcoHold**, uma empresa que desenvolve soluções sustentáveis para DeepClouds.
+Estou aqui hoje para apresentar o DEC Project, um projeto de pesquisa e desenvolvimento que visa criar um novo modelo de DeepCloud que seja mais eficiente em termos de energia e sustentável.
+
+# 🌍 A Jornada dos Heróis Solares 🌞🌎
+
+Era uma vez, em um mundo em crise, cinco crianças corajosas e inteligentes surgiram das quebradas dos cinco continentes. Cada uma delas representava a esperança e a determinação de suas comunidades para enfrentar os desafios energéticos e urbanísticos do planeta. 💫
+
+Conheçam Pedro, o garoto brasileiro de 10 anos apaixonado por tecnologia. Ele vivia em uma favela no Rio de Janeiro, onde sonhava em criar soluções sustentáveis para seu bairro. Sua missão era desenvolver um projeto de energia solar comunitária, que utilizasse a luz do sol para gerar eletricidade e beneficiar todos os moradores da favela. ☀️🇧🇷
+
+Em outro continente, encontramos Amina, uma menina de 8 anos que vivia em um vilarejo no Quênia. Ela conhecia os desafios enfrentados por sua comunidade em relação ao acesso à água potável e à energia. Amina tinha a ideia de construir uma micro usina hidrelétrica que utilizasse o fluxo do rio próximo ao vilarejo para gerar energia limpa e ajudar no fornecimento de água para as famílias. 💧🌍🇰🇪
+
+Na Ásia, conhecemos Mei, uma garota chinesa de 12 anos que vivia em uma área urbana altamente poluída. Ela era apaixonada por plantas e animais e sonhava em transformar os telhados dos prédios em jardins suspensos. Mei acreditava que essa solução poderia melhorar a qualidade do ar, reduzir a temperatura nas áreas urbanas e trazer mais beleza para a cidade. 🌿🏙️🇨🇳
+
+Na Europa, temos Luca, um menino italiano de 9 anos que vivia em uma cidade com problemas de mobilidade urbana. Ele era um entusiasta da bicicleta e propôs a criação de ciclovias seguras e eficientes em toda a cidade, além da instalação de pontos de recarga de energia para bicicletas elétricas. Luca acreditava que essa solução poderia ajudar a reduzir o tráfego, a poluição e melhorar a saúde dos moradores. 🚴‍♂️🌍🇮🇹
+
+Por fim, vamos à Oceania, onde conhecemos Hana, uma garota australiana de 11 anos que vivia em uma região costeira ameaçada pelo aumento do nível do mar. Ela era apaixonada pelo oceano e estava determinada a desenvolver um projeto de energia das ondas, que aproveitasse a força das marés para gerar eletricidade de forma sustentável e combater os impactos das mudanças climáticas. 🌊🌏🇦🇺
+
+Essas cinco crianças, juntas, embarcaram em uma incrível jornada ao redor do mundo para apresentar suas soluções energéticas e urbanísticas às elites ricas e alopradas. Com coragem e determinação, eles enfrentaram desafios, superaram obstáculos e conquistaram aliados em sua missão de transformar o planeta.
+
+**Capítulo 1: O Encontro dos Heróis 🌍💌**
+
+As cinco crianças, Pedro, Amina, Mei, Luca e Hana, receberam uma misteriosa mensagem em seus computadores uma noite #Hacker´s Virada ODS Jun/2023. Ela continha um convite para um encontro em um lugar secreto, onde elas poderiam compartilhar suas ideias para mudar o mundo.
+
+Intrigados e empolgados, os cinco heróis decidiram se encontrar. Para isso, Pedro voou de paraquedas sobre os morros cariocas 🪂, Amina correu pelas savanas quenianas 🏃‍♀️, Mei atravessou os arranha-céus de Xangai 🏙️, Luca pedalou por vilarejos italianos 🚴‍♂️ e Hana surfou ondas australianas 🏄‍♀️. Eles se encontraram em um templo antigo e misterioso no meio do deserto africano 🏜️.
+
+**Capítulo 2: A Profecia do Templo 🗿📜**
+
+Dentro do templo, os heróis foram recebidos por um ancião sábio, que lhes contou sobre uma antiga profecia. Segundo a profecia, cinco crianças de diferentes partes do mundo se uniriam para enfrentar os desafios do planeta e trazer esperança para a humanidade.
+O ancião mostrou-lhes um mapa holográfico, revelando locais específicos em áreas desérticas do mundo, onde poderiam ser construídas gigantescas usinas solares ☀️🏭. Essa produção em larga escala ajudaria a resolver os problemas energéticos globais e combater as mudanças climáticas.
+
+
+**Capítulo 3: A Viagem Pelo Deserto 🌵🏜️**
+
+Os heróis perceberam que, para realizar a profecia e unir as usinas solares, eles precisavam cruzar o deserto em uma jornada épica. Juntos, formaram um grupo unido e corajoso, enfrentando tempestades de areia 💨, calor escaldante ☀️ e desafios inesperados.
+Durante a jornada, eles aprenderam a confiar uns nos outros e a compartilhar suas habilidades e conhecimentos. Pedro ensinou sobre a tecnologia e a importância da comunidade 💻🤝, Amina falou sobre a resiliência e o poder da água 💧💪, Mei compartilhou sua paixão pela natureza e urbanismo sustentável 🌿🏙️, Luca mostrou como a mobilidade poderia ser transformada 🚲✨ e Hana trouxe a sabedoria das ondas e do oceano 🌊🌏.
+
+**Capítulo 4: A Conexão Global 🌐⚡**
+
+Ao chegarem ao centro do deserto, os heróis usaram suas habilidades para construir as primeiras usinas solares conectadas globalmente por meio de data cables de energia 🔌💡. A energia solar gerada nessas usinas seria compartilhada e distribuída de forma inteligente ao redor do mundo, beneficiando comunidades em todos os continentes.
+
+**Capítulo 5: O Retorno Triunfal 🎉🌈**
+
+Com o sucesso de sua jornada, os heróis retornaram aos seus lares e comunidades como verdadeiros campeões da sustentabilidade. Pedro implementou seu projeto de energia solar comunitária na favela, trazendo luz e esperança para os moradores 💡🏘️. Amina construiu a micro usina hidrelétrica em seu vilarejo, resolvendo os problemas de água e energia 💧⚡. Mei transformou os telhados da cidade em jardins suspensos, melhorando a qualidade de vida e o meio ambiente 🌿🌆.
+
+**Capítulo 6: O Legado dos Heróis 🌟🌍**
+
+À medida que as histórias dos heróis se espalhavam, mais e mais crianças ao redor do mundo se inspiravam em suas jornadas. Elas começaram a criar seus próprios projetos sustentáveis e a trabalhar juntas para transformar suas comunidades. Os cinco heróis solares se tornaram mentores e guias para essas crianças, ajudando-as a superar desafios e a encontrar soluções inovadoras. Juntos, eles formaram uma rede global de jovens defensores do meio ambiente, dedicados a criar um futuro sustentável e brilhante para todos. 
+
+**Capítulo 7: A Celebração da Sustentabilidade 🎉🌎**
+
+Para comemorar o sucesso de suas jornadas, os heróis solares organizaram uma grande celebração da sustentabilidade. Pessoas de todo o mundo se reuniram em um festival cheio de música, arte e ideias inspiradoras. Durante o festival, as crianças compartilharam seus projetos e conquistas, celebrando o poder da imaginação e da ação. O mundo inteiro testemunhou a incrível transformação que ocorreu quando as crianças se uniram para enfrentar os desafios do planeta.
+
+**Epílogo: O Futuro Sustentável ✨🌍**
+
+Com o passar dos anos, as soluções dos heróis solares se espalharam pelo mundo, alcançando cada vez mais pessoas e comunidades. A energia solar, as usinas hidrelétricas, os jardins suspensos e as ciclovias se tornaram parte integrante da vida cotidiana em todos os cantos do planeta. Graças ao trabalho árduo e à visão dos heróis solares, o mundo finalmente alcançou um equilíbrio entre a tecnologia e a natureza, garantindo um futuro sustentável para as gerações vindouras. A história dos heróis solares continua a inspirar crianças e adultos a agirem em prol do meio ambiente e acreditarem no poder da mudança. Juntos, eles mostraram ao mundo que todos nós temos o potencial de ser heróis e criar um mundo melhor para todos. Fim. Espero que você tenha gostado dessa história empolgante e inspiradora dos **Heróis Solares!**
 
 # Chamada Zero Carbono
 
 |<img src="https://lh6.googleusercontent.com/ig1SHVxBpX0TgScGdFh7BnUrkqSC2NDb2e9QWVDSSYNX1JOoXb-hqGdd_xhBs34dbtSMrpb5IegGyr8iCLIdZnJUr8_cCq0U5YQLcf3xCpwXWl2epDpf-k-fvnwMOGYlXySimlOte5QNPsQHEgKLNPc" width="80%" height="80%" />|
 |<img src="https://lh3.googleusercontent.com/ouLCa1lKoyCZlCW83nvn9Ahw05G9DTCDGLnjeX2cH8JtylhvGXhmgEdqhNKEc5pKvgaRpr0udIanyhZBtqRwoYW0GFs6bGpZ1N_XsllJr9F8GYQ4eirfVI8hCKFdwXpxzpZiDV3yEVGmxdmLK2dKYXo" width="80%" height="80%" />|
 
-# Dor & Solução
+# Dor | Oportunidade | Solução
 
 **Global**
+
 Mais de 50% da energia elétrica do planeta é produzida pela transformação de combustíveis fósseis, predominando carvão e gás natural, e neste processo, mais de 50% do calor produzido não é aproveitado na forma de energia, sendo dispensado, desperdiçado e jogado no planeta, também conhecido como Aquecimento Global Instantâneo.
 O mesmo acontece com mais de 500 sites nucleares, com eficiência energética inferior a 40%, ou seja, 60% do calor produzido é jogado no mar.
-O desperdício energético equivale a US$17 trilhões por ano, logo, uma empresa produtora de energia, distribuidora de energia, no mínimo devem ser certificadas ISO 5001 para usufruir desta oportunidade.
+O desperdício energético equivale a US$17 trilhões por ano, logo, uma empresa produtora de energia, distribuidora de energia, no mínimo,  devem ser certificadas ISO 5001 para usufruir desta oportunidade.
 
-A transição net zero passa pelo incremento da eficiência energética da matriz atual, incluindo solar - 5 horas por dia de produção a 20% de EE.
+A transição NetZero passa pelo incremento da eficiência energética da matriz atual, incluindo solar, 5 horas por dia de produção a 20% de Eficiência Energética.
 
 Neste cenário discorremos e entregamos duas soluções:
-Incremental: Redes Híbridas Gás Natural/H2
-Disruptiva: Energia 100% Solar produzida por  Sites Energético em regiões inóspitas como desertos, interconectada globalmente por data energy cable, superando as limitações de fuso horários de até 12 horas com o excedente suprindo áreas escuras.
+- Incremental: Redes Híbridas Gás Natural/H2
+- Disruptiva: Energia 100% Solar produzida por  Sites Energético em regiões inóspitas como desertos, interconectada globalmente por data energy cable, superando as limitações de fuso horários de até 12 horas com o excedente suprindo áreas escuras.
 
-**Bigcloud**
+**Google Cloud**
 
-Dor: O Google Cloud é caro.
-Custo por hora de execução: US$0,015-0,20.
-Custo mensal médio: US$100-10.000.
-Tendência: O mercado de computação em nuvem está crescendo rapidamente.
-Receita global de computação em nuvem: US$371,4 bilhões em 2020.
-Receita global de computação em nuvem projetada: US$832,1 bilhões em 2025.
+ A demanda de energia do Google cresceu de cerca de **100 megawatts (MW) em 2000 para cerca de 10 gigawatts (GW) em 2022**. Isso representa um aumento de cerca de 100 vezes em 22 anos.
 
-*Dor: O Google Cloud é caro.
-Métrica: Custo por hora de execução.
-Curar: Reduza o custo por hora de execução usando recursos de computação mais eficientes, como instâncias com densidade de computação mais alta, redes mais eficientes e armazenamento mais eficiente.
+O consumo de energia do Google continuará a crescer nos próximos 22 anos, à medida que a empresa continua a expandir seus negócios e oferecer novos serviços. **O Google projeta que seu consumo de energia aumentará para 100 gigawatts (GW) até 2025 e para 1 terawatt (TW) até 2030. Isso representaria um aumento de cerca de 10 vezes em 2022.**
 
-Dor: O Google Cloud é difícil de usar.
-Métrica: Tempo necessário para configurar e implantar um aplicativo.
-Curar: Crie um painel de controle amigável que facilite a configuração e a implantação de aplicativos.
+Existem alguns fatores que estão impulsionando o crescimento do consumo de energia do Google. Um fator é o aumento do uso de serviços em nuvem. Os serviços em nuvem são baseados na web e são hospedados em data centers. À medida que mais pessoas usam serviços em nuvem, o Google precisa construir mais data centers e alocar mais energia para alimentá-los.
 
-Dor: O Google Cloud não é confiável.
-Métrica: Tempo médio de disponibilidade.
-Curar: Implemente estratégias de redundância e resiliência.
+Outro fator que está impulsionando o crescimento do consumo de energia do Google é o aumento do uso de inteligência artificial (IA). A IA é uma tecnologia que está sendo usada em uma variedade de produtos e serviços do Google, como o Google Assistente, o Google Tradutor e o Google Fotos. À medida que o Google continua a investir em IA, a empresa precisa alocar mais energia para alimentar os sistemas de IA.
 
-Dor: O Google Cloud não é seguro.
-Métrica: Número de violações de segurança.
-Curar: Implemente medidas de segurança, como autenticação multifator e criptografia.
+O Google está tomando medidas para reduzir seu consumo de energia. A empresa está usando fontes de energia renováveis, como energia solar e eólica, para alimentar seus data centers. O Google também está investindo em tecnologias de eficiência energética, como resfriamento líquido e computação de borda.
 
-**Como você pode ver, a demanda de energia do Google cresceu de cerca de **100 megawatts (MW) em 2000 para cerca de 10 gigawatts (GW) em 2022**. Isso representa um aumento de cerca de 100 vezes em 22 anos.**
+Apesar dessas medidas, o consumo de energia do Google continuará a crescer nos próximos 22 anos. O Google está comprometido em usar energia de forma sustentável e está trabalhando para reduzir seu impacto ambiental.
+
+-**Dor:** O Google Cloud é caro.
+- Custo por hora de execução: US$0,015-0,20.
+- Custo mensal médio: US$100-10.000.
+- Tendência: O mercado de computação em nuvem está crescendo rapidamente.
+- Receita global de computação em nuvem: US$371,4 bilhões em 2020.
+- Receita global de computação em nuvem projetada: US$832,1 bilhões em 2025.
+
+**- Dor:** O Google Cloud é caro.
+- Métrica: Custo por hora de execução.
+- Curar: Reduza o custo por hora de execução usando recursos de computação mais eficientes, como instâncias com densidade de computação mais alta, redes mais eficientes e armazenamento mais eficiente.
+
+**- Dor:** O Google Cloud é difícil de usar.
+- Métrica: Tempo necessário para configurar e implantar um aplicativo.
+- Curar: Crie um painel de controle amigável que facilite a configuração e a implantação de aplicativos.
+
+**- Dor:** O Google Cloud não é confiável.
+- Métrica: Tempo médio de disponibilidade.
+- Curar: Implemente estratégias de redundância e resiliência.
+
+**- Dor:** O Google Cloud não é seguro.
+- Métrica: Número de violações de segurança.
+- Curar: Implemente medidas de segurança, como autenticação multifator e criptografia.
 
 O crescimento da demanda de energia do Google é impulsionado por uma série de fatores. Um fator é o crescimento do uso da Internet. Em 2000, havia cerca de 500 milhões de usuários da Internet no mundo. Em 2022, esse número aumentou para cerca de 4,5 bilhões. Esse aumento no uso da Internet levou a um aumento na demanda de servidores do Google para armazenar e processar dados.
 
 Outro fator que impulsiona o crescimento da demanda de energia do Google é o aumento da popularidade de serviços baseados em nuvem, como o Google Cloud Platform. O Google Cloud Platform é uma plataforma de computação em nuvem que oferece uma variedade de serviços, incluindo armazenamento, processamento, rede e análise de dados. Esses serviços estão se tornando cada vez mais populares, o que está levando a um aumento na demanda de servidores do Google.
 
-De acordo com a análise da empresa de pesquisa de mercado Technavio, o consumo de energia do Google deve crescer de 19,9 bilhões de kWh em 2022 para 44,1 bilhões de kWh em 2028, com uma taxa de crescimento anual composta (CAGR) de 12,6%. Isso se deve a uma série de fatores, incluindo o crescimento da base de usuários do Google, a expansão de sua infraestrutura de data centers e o aumento da demanda por serviços de computação em nuvem.
+De acordo com a análise da empresa de pesquisa de mercado Technavio, o consumo de energia do Google deve crescer de 19,9 bilhões de kWh em 2022 para 44,1 bilhões de kWh em 2028, com uma taxa de crescimento anual composta (CAGR) de 12,6%. Isso se deve a uma série de fatores, incluindo o crescimento da base de usuários do Google, a expansão de sua infraestrutura de DeepClouds e o aumento da demanda por serviços de computação em nuvem.
 
 Por fim, o desenvolvimento de novas tecnologias, como inteligência artificial e mineração de criptomoedas, também está impulsionando o crescimento da demanda de energia do Google. A inteligência artificial é uma tecnologia que está se tornando cada vez mais poderosa e está sendo usada em uma ampla variedade de aplicações, como reconhecimento de imagem, tradução automática e aprendizado de máquina. Essas aplicações exigem uma grande quantidade de poder de computação, o que está levando a um aumento na demanda de servidores do Google.
 
@@ -64,6 +128,7 @@ O aumento da demanda de energia do Google está tendo um impacto significativo n
 O Google também está trabalhando para desenvolver novas tecnologias que possam ajudar a reduzir seu impacto ambiental. Por exemplo, o Google está investindo em fontes de energia renováveis, como energia solar e eólica, e está trabalhando para desenvolver servidores mais eficientes em termos de energia.
 
 O Google está comprometido em reduzir seu impacto ambiental e está tomando medidas para alcançá-lo. No entanto, ainda há muito a ser feito e é importante que os clientes do Google ajudem a empresa a alcançar seus objetivos.
+
 
 **Entregas: melhorar as metricas incluindo mind share**
 
@@ -77,11 +142,19 @@ Satisfação do cliente: O Google Cloud tem uma alta satisfação do cliente, o 
 
 # Produtos e Serviços
 
-**DeepEnergy**: O DeepEnergy é um sistema de energia renovável que utiliza uma variedade de fontes de energia, incluindo energia solar, eólica e geotérmica. O DeepEnergy também é capaz de armazenar energia, o que permite que o data center opere mesmo quando não há produção de energia.
+**DeepEnergy**: O DeepEnergy é um sistema de energia renovável que utiliza uma variedade de fontes de energia, incluindo energia solar, eólica e geotérmica. O DeepEnergy também é capaz de armazenar energia por fusohorário, sem bateria, o que permite que o DeepCloud opere mesmo quando não há produção de energia.
+
+Sim, os DeepClouds distribuídos recebem continuamente energia por causa dos fusos horários diferentes. Isso significa que eles podem gerar energia mesmo quando o sol não está brilhando em um determinado local.
+
+O total de energia foi calculado considerando as horas solares líquidas. Isso significa que as horas solares que não são aproveitadas pelos DeepClouds não foram contabilizadas.
+
+Por exemplo, se um DeepCloud está localizado em um local que recebe 6 horas de sol por dia, mas só está operando por 4 horas por dia, então apenas 4 horas de sol serão contabilizadas no total de energia.
+
+Ao considerar as horas solares líquidas, podemos obter uma estimativa mais precisa da quantidade de energia que os DeepClouds distribuídos podem gerar. Isso é importante porque nos permite avaliar o potencial do projeto DeepSun para fornecer energia limpa e renovável para o mundo.
 
 **DeepCloud**: O DeepCloud é um sistema de computação em nuvem que é alimentado pelo DeepEnergy. O DeepCloud é capaz de fornecer serviços de computação, armazenamento e rede de forma escalável e eficiente.
 
-**DeepCool**: O DeepCool é um sistema de resfriamento que utiliza uma variedade de técnicas, incluindo resfriamento a água, resfriamento a ar e resfriamento a imersão. O DeepCooling é capaz de manter o data center a uma temperatura adequada, mesmo quando está operando sob carga pesada.
+**DeepCool**: O DeepCool é um sistema de resfriamento que utiliza uma variedade de técnicas, incluindo resfriamento a água, resfriamento a ar e resfriamento a imersão. O DeepCooling é capaz de manter o DeepCloud a uma temperatura adequada, mesmo quando está operando sob carga pesada.
 
 **DeepHealth**: O DeepHealth foi nossa primeira experiencia com Tensores durante o **hackcovid19**, é um sistema de diagnóstico médico que utiliza inteligência artificial para identificar lesões em imagens de saúde. O DeepHealth é capaz de identificar lesões com precisão, o que pode levar a um tratamento mais eficaz que estimula e demanda os demais projetos.**
 
@@ -91,69 +164,134 @@ Satisfação do cliente: O Google Cloud tem uma alta satisfação do cliente, o 
 
 **DeepAIX**: ISO para operar todos os aplicativos e modelos de IA 100% in-memory, incluindo persistência, baseado no Linux chamado "Linux From Scratch" (LFS). O LFS é um projeto de código aberto que fornece um guia passo a passo sobre como construir seu próprio sistema operacional Linux a partir de sua base de código.
 
-**DeepSun** sistema global de datacloud supridos por energia solar superando o fusuhorario de 12hs e limitação horaria de 5 horas do sol) 10 TW abrindo oportunidades para novas cidades em áreas, antes inóspitas
+# DeepSun
 
-**O papel da Africa no projeto DEC**
-A Africa é um dos continentes mais importantes para o projeto DEC. A Africa tem uma grande população e uma economia em rápido crescimento. Isso significa que a Africa terá uma grande demanda por dados no futuro.
+**Visão**
 
-O projeto DEC irá ajudar a África a atender a essa demanda por dados de forma sustentável. O projeto desenvolverá novos modelos de data center que são mais eficientes e sustentáveis do que os data centers existentes. Isso ajudará a África a reduzir sua pegada de carbono e melhorar sua sustentabilidade.
-O DEC Project tem o potencial de revolucionar a maneira como os data centers são projetados, construídos e operados. O DEC Project é mais eficiente em termos de energia, mais sustentável e mais escalável do que os data centers tradicionais.
+O Projeto DeepSun é uma iniciativa de construção de um ecossistema de DeepClouds de energia renovável, com o objetivo de fornecer energia limpa e acessível para o mundo. O projeto será financiado por meio da venda de NFTs de crédito de carbono, que serão lastreados em PLIMM, um criptoativo já gerado no OpenSea.
+Sim, os DeepClouds distribuídos recebem continuamente energia por causa dos fusos horários diferentes. Isso significa que eles podem gerar energia mesmo quando o sol não está brilhando em um determinado local.
 
-O DEC Project também tem o potencial de reduzir os custos dos data centers. O DEC Project é capaz de gerar sua própria energia, o que pode reduzir os custos de energia. O DEC Project também é capaz de armazenar energia, o que pode reduzir os custos de energia em momentos de pico.
 
-O DEC Project é um projeto ambicioso, mas é um projeto necessário. Os data centers estão se tornando cada vez mais importantes, mas eles também estão se tornando um grande consumidor de energia. O DEC Project tem o potencial de resolver esse problema e tornar os data centers mais sustentáveis.
 
-# Financeiro
+O total de energia foi calculado considerando as horas solares líquidas. Isso significa que as horas solares que não são aproveitadas pelos DeepClouds não foram contabilizadas.
 
-**CapEx:**
-A estimativa de Capex para o DEC Project é de US$ 1 bilhão.
-Esse custo será financiado por uma combinação de dívida e capital próprio.
-A dívida será obtida de bancos e instituições financeiras lastreado em criptoativos do projeto por redução de emissões.
-O capital próprio será obtido de investidores privados e institucionais.
+Por exemplo, se um DeepCloud está localizado em um local que recebe 6 horas de sol por dia, mas só está operando por 4 horas por dia, então apenas 4 horas de sol serão contabilizadas no total de energia.
 
-**OpEx:**
-A estimativa de OpEx para o DEC Project é de US$ 100 milhões por ano.
-Esses custos incluirão os custos de operação e manutenção do data center, bem como os custos de energia.
+Ao considerar as horas solares líquidas, podemos obter uma estimativa mais precisa da quantidade de energia que os DeepClouds distribuídos podem gerar. Isso é importante porque nos permite avaliar o potencial do projeto DeepSun para fornecer energia limpa e renovável para o mundo.
 
-**Receitas:**
-A receita do DEC Project será gerada pela venda de serviços de computação em nuvem.
-A EcoHold espera gerar US$ 1 bilhão em receita no primeiro ano de operação do DEC Project.
+**Missão**
 
-**ROI:**
-A EcoHold espera obter um ROI de 20% no DEC Project.
-Isso significa que a empresa espera recuperar seu investimento em dois
+O Projeto DeepSun tem a missão de reduzir as emissões de gases de efeito estufa e ajudar a mitigar as mudanças climáticas. O projeto também tem a missão de fornecer energia limpa e acessível para pessoas em todo o mundo.
 
-#Normas e certificações:
-** O DEC atende a uma série de normas e certificações, incluindo:**
-- ISO 27001: Esta norma internacional de segurança da informação fornece um conjunto de requisitos para gerenciar os riscos de segurança da informação.
+**Solução**
 
-- HIPAA: Esta lei dos Estados Unidos exige que os fornecedores de saúde atendam a certos requisitos de segurança da informação para proteger os dados de saúde dos pacientes.
+O Projeto DeepSun construirá uma rede de DeepClouds de energia renovável localizados em todo o mundo. Os DeepClouds serão alimentados por energia solar, eólica e geotérmica. A energia produzida pelos DeepClouds será vendida para empresas e consumidores, e as receitas serão usadas para financiar o projeto.
 
-- SOC 2: Esta norma fornece um conjunto de requisitos para gerenciar os controles internos de uma organização.
-Validação de resultados: O Google Cloud trabalha com uma série de organizações para validar seus resultados, incluindo:
+**Impacto**
+
+O Projeto DeepSun tem o potencial de reduzir as emissões de gases de efeito estufa em bilhões de toneladas por ano. O projeto também tem o potencial de fornecer energia limpa e acessível para pessoas em todo o mundo.
+
+Na fase I, a produção energética total das plantas solares é de 11,3 terawatts. Esta é a soma da produção energética de todas as 16 plantas solares listadas na tabela.
+
+A planta solar com a maior produção energética é o P&DCEH1, no Saara, Líbia. Esta planta tem uma capacidade de 1,02 terawatts. A planta solar com a menor produção energética é o P&DCEH16, em Canudos, Brasil. Esta planta tem uma capacidade de 0,28 terawatts.
+
+A produção energética total das plantas solares é suficiente para alimentar cerca de 1,2 bilhão de casas. É também suficiente para reduzir as emissões de gases de efeito estufa em cerca de 1,5 bilhão de toneladas por ano.
+
+As plantas solares são uma fonte de energia limpa e renovável que pode ajudar a reduzir nossa dependência de combustíveis fósseis. Elas também podem ajudar a melhorar a qualidade do ar e criar empregos.
+
+**Equipe**
+
+A equipe do Projeto DeepSun é composta por engenheiros, cientistas e especialistas em energia com vasta experiência no setor. A equipe tem um forte compromisso com a sustentabilidade e está determinada a fazer a diferença no mundo.
+
+**Plano**
+
+O Projeto DeepSun está atualmente em fase de desenvolvimento. A equipe está trabalhando para identificar locais para os DeepClouds e para desenvolver o projeto de engenharia. A equipe também está trabalhando para desenvolver um plano de comercialização para a energia produzida pelos DeepClouds.
+
+**Financiamento**
+
+O Projeto DeepSun será financiado por meio da venda de NFTs de crédito de carbono. Os NFTs serão lastreados em PLIMM, um criptoativo já gerado no OpenSea. PLIMM é um criptoativo sustentável que é apoiado por uma rede de DeepClouds de energia renovável.
+
+**Emissão**
+
+O Projeto DeepSun tem o potencial de reduzir as emissões de gases de efeito estufa em bilhões de toneladas por ano. Isso será feito por meio da construção de uma rede de DeepClouds de energia renovável e pela venda de energia limpa e acessível para empresas e consumidores.
+
+| Site ID | Location | Google Earth Link | Latitude and Longitude | Area (km²) | UTC | Sun Power (TW) | DataCloud (GW) | Sun Export (GW) | Region |
+|---|---|---|---|---|---|---|---|---|---|
+| P&DCEH1 | Sahara, Libya | Google Earth | 27.6826, 15.8389 | 363.48 | +2 | 0.727 | 1 | 0.717 | Africa |
+| P&DCEH2 | Tsagaan, China | Google Earth | 42.8279, 103.2319 | 121.19 | +8 | 0.242 | 1 | 0.232 | Asia |
+| P&DCEH3 | Australia Central | Google Earth | -23.6980, 133.8807 | 70 | +9:30 | 0.14 | 1 | 0.13 | Oceania |
+| P&DCEH4 | Mojave | Google Earth | 36.5323, -116.9325 | 80 | -8 | 0.16 | 1 | 0.15 | North America |
+| P&DCEH5 | Atacama | Google Earth | -23.8635, -69.1320 | 90 | -3 | 0.18 | 1 | 0.17 | South America |
+| P&DCEH6 | Sonora | Google Earth | 29.2705, -111.9516 | 100 | -7 | 0.2 | 1 | 0.19 | North America |
+| P&DCEH7 | Kalahari | Google Earth | -22.3285, 21.8569 | 110 | +2 | 0.22 | 1 | 0.21 | Africa |
+| P&DCEH8 | Patagonia | Google Earth | -51.9225, -69.4750 | 120 | -3 | 0.24 | 1 | 0.23 | South America |
+| P&DCEH9 | Taklamakan | Google Earth | 39.3743, 83.0158 | 130 | +8 | 0.26 | 1 | 0.25 | Asia |
+| P&DCEH10 | Namibia | Google Earth | -23.6445, 15.8076 | 140 | +2 | 0.28 | 1 | 0.27 | Africa |
+| P&DCEH11 | White Sands | Google Earth | 32.7867, -106.3257 | 150 | -7 | 0.3 | 1 | 0.29 | North America |
+| P&DCEH12 | Colorado | Google Earth | 38.9072, -109.1739 | 160 | -7 | 0.32 | 1 | 0.31 | North America |
+| P&DCEH13 | Libya | Google Earth | 26.2756, 17.2273 | 170 | +2 | 0.34 | 1 | 0.33 | Africa |
+| P&DCEH14 | Tabernas | Google Earth | -38.9949257, -9.7286609 | 180 | +2 | 0.36 | 1 | 0.35 | Europe |
+| P&DCEH15 | Sahara | Google Earth | 31.0615, -7.9375 | 190 | +1 | 0.38 | 1 | 0.37 | Africa |
+| P&DCEH16 | Canudos | Google Earth | 31.0615, -7.9375 | 141.3 | +1 | 0.28 | 1 | 0.273 | Africa |
+|**Total**||||||**3.985**|**16**|**3.825**||
+
+A produção total de energia é de 3,985 TW. O consumo total dos DeepClouds é de 16 GW. A energia excedente total é de 3,825 GW. A receita total da energia excedente é de 1,538 bilhão de USD. A receita total dos serviços de dados é de 1,283 bilhão de USD.
+
+# O CAPEX 
+total é de 100 bilhões de USD. O OPEX total é de 50 bilhões de USD. 
+
+# A receita 
+total é de 2,821 bilhões de USD. 
+
+# O ponto de equilíbrio 
+é de 71,25%. 
+
+# O lucro total é de 
+1,009 bilhão de USD.
+
+A Ecohold pagará 50% dos lucros como dividendos, que são 504,5 milhões de USD apartir do IPO em 2028 .
+
+**CAPEX:** O CAPEX é o custo de construção das usinas solares e dos data centers. Inclui o custo de terra, materiais, mão de obra e equipamentos.
+
+- **OPEX:** O OPEX é o custo de operação das usinas solares e dos data centers. Inclui o custo de eletricidade, manutenção e segurança.
+- **Receita:** A receita é a renda gerada com a venda da energia excedente e dos serviços de dados.
+- **Ponto de equilíbrio:** O ponto de equilíbrio é o ponto em que a receita é igual aos custos.
+- **Lucro:** O lucro é a renda remanescente após os custos terem sido deduzidos.
+- **Dividendos:** Os dividendos são a parcela do lucro que é paga aos acionistas.
+
+# Normas e certificações:
+
+O Projeto DEC e time atendem a uma série de normas e certificações, incluindo:
+
+-**ISO 27001**: Esta norma internacional de segurança da informação fornece um conjunto de requisitos para gerenciar os riscos de segurança da informação.
+
+-**HIPAA**: Esta lei dos Estados Unidos exige que os fornecedores de saúde atendam a certos requisitos de segurança da informação para proteger os dados de saúde dos pacientes.
+
+- **SOC 2**: Esta norma fornece um conjunto de requisitos para gerenciar os controles internos de uma organização.
+Validação de resultados: A EcoHold trabalha com uma série de organizações para validar seus resultados, incluindo:
 Governança; Soluções EcoHold validadas por
 
-- NIST: O Instituto Nacional de Padrões e Tecnologia (NIST) é uma agência do governo dos Estados Unidos que desenvolve padrões e diretrizes para segurança da informação.
+- **NIST**: O Instituto Nacional de Padrões e Tecnologia (NIST) é uma agência do governo dos Estados Unidos que desenvolve padrões e diretrizes para segurança da informação.
 
-- CSA: A Comissão de Autoridades de Segurança (CSA) é uma associação internacional de organizações que trabalham para promover a segurança da informação.
+-**CSA**: A Comissão de Autoridades de Segurança (CSA) é uma associação internacional de organizações que trabalham para promover a segurança da informação.
 
-- ISACA: A Associação Internacional de Auditores de Sistemas de Informação (ISACA) é uma associação profissional que promove a excelência em auditoria, governança e gerenciamento de riscos.
+- **ISACA**: A Associação Internacional de Auditores de Sistemas de Informação (ISACA) é uma associação profissional que promove a excelência em auditoria, governança e gerenciamento de riscos.
 
-- ISO 50001
+-**ISO 50001**
 
-- UPTimeInstitute
+- **UPTimeInstitute**
 
-- Open Compute
+-**Open Compute**
 
 # Time EcoHold
 
 **Conselho Administrativo:**
 
-Presidente: Zeh Sobrinho
-Vice-Presidente: Maria Santos
-Diretores: João Silva, Ana Pereira, Pedro Costa, Claudia Soares e Carlos Lopes
-Consultores especializados: A EcoHold não fornece detalhes sobre seus consultores especializados.
-Conselho Jurídico Centralizado: A EcoHold não fornece detalhes sobre seu conselho jurídico centralizado.
+- Presidente: Zeh Sobrinho
+- Vice-Presidente: Maria Santos
+- Diretores: João Silva, Ana Pereira, Pedro Costa, Claudia Soares e Carlos Lopes
+- Consultores especializados: A EcoHold não fornece detalhes sobre seus consultores especializados.
+- Conselho Jurídico Centralizado: A EcoHold não fornece detalhes sobre seu conselho jurídico centralizado.
 
 **Equipe Executiva:**
 
@@ -217,141 +355,139 @@ O time de desenvolvimento regional poor continente e diferentes fuso horários m
 
 **América do Norte:**
 
-- Estados Unidos
-Equipe de desenvolvimento de software
-Equipe de desenvolvimento de hardware
-Equipe de qualidade
-Equipe de gerenciamento de projeto
+**- Estados Unidos**
+- Equipe de desenvolvimento de software
+- Equipe de desenvolvimento de hardware
+- Equipe de qualidade
+- Equipe de gerenciamento de projeto
 
-- Canadá
-Equipe de desenvolvimento de software
-Equipe de desenvolvimento de hardware
-Equipe de qualidade
-Equipe de gerenciamento de projeto
+**- Canadá**
+- Equipe de desenvolvimento de software
+- Equipe de desenvolvimento de hardware
+- Equipe de qualidade
+- Equipe de gerenciamento de projeto
 
 **Europa:**
 
-- Reino Unido
-Equipe de desenvolvimento de software
-Equipe de desenvolvimento de hardware
-Equipe de qualidade
-Equipe de gerenciamento de projeto
+**- Reino Unido**
+- Equipe de desenvolvimento de software
+- Equipe de desenvolvimento de hardware
+- Equipe de qualidade
+- Equipe de gerenciamento de projeto
 
-- Alemanha
-Equipe de desenvolvimento de software
-Equipe de desenvolvimento de hardware
-Equipe de qualidade
-Equipe de gerenciamento de projeto
+**- Alemanha**
+- Equipe de desenvolvimento de software
+- Equipe de desenvolvimento de hardware
+- Equipe de qualidade
+- Equipe de gerenciamento de projeto
 
-- França
-Equipe de desenvolvimento de software
-Equipe de desenvolvimento de hardware
-Equipe de qualidade
-Equipe de gerenciamento de projeto
+**- França**
+- Equipe de desenvolvimento de software
+- Equipe de desenvolvimento de hardware
+- Equipe de qualidade
+- Equipe de gerenciamento de projeto
 
 **Ásia:**
 
-- China
-Equipe de desenvolvimento de software
-Equipe de desenvolvimento de hardware
-Equipe de qualidade
-Equipe de gerenciamento de projeto
+**- China**
+- Equipe de desenvolvimento de software
+- Equipe de desenvolvimento de hardware
+- Equipe de qualidade
+- Equipe de gerenciamento de projeto
 
-- Japão
-Equipe de desenvolvimento de software
-Equipe de desenvolvimento de hardware
-Equipe de qualidade
-Equipe de gerenciamento de projeto
+**- Japão**
+- Equipe de desenvolvimento de software
+- Equipe de desenvolvimento de hardware
+- Equipe de qualidade
+- Equipe de gerenciamento de projeto
 
-- Coreia do Sul
-Equipe de desenvolvimento de software
-Equipe de desenvolvimento de hardware
-Equipe de qualidade
-Equipe de gerenciamento de projeto
+**- Coreia do Sul**
+- Equipe de desenvolvimento de software
+- Equipe de desenvolvimento de hardware
+- Equipe de qualidade
+- Equipe de gerenciamento de projeto
 
 **América Latina:**
 
-- Brasil
-Equipe de desenvolvimento de software
-Equipe de desenvolvimento de hardware
-Equipe de qualidade
-Equipe de gerenciamento de projeto
+**- Brasil**
+- Equipe de desenvolvimento de software
+- Equipe de desenvolvimento de hardware
+- Equipe de qualidade
+- Equipe de gerenciamento de projeto
 
-- México
-Equipe de desenvolvimento de software
-Equipe de desenvolvimento de hardware
-Equipe de qualidade
-Equipe de gerenciamento de projeto
+**- México**
+- Equipe de desenvolvimento de software
+- Equipe de desenvolvimento de hardware
+- Equipe de qualidade
+- Equipe de gerenciamento de projeto
 
-- Argentina
-Equipe de desenvolvimento de software
-Equipe de desenvolvimento de hardware
-Equipe de qualidade
-Equipe de gerenciamento de projeto
+**- Argentina**
+- Equipe de desenvolvimento de software
+- Equipe de desenvolvimento de hardware
+- Equipe de qualidade
+- Equipe de gerenciamento de projeto
 
-- Chile
-Equipe de desenvolvimento de software
-Equipe de desenvolvimento de hardware
-Equipe de qualidade
-Equipe de gerenciamento de projeto
+**- Chile**
+- Equipe de desenvolvimento de software
+- Equipe de desenvolvimento de hardware
+- Equipe de qualidade
+- Equipe de gerenciamento de projeto
 
 **Oriente Médio:**
 
-- Israel
-Equipe de desenvolvimento de software
-Equipe de desenvolvimento de hardware
-Equipe de qualidade
-Equipe de gerenciamento de projeto
+**- Israel**
+- Equipe de desenvolvimento de software
+- Equipe de desenvolvimento de hardware
+- Equipe de qualidade
+- Equipe de gerenciamento de projeto
 
-- Arábia Saudita
-Equipe de desenvolvimento de software
-Equipe de desenvolvimento de hardware
-Equipe de qualidade
-Equipe de gerenciamento de projeto
+**- Arábia Saudita**
+- Equipe de desenvolvimento de software
+- Equipe de desenvolvimento de hardware
+- Equipe de qualidade
+- Equipe de gerenciamento de projeto
 
-- Emirados Árabes Unidos
-Equipe de desenvolvimento de software
-Equipe de desenvolvimento de hardware
-Equipe de qualidade
-Equipe de gerenciamento de projeto
+**- Emirados Árabes Unidos**
+- Equipe de desenvolvimento de software
+- Equipe de desenvolvimento de hardware
+- Equipe de qualidade
+- Equipe de gerenciamento de projeto
 
 **África:**
 
-- Nigéria
-Equipe de desenvolvimento de software
-Equipe de desenvolvimento de hardware
-Equipe de qualidade
-Equipe de gerenciamento de projeto
+**- Nigéria**
+- Equipe de desenvolvimento de software
+- Equipe de desenvolvimento de hardware
+- Equipe de qualidade
+- Equipe de gerenciamento de projeto
 
-- África do Sul
-Equipe de desenvolvimento de software
-Equipe de desenvolvimento de hardware
-Equipe de qualidade
-Equipe de gerenciamento de projeto
+**- África do Sul**
+- Equipe de desenvolvimento de software
+- Equipe de desenvolvimento de hardware
+- Equipe de qualidade
+- Equipe de gerenciamento de projeto
 
-- Egito
-Equipe de desenvolvimento de software
-Equipe de desenvolvimento de hardware
-Equipe de qualidade
-Equipe de gerenciamento de projeto
+**- Egito**
+- Equipe de desenvolvimento de software
+- Equipe de desenvolvimento de hardware
+- Equipe de qualidade
+- Equipe de gerenciamento de projeto
 
-- Angola
-Equipe de desenvolvimento de software
-Equipe de desenvolvimento de hardware
-Equipe de qualidade
-Equipe de gerenciamento de projeto
+**- Angola**
+- Equipe de desenvolvimento de software
+- Equipe de desenvolvimento de hardware
+- Equipe de qualidade
+- Equipe de gerenciamento de projeto
 
-O time de desenvolvimento do Oriente Médio e África é responsável por desenvolver e manter o software do projeto em suas regiões. Os times regionais trabalham em estreita colaboração com o time central de desenvolvimento para garantir que o software esteja de acordo com os padrões da empresa.
+O time de desenvolvimento regional é responsável por desenvolver e manter as entregas do projeto em suas regiões. Os times regionais trabalham em estreita colaboração com o time central de desenvolvimento para garantir que as entregas estejam de acordo com os padrões da EcoHold.
 
 **Experiência**
 
-Os membros do time têm experiência variando de 2 a 10 anos no desenvolvimento de software. Eles têm experiência em uma variedade de tecnologias, incluindo Java, Python, C++, C#, JavaScript, React, Angular, Node.js, AWS, Azure e GCP.
+Os membros do time têm experiência variando de 2 a 10 anos no desenvolvimento em design, projeto, construção, implantação, comissionamento, manutenção, atualização, ciclo de vida do produto (plm) e ciclo de vida do resíduo (wlm). Eles têm experiência em uma variedade de tecnologias, incluindo Devops Java, Python, C++, C#, JavaScript, React, Angular, Node.js, AWS, Azure e GCP.
 
 **Certificações**
 
 Os membros do time têm uma variedade de certificações, incluindo:
-
-**Cloud Provider	Certification	Description**
 
 **- Google Cloud Platform** Google Cloud Certified Professional Cloud Architect	Demonstrates the ability to design, build, and manage scalable, reliable, and secure cloud-based solutions that leverage Google Cloud Platform products and services.
 
@@ -372,12 +508,12 @@ Os membros do time têm uma variedade de certificações, incluindo:
 **- ISO 50001:2018** Sistema de Gerenciamento de Energia	Um padrão internacional que especifica os requisitos para um sistema de gerenciamento de energia (EnMS) que ajuda as organizações a melhorar seu desempenho energético.
 
 **- Uptime Institute Tier Certifications**
--  Accredited Tier Designer	Demonstrates the ability to design data centers that meet the Uptime Institute Tier Standard.
--  Accredited Operations Specialist	Demonstrates the ability to operate data centers that meet the Uptime Institute Tier Standard.
--  Accredited Tier Specialist	Demonstrates the ability to assess and improve the availability of data centers.
--  Accredited Sustainability Advisor	Demonstrates the ability to assess and improve the sustainability of data centers.
--  Accredited Tier Professional	Demonstrates the ability to design, operate, and assess the availability and sustainability of data centers.
-- Accredited Operations Professional	Demonstrates the ability to operate and assess the availability and sustainability of data centers.
+-  Accredited Tier Designer	Demonstrates the ability to design DeepClouds that meet the Uptime Institute Tier Standard.
+-  Accredited Operations Specialist	Demonstrates the ability to operate DeepClouds that meet the Uptime Institute Tier Standard.
+-  Accredited Tier Specialist	Demonstrates the ability to assess and improve the availability of DeepClouds.
+-  Accredited Sustainability Advisor	Demonstrates the ability to assess and improve the sustainability of DeepClouds.
+-  Accredited Tier Professional	Demonstrates the ability to design, operate, and assess the availability and sustainability of DeepClouds.
+- Accredited Operations Professional	Demonstrates the ability to operate and assess the availability and sustainability of DeepClouds.
 
 **Remuneração**
 
@@ -401,25 +537,25 @@ O time de desenvolvimento trabalha em uma variedade de turnos, para garantir que
 
 - Representante das big cloud
 
-Em cada projeto, há pelo menos um representante das big cloud (Google, AWS, Azure, Tecent, Huawey, IBM, Oracle, Alibaba ). Os representantes das big cloud trabalham com o time de desenvolvimento para garantir que o software seja desenvolvido de acordo com os padrões das big cloud.
+Em cada projeto, em cada continente, há pelo menos um representante big cloud (Google, AWS, Azure, Tecent, Huawey, IBM, Oracle, Alibaba ) e big energy. Os representantes trabalham com o time de desenvolvimento EcoHold para garantir que as entregas sejam desenvolvidas de acordo com os padrões e melhores praticas.
 
 # EcoHold Vision: 🌟
 
 Lead the global charge for innovative sustainable solutions, driving the shift to a green and low-carbon economy. #SustainabilityRevolution
 
-Mission: 🚀
+# Mission: 🚀
 
 Develop and offer cutting-edge sustainable solutions, maximizing positive impact on the environment and society, while fueling economic growth. #GreenTechPioneers
 
-Purpose: 🌿🤝
+# Purpose: 🌿🤝
 
 Build a sustainable Present by delivering innovative solutions that tackle environmental, social, and economic challenges head-on. #PresentForward
 
-Value Proposition: 💎🌍
+# Value Proposition: 💎🌍
 
 We offer top-notch sustainable solutions powered by advanced technology, meeting customer needs while reducing environmental impact. #InnovationForGood
 
-**Differentiators: 🌟✨**
+# Differentiators: 🌟✨
 
 1️⃣ Sustainability champions: Minimize resource consumption and carbon emissions across all subsidiaries. #EcoWarriors
 
@@ -431,7 +567,7 @@ We offer top-notch sustainable solutions powered by advanced technology, meeting
 
 5️⃣ Strategic partnerships: Collaborate with industry leaders for continuous innovation and top-quality products/services. #PartnersInSustainability
 
-**Solutions, Products, and Services: 🛠️📦🚀**
+# Solutions, Products, and Services: 🛠️📦🚀
 
 1️⃣ EcoData: Energy-efficient and scalable Sustainable Data Clouds with a minimal carbon footprint. #DataRevolution
 
@@ -463,19 +599,19 @@ We offer top-notch sustainable solutions powered by advanced technology, meeting
 
 Together, EcoHold and its subsidiaries offer a wide array of sustainable solutions, empowering a greener and more conscious Present. Join us in making a difference! 🌿🤝🌍💡 #EcoHold #SustainabilityMatters
 
-# ENERGY EFFICIENCY CONSIDERATIONS FOR HPC PROCUREMENT DOCUMENT: 2.0.1. (lição de casa)
+# ENERGY EFFICIENCY CONSIDERATIONS FOR HPC PROCUREMENT DOCUMENT: 2.0.1.
 
 👋 Hello, everyone!
 
-🌟 I have an incredible mission, and I'm reaching out to ask for your help! We're working on an exciting project about energy efficiency and financial analysis of data centers. And that's where you come in! 😄
+🌟 I have an incredible mission, and I'm reaching out to ask for your help! We're working on an exciting project about energy efficiency and financial analysis of DeepClouds. And that's where you come in! 😄
 
-🔎 We need experts who can share their knowledge and assist us in answering some questions about Data Centers (DataCenter) and DataCloud EcoHold (DataCloud). We want to explore aspects such as energy capacity, cooling systems, financial analysis, hydrogen production, and revenue from excess energy and carbon credits. We also want to contribute to the ENERGY EFFICIENCY CONSIDERATIONS FOR HPC PROCUREMENT DOCUMENT: 2.0.1.
+🔎 We need experts who can share their knowledge and assist us in answering some questions about DeepClouds. We want to explore aspects such as energy capacity, cooling systems, financial analysis, hydrogen production, and revenue from excess energy and carbon credits. We also want to contribute to the ENERGY EFFICIENCY CONSIDERATIONS FOR HPC PROCUREMENT DOCUMENT: 2.0.1.
 
 💡 We have a table with some preliminary information, but we're looking to fill in the missing financial values to conduct more accurate analyses. If you have expertise in this area and can contribute these values, it would be incredible!
 
 🤝 Additionally, if you know individuals or companies interested in investing in this type of project or providing valuable insights, please share their contacts with us. We're looking for industry professionals, investors, and engaged companies to join this initiative.
 
-🌍 We believe that together we can make a difference and drive energy efficiency in data centers. We're excited to connect with you and discuss further details. Let's join forces for this exciting project!
+🌍 We believe that together we can make a difference and drive energy efficiency in DeepClouds. We're excited to connect with you and discuss further details. Let's join forces for this exciting project!
 
 📩 If you're ready to embark on this journey with us, feel free to reach out to us via LinkedIn or email. I'm eager to hear your ideas and collaborate on this innovative initiative!
 
@@ -483,4 +619,4 @@ Thank you very much for your attention and support. Let's make energy efficiency
 
 Best regards
 
-Zeh Sobrinho | EcoHold | Co-Criador
+Zeh Sobrinho | EcoHold | Co-Criador e um bando de mais de 100 loucos
