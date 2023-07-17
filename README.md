@@ -161,9 +161,10 @@ Ao considerar as horas solares líquidas, podemos obter uma estimativa mais prec
 
 **DeepPowerNGH2** Fazendas energéticas hibridas pordutoras de gas natural e h2, distribuidos por gasodutos hibridos 95/5%, chegando a 15/85% em 2030, integradas a NGH2DataCloud e DeepWind
 
-**DeepRegulamentação**: Ecossistema de regulamentar, Arsesp, estadual, PANCLIMA municipal paulista,  habilita gasodutos hibridos, Gas Natural e H2, 95/5% incialmente, atingindo 15/85% em 2030, supridos por Plataformas Maritimas integradas por Fazendas energéticas maritimas integradas a usinas de H2 com energia suprido por fazendas eólicas **DeepWind** marítimas que entregam o blend, Gas Natural e H2, através de gasodutos hibridos.
-Distribuição atende a costa e sobe a serra para surprir residenciais, comerciais e industriais, seja para cocção, aquecimento ou HPC com 85% de eficiência enegética a grandes HPC, termoenergia em áreas Urbanas, alinhado as metas 
-Projeto Térmico Pedreira | EMAE (na segunda tentativa de privatização), eólica, gas natural marítimas, por exemplo, na Bacia de Santos, Sâo Paulo, Brasi.
+**DeepRegulamentação**: Ecossistema de regulamentar, Arsesp, estadual, PANCLIMA municipal paulista, na Bacia de Santos, Sâo Paulo, Brasil, gasodutos hibridos, Gas Natural e H2, 95/5% incialmente, atingindo 15/85% em 2030, supridos por Plataformas Maritimas integradas por fazendas energéticas de H2, com energia suprido por fazendas eólicas **DeepWind**.
+Distribuição atende a costa e sobe a serra para surprir residenciais, comerciais e industriais, seja para cocção, aquecimento ou HPC com 85% de eficiência enegética a grandes HPC, termoenergia em áreas Urbanas, alinhado as metas Projeto Térmico Pedreir, EMAE (na segunda tentativa de privatização.
+
+**DeepLeilão**:  Petrobras lidera leilão de 20 GW eólico para atenter DeepWind e metas ODS e NetZero
 
 **NGH2DataCloud** O NGH2DataCloud é um sistema de computação em nuvem que é alimentado e integrado à planta energética NGH2DeepEnergy, 95/5%. O NGH2DeepCloud é capaz de fornecer serviços de computação, armazenamento e rede de forma escalável e eficiente localmente em zonas urbanas, suprido por Turbinas Hibridas a Gas Natural e Hidrogênio, tecnlogia disponível e validada pelo mercado e grandes fornecedores globais.
 
