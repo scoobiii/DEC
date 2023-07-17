@@ -294,11 +294,15 @@ A Eco Hold paga 50% dos lucros como dividendos, que são USD 504,5 milhões a pa
 
 **CAPEX:** O CAPEX é o custo de construção das usinas solares e dos data centers. Inclui o custo de terra, materiais, mão de obra e equipamentos.
 
-- **OPEX:** O OPEX é o custo de operação das usinas solares e dos data centers. Inclui o custo de eletricidade, manutenção e segurança.
-- **Receita:** A receita é a renda gerada com a venda da energia excedente e dos serviços de dados.
-- **Ponto de equilíbrio:** O ponto de equilíbrio é o ponto em que a receita é igual aos custos.
-- **Lucro:** O lucro é a renda remanescente após os custos terem sido deduzidos.
-- **Dividendos:** Os dividendos são a parcela do lucro que é paga aos acionistas.
+**OPEX:** O OPEX é o custo de operação das usinas solares e dos data centers. Inclui o custo de eletricidade, manutenção e segurança.
+
+**Receita:** A receita é a renda gerada com a venda da energia excedente e dos serviços de dados.
+
+**Ponto de equilíbrio:** O ponto de equilíbrio é o ponto em que a receita é igual aos custos.
+
+**Lucro:** O lucro é a renda remanescente após os custos terem sido deduzidos.
+
+**Dividendos:** Os dividendos são a parcela do lucro que é paga aos acionistas.
 
 # Normas e certificações:
 
