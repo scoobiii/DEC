@@ -254,7 +254,7 @@ O Projeto DeepSun será financiado por meio da venda de NFTs de crédito de carb
 
 O Projeto DeepSun reduz as emissões de gases de efeito estufa em bilhões de toneladas por ano. Isso é feito por meio da construção de uma rede de DeepEnergy & DeepClouds de energia renovável e pela venda de energia limpa e acessível para empresas e consumidores.
 
-# Power & DeepCloudEcoHold
+# Power & DeepCloud by Eco Hold
 
 | Site ID | Local |🌍 Google Earth Link | Latitude/Longitude | Area (km²) | UTC | DeepEnergy IN(TW) | DeepCloud Conta (GW) |DeepEnergy OUT Receitas (TW) | Região |
 |---|---|---|---|---|---|---|---|---|---|
