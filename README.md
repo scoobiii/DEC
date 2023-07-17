@@ -222,6 +222,7 @@ Equipe de desenvolvimento de software
 Equipe de desenvolvimento de hardware
 Equipe de qualidade
 Equipe de gerenciamento de projeto
+
 - Canadá
 Equipe de desenvolvimento de software
 Equipe de desenvolvimento de hardware
@@ -235,11 +236,13 @@ Equipe de desenvolvimento de software
 Equipe de desenvolvimento de hardware
 Equipe de qualidade
 Equipe de gerenciamento de projeto
+
 - Alemanha
 Equipe de desenvolvimento de software
 Equipe de desenvolvimento de hardware
 Equipe de qualidade
 Equipe de gerenciamento de projeto
+
 - França
 Equipe de desenvolvimento de software
 Equipe de desenvolvimento de hardware
@@ -253,11 +256,13 @@ Equipe de desenvolvimento de software
 Equipe de desenvolvimento de hardware
 Equipe de qualidade
 Equipe de gerenciamento de projeto
+
 - Japão
 Equipe de desenvolvimento de software
 Equipe de desenvolvimento de hardware
 Equipe de qualidade
 Equipe de gerenciamento de projeto
+
 - Coreia do Sul
 Equipe de desenvolvimento de software
 Equipe de desenvolvimento de hardware
@@ -271,16 +276,19 @@ Equipe de desenvolvimento de software
 Equipe de desenvolvimento de hardware
 Equipe de qualidade
 Equipe de gerenciamento de projeto
+
 - México
 Equipe de desenvolvimento de software
 Equipe de desenvolvimento de hardware
 Equipe de qualidade
 Equipe de gerenciamento de projeto
+
 - Argentina
 Equipe de desenvolvimento de software
 Equipe de desenvolvimento de hardware
 Equipe de qualidade
 Equipe de gerenciamento de projeto
+
 - Chile
 Equipe de desenvolvimento de software
 Equipe de desenvolvimento de hardware
@@ -294,11 +302,13 @@ Equipe de desenvolvimento de software
 Equipe de desenvolvimento de hardware
 Equipe de qualidade
 Equipe de gerenciamento de projeto
+
 - Arábia Saudita
 Equipe de desenvolvimento de software
 Equipe de desenvolvimento de hardware
 Equipe de qualidade
 Equipe de gerenciamento de projeto
+
 - Emirados Árabes Unidos
 Equipe de desenvolvimento de software
 Equipe de desenvolvimento de hardware
@@ -312,16 +322,19 @@ Equipe de desenvolvimento de software
 Equipe de desenvolvimento de hardware
 Equipe de qualidade
 Equipe de gerenciamento de projeto
+
 - África do Sul
 Equipe de desenvolvimento de software
 Equipe de desenvolvimento de hardware
 Equipe de qualidade
 Equipe de gerenciamento de projeto
+
 - Egito
 Equipe de desenvolvimento de software
 Equipe de desenvolvimento de hardware
 Equipe de qualidade
 Equipe de gerenciamento de projeto
+
 - Angola
 Equipe de desenvolvimento de software
 Equipe de desenvolvimento de hardware
