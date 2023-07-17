@@ -228,7 +228,7 @@ O Projeto DeepSun reduz as emissões de gases de efeito estufa em bilhões de to
 
 # Power & DeepCloudEcoHold
 
-**| Site ID | Local | Google Earth Link | Latitude/Longitude | Area (km²) | UTC | DeepEnergy(TW) | DeepCloud(GW) |DeepEnergy(TW) | Região |**
+| Site ID | Local | Google Earth Link | Latitude/Longitude | Area (km²) | UTC | DeepEnergy(TW) | DeepCloud(GW) |DeepEnergy(TW) | Região |
 |---|---|---|---|---|---|---|---|---|---|
 | P&DCEH1 | Sahara, Libya | Google Earth | 27.6826, 15.8389 | 363.48 | +2 | 0.727 | 1 | 0.717 | Africa |
 | P&DCEH2 | Tsagaan, China | Google Earth | 42.8279, 103.2319 | 121.19 | +8 | 0.242 | 1 | 0.232 | Asia |
