@@ -90,7 +90,9 @@ Neste cenário discorremos e entregamos duas soluções:
 
  A demanda de energia do Google cresceu de cerca de **100 megawatts (MW) em 2000 para cerca de 10 gigawatts (GW) em 2022**. Isso representa um aumento de cerca de 100 vezes em 22 anos.
 
-O consumo de energia do Google continuará a crescer nos próximos 22 anos, à medida que a empresa continua a expandir seus negócios e oferecer novos serviços. **O Google projeta que seu consumo de energia aumentará para 100 gigawatts (GW) até 2025 e para 1 terawatt (TW) até 2030. Isso representaria um aumento de cerca de 10 vezes em 2022.**
+O consumo de energia do Google continuará a crescer nos próximos 22 anos, à medida que a empresa continua a expandir seus negócios e oferecer novos serviços.
+
+😱😱😱 # O Google projeta que seu consumo de energia aumentará para 100 GW até 2025 e para 1 terawatt (TW) até 2030. Isso representaria um aumento de cerca de 10 vezes em 2022.😱😱😱
 
 Existem alguns fatores que estão impulsionando o crescimento do consumo de energia do Google. Um fator é o aumento do uso de serviços em nuvem. Os serviços em nuvem são baseados na web e são hospedados em data centers. À medida que mais pessoas usam serviços em nuvem, o Google precisa construir mais data centers e alocar mais energia para alimentá-los.
 
