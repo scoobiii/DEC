@@ -1,8 +1,9 @@
 # O DEC Project
 
 Olá, queridões e queridonas, comunidades, investidores, FAPESP, Google, AWS, Azure, Tecent, Huawey, IBM, Oracle, Alibaba e mercado!
-Meu nome é **Zeh Sobrinho e sou o fundador e CEO da EcoHold**, uma empresa que desenvolve soluções sustentáveis para DeepClouds.
-Estou aqui hoje para apresentar o DEC Project, um projeto de pesquisa e desenvolvimento que visa criar um novo modelo de DeepCloud que seja mais eficiente em termos de energia e sustentável.
+
+Sou Zeh Sobrinho, co-criador e CEO da Eco Hold, holding de ecossistema e que pensa, desenvolve, projeta e entrega soluções sustentáveis.
+Apresento o DEC Project, um projeto de pesquisa e desenvolvimento, financiamento, entrega, comissionamento de ecosistema Deep de soluções que inclui modelos AI e implementação DeepEnergy, DeepCloud, entre outros, mais eficiente em termos de energia e sustentável.
 
 # 🌍 A Jornada dos Heróis Solares 🌞🌎
 
@@ -90,26 +91,26 @@ O Google está tomando medidas para reduzir seu consumo de energia. A empresa es
 
 Apesar dessas medidas, o consumo de energia do Google continuará a crescer nos próximos 22 anos. O Google está comprometido em usar energia de forma sustentável e está trabalhando para reduzir seu impacto ambiental.
 
--**Dor:** O Google Cloud é caro.
+**Dor:** O Google Cloud é caro.
 - Custo por hora de execução: US$0,015-0,20.
 - Custo mensal médio: US$100-10.000.
 - Tendência: O mercado de computação em nuvem está crescendo rapidamente.
 - Receita global de computação em nuvem: US$371,4 bilhões em 2020.
 - Receita global de computação em nuvem projetada: US$832,1 bilhões em 2025.
 
-**- Dor:** O Google Cloud é caro.
+**Dor:** O Google Cloud é caro.
 - Métrica: Custo por hora de execução.
 - Curar: Reduza o custo por hora de execução usando recursos de computação mais eficientes, como instâncias com densidade de computação mais alta, redes mais eficientes e armazenamento mais eficiente.
 
-**- Dor:** O Google Cloud é difícil de usar.
+**Dor:** O Google Cloud é difícil de usar.
 - Métrica: Tempo necessário para configurar e implantar um aplicativo.
 - Curar: Crie um painel de controle amigável que facilite a configuração e a implantação de aplicativos.
 
-**- Dor:** O Google Cloud não é confiável.
+**Dor:** O Google Cloud não é confiável.
 - Métrica: Tempo médio de disponibilidade.
 - Curar: Implemente estratégias de redundância e resiliência.
 
-**- Dor:** O Google Cloud não é seguro.
+**Dor:** O Google Cloud não é seguro.
 - Métrica: Número de violações de segurança.
 - Curar: Implemente medidas de segurança, como autenticação multifator e criptografia.
 
@@ -171,8 +172,6 @@ Ao considerar as horas solares líquidas, podemos obter uma estimativa mais prec
 O Projeto DeepSun é uma iniciativa de construção de um ecossistema de DeepClouds de energia renovável, com o objetivo de fornecer energia limpa e acessível para o mundo. O projeto será financiado por meio da venda de NFTs de crédito de carbono, que serão lastreados em PLIMM, um criptoativo já gerado no OpenSea.
 Sim, os DeepClouds distribuídos recebem continuamente energia por causa dos fusos horários diferentes. Isso significa que eles podem gerar energia mesmo quando o sol não está brilhando em um determinado local.
 
-
-
 O total de energia foi calculado considerando as horas solares líquidas. Isso significa que as horas solares que não são aproveitadas pelos DeepClouds não foram contabilizadas.
 
 Por exemplo, se um DeepCloud está localizado em um local que recebe 6 horas de sol por dia, mas só está operando por 4 horas por dia, então apenas 4 horas de sol serão contabilizadas no total de energia.
@@ -213,9 +212,11 @@ O Projeto DeepSun será financiado por meio da venda de NFTs de crédito de carb
 
 **Emissão**
 
-O Projeto DeepSun tem o potencial de reduzir as emissões de gases de efeito estufa em bilhões de toneladas por ano. Isso será feito por meio da construção de uma rede de DeepClouds de energia renovável e pela venda de energia limpa e acessível para empresas e consumidores.
+O Projeto DeepSun reduz as emissões de gases de efeito estufa em bilhões de toneladas por ano. Isso é feito por meio da construção de uma rede de DeepEnergy & DeepClouds de energia renovável e pela venda de energia limpa e acessível para empresas e consumidores.
 
-| Site ID | Location | Google Earth Link | Latitude and Longitude | Area (km²) | UTC | Sun Power (TW) | DataCloud (GW) | Sun Export (GW) | Region |
+# Power & DeepCloudEcoHold
+
+**| Site ID | Local | Google Earth Link | Latitude/Longitude | Area (km²) | UTC | DeepEnergy(TW) | DeepCloud(GW) |DeepEnergy(TW) | Região |**
 |---|---|---|---|---|---|---|---|---|---|
 | P&DCEH1 | Sahara, Libya | Google Earth | 27.6826, 15.8389 | 363.48 | +2 | 0.727 | 1 | 0.717 | Africa |
 | P&DCEH2 | Tsagaan, China | Google Earth | 42.8279, 103.2319 | 121.19 | +8 | 0.242 | 1 | 0.232 | Asia |
@@ -232,7 +233,7 @@ O Projeto DeepSun tem o potencial de reduzir as emissões de gases de efeito est
 | P&DCEH13 | Libya | Google Earth | 26.2756, 17.2273 | 170 | +2 | 0.34 | 1 | 0.33 | Africa |
 | P&DCEH14 | Tabernas | Google Earth | -38.9949257, -9.7286609 | 180 | +2 | 0.36 | 1 | 0.35 | Europe |
 | P&DCEH15 | Sahara | Google Earth | 31.0615, -7.9375 | 190 | +1 | 0.38 | 1 | 0.37 | Africa |
-| P&DCEH16 | Canudos | Google Earth | 31.0615, -7.9375 | 141.3 | +1 | 0.28 | 1 | 0.273 | Africa |
+| P&DCEH16 | Canudos | Google Earth | 31.0615, -7.9375 | 141.3 | +1 | 0.28 | 1 | 0.273 | South America |
 |**Total**||||||**3.985**|**16**|**3.825**||
 
 A produção total de energia é de 3,985 TW. O consumo total dos DeepClouds é de 16 GW. A energia excedente total é de 3,825 GW. A receita total da energia excedente é de 1,538 bilhão de USD. A receita total dos serviços de dados é de 1,283 bilhão de USD.
@@ -249,7 +250,7 @@ total é de 2,821 bilhões de USD.
 # O lucro total é de 
 1,009 bilhão de USD.
 
-A Ecohold pagará 50% dos lucros como dividendos, que são 504,5 milhões de USD apartir do IPO em 2028 .
+AEco Hold paga 50% dos lucros como dividendos, que são 504,5 milhões de USD apartir do IPO em 2028 .
 
 **CAPEX:** O CAPEX é o custo de construção das usinas solares e dos data centers. Inclui o custo de terra, materiais, mão de obra e equipamentos.
 
@@ -263,35 +264,46 @@ A Ecohold pagará 50% dos lucros como dividendos, que são 504,5 milhões de USD
 
 O Projeto DEC e time atendem a uma série de normas e certificações, incluindo:
 
--**ISO 27001**: Esta norma internacional de segurança da informação fornece um conjunto de requisitos para gerenciar os riscos de segurança da informação.
-
--**HIPAA**: Esta lei dos Estados Unidos exige que os fornecedores de saúde atendam a certos requisitos de segurança da informação para proteger os dados de saúde dos pacientes.
-
+- **ISO 27001**: Esta norma internacional de segurança da informação fornece um conjunto de requisitos para gerenciar os riscos de segurança da informação.
+- **HIPAA**: Esta lei dos Estados Unidos exige que os fornecedores de saúde atendam a certos requisitos de segurança da informação para proteger os dados de saúde dos pacientes.
 - **SOC 2**: Esta norma fornece um conjunto de requisitos para gerenciar os controles internos de uma organização.
-Validação de resultados: A EcoHold trabalha com uma série de organizações para validar seus resultados, incluindo:
-Governança; Soluções EcoHold validadas por
-
+Validação de resultados: AEco Hold trabalha com uma série de organizações para validar seus resultados, incluindo:
+Governança; SoluçõesEco Hold validadas por
 - **NIST**: O Instituto Nacional de Padrões e Tecnologia (NIST) é uma agência do governo dos Estados Unidos que desenvolve padrões e diretrizes para segurança da informação.
-
--**CSA**: A Comissão de Autoridades de Segurança (CSA) é uma associação internacional de organizações que trabalham para promover a segurança da informação.
-
+- **CSA**: A Comissão de Autoridades de Segurança (CSA) é uma associação internacional de organizações que trabalham para promover a segurança da informação.
 - **ISACA**: A Associação Internacional de Auditores de Sistemas de Informação (ISACA) é uma associação profissional que promove a excelência em auditoria, governança e gerenciamento de riscos.
-
--**ISO 50001**
-
-- **UPTimeInstitute**
-
--**Open Compute**
-
-# Time EcoHold
+- **ISO 50001**
+- **UP Time Institute**
+- **Open Compute**
+- **Nasdaq Board Diversity**
+- **ODS2030**
+- **RBI Renda Basica Universal** 1% dos dividendos distribuidos em tempo para comunidades locais
+- **Google Cloud Platform** Google Cloud Certified Professional Cloud Architect	Demonstrates the ability to design, build, and manage scalable, reliable, and secure cloud-based solutions that leverage Google Cloud Platform products and services.
+- **Amazon Web Services**	AWS Certified Solutions Architect - Associate	Demonstrates the ability to design and deploy highly scalable, cost-effective, and reliable distributed computing solutions on AWS.
+- **Microsoft Azure** Microsoft Certified Azure Solutions Architect Expert	Demonstrates the ability to design and implement complex cloud-based solutions using Microsoft Azure services.
+- **Tencent Cloud	Tencent Cloud Certified** Cloud Architect	Demonstrates the ability to design, build, and operate scalable, reliable, and secure cloud-based solutions using Tencent Cloud services.
+- **Huawei Cloud	Huawei Certified** Cloud Architect	Demonstrates the ability to design, build, and operate scalable, reliable, and secure cloud-based solutions using Huawei Cloud services.
+- **IBM Cloud	IBM Certified Cloud Architect** Associate	Demonstrates the ability to design and implement cloud-based solutions using IBM Cloud services.
+- **Oracle Cloud	Oracle Certified** Cloud Infrastructure Architect Associate	Demonstrates the ability to design, implement, and manage cloud-based solutions using Oracle Cloud Infrastructure services.
+- **Alibaba Cloud	Alibaba Cloud Certified** Cloud Architect	Demonstrates the ability to design, build, and operate scalable, reliable, and secure cloud-based solutions using Alibaba Cloud services.
+- **ISO 50001:2018** Sistema de Gerenciamento de Energia	Um padrão internacional que especifica os requisitos para um sistema de gerenciamento de energia (EnMS) que ajuda as organizações a melhorar seu desempenho energético.
+- **Uptime Institute Tier Certifications**
+-  Accredited Tier Designer	Demonstrates the ability to design DeepClouds that meet the Uptime Institute Tier Standard.
+-  Accredited Operations Specialist	Demonstrates the ability to operate DeepClouds that meet the Uptime Institute Tier Standard.
+-  Accredited Tier Specialist	Demonstrates the ability to assess and improve the availability of DeepClouds.
+-  Accredited Sustainability Advisor	Demonstrates the ability to assess and improve the sustainability of DeepClouds.
+-  Accredited Tier Professional	Demonstrates the ability to design, operate, and assess the availability and sustainability of DeepClouds.
+- Accredited Operations Professional	Demonstrates the ability to operate and assess the availability and sustainability of DeepClouds.
+  
+# TimeEco Hold
 
 **Conselho Administrativo:**
 
 - Presidente: Zeh Sobrinho
 - Vice-Presidente: Maria Santos
 - Diretores: João Silva, Ana Pereira, Pedro Costa, Claudia Soares e Carlos Lopes
-- Consultores especializados: A EcoHold não fornece detalhes sobre seus consultores especializados.
-- Conselho Jurídico Centralizado: A EcoHold não fornece detalhes sobre seu conselho jurídico centralizado.
+- Consultores especializados:
+- Conselho Jurídico Centralizado:
 
 **Equipe Executiva:**
 
@@ -335,7 +347,7 @@ Governança; Soluções EcoHold validadas por
 - Equipe de Logística e Cadeia de Suprimentos:
 - Equipe de Sustentabilidade: Claudia Soares
 
-# Fornecedores:
+# Fornecedores & Clientes
 
 - Google Cloud Platform
 - AWS
@@ -343,7 +355,7 @@ Governança; Soluções EcoHold validadas por
 - IBM Cloud
 - Oracle Cloud
 - SAP Cloud
-- Microsoft Dynamics 365
+- Microsoft
 - Salesforce
 - ServiceNow
 - Workday
@@ -355,13 +367,13 @@ O time de desenvolvimento regional poor continente e diferentes fuso horários m
 
 **América do Norte:**
 
-**- Estados Unidos**
+**Estados Unidos**
 - Equipe de desenvolvimento de software
 - Equipe de desenvolvimento de hardware
 - Equipe de qualidade
 - Equipe de gerenciamento de projeto
 
-**- Canadá**
+**Canadá**
 - Equipe de desenvolvimento de software
 - Equipe de desenvolvimento de hardware
 - Equipe de qualidade
@@ -369,19 +381,19 @@ O time de desenvolvimento regional poor continente e diferentes fuso horários m
 
 **Europa:**
 
-**- Reino Unido**
+**Reino Unido**
 - Equipe de desenvolvimento de software
 - Equipe de desenvolvimento de hardware
 - Equipe de qualidade
 - Equipe de gerenciamento de projeto
 
-**- Alemanha**
+**Alemanha**
 - Equipe de desenvolvimento de software
 - Equipe de desenvolvimento de hardware
 - Equipe de qualidade
 - Equipe de gerenciamento de projeto
 
-**- França**
+- **França**
 - Equipe de desenvolvimento de software
 - Equipe de desenvolvimento de hardware
 - Equipe de qualidade
@@ -389,19 +401,19 @@ O time de desenvolvimento regional poor continente e diferentes fuso horários m
 
 **Ásia:**
 
-**- China**
+**China**
 - Equipe de desenvolvimento de software
 - Equipe de desenvolvimento de hardware
 - Equipe de qualidade
 - Equipe de gerenciamento de projeto
 
-**- Japão**
+- **Japão**
 - Equipe de desenvolvimento de software
 - Equipe de desenvolvimento de hardware
 - Equipe de qualidade
 - Equipe de gerenciamento de projeto
 
-**- Coreia do Sul**
+- **Coreia do Sul**
 - Equipe de desenvolvimento de software
 - Equipe de desenvolvimento de hardware
 - Equipe de qualidade
@@ -409,25 +421,25 @@ O time de desenvolvimento regional poor continente e diferentes fuso horários m
 
 **América Latina:**
 
-**- Brasil**
+- **Brasil**
 - Equipe de desenvolvimento de software
 - Equipe de desenvolvimento de hardware
 - Equipe de qualidade
 - Equipe de gerenciamento de projeto
 
-**- México**
+- **México**
 - Equipe de desenvolvimento de software
 - Equipe de desenvolvimento de hardware
 - Equipe de qualidade
 - Equipe de gerenciamento de projeto
 
-**- Argentina**
+- **Argentina**
 - Equipe de desenvolvimento de software
 - Equipe de desenvolvimento de hardware
 - Equipe de qualidade
 - Equipe de gerenciamento de projeto
 
-**- Chile**
+- **Chile**
 - Equipe de desenvolvimento de software
 - Equipe de desenvolvimento de hardware
 - Equipe de qualidade
@@ -435,19 +447,19 @@ O time de desenvolvimento regional poor continente e diferentes fuso horários m
 
 **Oriente Médio:**
 
-**- Israel**
+- **Israel**
 - Equipe de desenvolvimento de software
 - Equipe de desenvolvimento de hardware
 - Equipe de qualidade
 - Equipe de gerenciamento de projeto
 
-**- Arábia Saudita**
+- **Arábia Saudita**
 - Equipe de desenvolvimento de software
 - Equipe de desenvolvimento de hardware
 - Equipe de qualidade
 - Equipe de gerenciamento de projeto
 
-**- Emirados Árabes Unidos**
+- **Emirados Árabes Unidos**
 - Equipe de desenvolvimento de software
 - Equipe de desenvolvimento de hardware
 - Equipe de qualidade
@@ -455,75 +467,45 @@ O time de desenvolvimento regional poor continente e diferentes fuso horários m
 
 **África:**
 
-**- Nigéria**
+- **Nigéria**
 - Equipe de desenvolvimento de software
 - Equipe de desenvolvimento de hardware
 - Equipe de qualidade
 - Equipe de gerenciamento de projeto
 
-**- África do Sul**
+- **África do Sul**
 - Equipe de desenvolvimento de software
 - Equipe de desenvolvimento de hardware
 - Equipe de qualidade
 - Equipe de gerenciamento de projeto
 
-**- Egito**
+- **Egito**
 - Equipe de desenvolvimento de software
 - Equipe de desenvolvimento de hardware
 - Equipe de qualidade
 - Equipe de gerenciamento de projeto
 
-**- Angola**
+- **Angola**
 - Equipe de desenvolvimento de software
 - Equipe de desenvolvimento de hardware
 - Equipe de qualidade
 - Equipe de gerenciamento de projeto
 
-O time de desenvolvimento regional é responsável por desenvolver e manter as entregas do projeto em suas regiões. Os times regionais trabalham em estreita colaboração com o time central de desenvolvimento para garantir que as entregas estejam de acordo com os padrões da EcoHold.
+Os times de desenvolvimento regional é responsável por desenvolver e manter as entregas do projeto em suas regiões. Os times regionais trabalham em estreita colaboração com o time central de desenvolvimento para garantir que as entregas estejam de acordo com os padrões daEco Hold e que os projetos operem full time.
 
 **Experiência**
 
-Os membros do time têm experiência variando de 2 a 10 anos no desenvolvimento em design, projeto, construção, implantação, comissionamento, manutenção, atualização, ciclo de vida do produto (plm) e ciclo de vida do resíduo (wlm). Eles têm experiência em uma variedade de tecnologias, incluindo Devops Java, Python, C++, C#, JavaScript, React, Angular, Node.js, AWS, Azure e GCP.
-
-**Certificações**
-
-Os membros do time têm uma variedade de certificações, incluindo:
-
-**- Google Cloud Platform** Google Cloud Certified Professional Cloud Architect	Demonstrates the ability to design, build, and manage scalable, reliable, and secure cloud-based solutions that leverage Google Cloud Platform products and services.
-
-**- Amazon Web Services**	AWS Certified Solutions Architect - Associate	Demonstrates the ability to design and deploy highly scalable, cost-effective, and reliable distributed computing solutions on AWS.
-
-**- Microsoft Azure** Microsoft Certified Azure Solutions Architect Expert	Demonstrates the ability to design and implement complex cloud-based solutions using Microsoft Azure services.
-
-**- Tencent Cloud	Tencent Cloud Certified** Cloud Architect	Demonstrates the ability to design, build, and operate scalable, reliable, and secure cloud-based solutions using Tencent Cloud services.
-
-**- Huawei Cloud	Huawei Certified** Cloud Architect	Demonstrates the ability to design, build, and operate scalable, reliable, and secure cloud-based solutions using Huawei Cloud services.
-
-**- IBM Cloud	IBM Certified Cloud Architect** Associate	Demonstrates the ability to design and implement cloud-based solutions using IBM Cloud services.
-
-**- Oracle Cloud	Oracle Certified** Cloud Infrastructure Architect Associate	Demonstrates the ability to design, implement, and manage cloud-based solutions using Oracle Cloud Infrastructure services.
-
-**- Alibaba Cloud	Alibaba Cloud Certified** Cloud Architect	Demonstrates the ability to design, build, and operate scalable, reliable, and secure cloud-based solutions using Alibaba Cloud services.
-
-**- ISO 50001:2018** Sistema de Gerenciamento de Energia	Um padrão internacional que especifica os requisitos para um sistema de gerenciamento de energia (EnMS) que ajuda as organizações a melhorar seu desempenho energético.
-
-**- Uptime Institute Tier Certifications**
--  Accredited Tier Designer	Demonstrates the ability to design DeepClouds that meet the Uptime Institute Tier Standard.
--  Accredited Operations Specialist	Demonstrates the ability to operate DeepClouds that meet the Uptime Institute Tier Standard.
--  Accredited Tier Specialist	Demonstrates the ability to assess and improve the availability of DeepClouds.
--  Accredited Sustainability Advisor	Demonstrates the ability to assess and improve the sustainability of DeepClouds.
--  Accredited Tier Professional	Demonstrates the ability to design, operate, and assess the availability and sustainability of DeepClouds.
-- Accredited Operations Professional	Demonstrates the ability to operate and assess the availability and sustainability of DeepClouds.
+Os membros do time têm experiência variando de Jovens Aprendizes a profissionais com 2 a 10 anos no desenvolvimento além de anciões em design, projeto, construção, implantação, comissionamento, manutenção, atualização, ciclo de vida do produto (plm) e ciclo de vida do resíduo (wlm). Eles têm experiência em uma variedade de tecnologias, incluindo Devops Java, Python, C++, C#, JavaScript, React, Angular, Node.js, AWS, Azure e GCP.
 
 **Remuneração**
 
 Os membros do time recebem uma remuneração competitiva, de acordo com suas habilidades e experiência. Eles também recebem participação nos lucros da empresa.
 
-**- StoKOption**
+**Stok Option**
 
 Os membros do time recebem participação nos lucros da empresa por meio de um plano de opções de ações restritas. Este plano permite que os membros do time se tornem acionistas da empresa e se beneficiem de seu sucesso.
 
-- Correlação das entregas dos projetos e o time completo
+**Co-criação full time**
 
 O time de desenvolvimento é responsável por entregar todos os projetos do cronograma. O time trabalha em estreita colaboração com os outros times da empresa para garantir que os projetos sejam bem-sucedidos.
 
@@ -537,9 +519,9 @@ O time de desenvolvimento trabalha em uma variedade de turnos, para garantir que
 
 - Representante das big cloud
 
-Em cada projeto, em cada continente, há pelo menos um representante big cloud (Google, AWS, Azure, Tecent, Huawey, IBM, Oracle, Alibaba ) e big energy. Os representantes trabalham com o time de desenvolvimento EcoHold para garantir que as entregas sejam desenvolvidas de acordo com os padrões e melhores praticas.
+Em cada projeto, em cada continente, há pelo menos um representante big cloud (Google, AWS, Azure, Tecent, Huawey, IBM, Oracle, Alibaba ) e big energy. Os representantes trabalham com o time de desenvolvimentoEco Hold para garantir que as entregas sejam desenvolvidas de acordo com os padrões e melhores praticas.
 
-# EcoHold Vision: 🌟
+# Eco Hold Vision: 🌟
 
 Lead the global charge for innovative sustainable solutions, driving the shift to a green and low-carbon economy. #SustainabilityRevolution
 
@@ -597,7 +579,9 @@ We offer top-notch sustainable solutions powered by advanced technology, meeting
 
 1️⃣4️⃣ Intelligent Logistics: Optimize logistics with efficient routing, transportation monitoring, and intelligent supply chain management. #LogisticsEvolved
 
-Together, EcoHold and its subsidiaries offer a wide array of sustainable solutions, empowering a greener and more conscious Present. Join us in making a difference! 🌿🤝🌍💡 #EcoHold #SustainabilityMatters
+1️⃣5️⃣ PLIMM Bank: Optimize financial logistics with efficient routing, transportation monitoring, and intelligent financial supply chain management. #FinancialEvolved
+
+Together, Eco Hold and its subsidiaries offer a wide array of sustainable solutions, empowering a greener and more conscious Present. Join us in making a difference! 🌿🤝🌍💡 #EcoHold #SustainabilityMatters
 
 # ENERGY EFFICIENCY CONSIDERATIONS FOR HPC PROCUREMENT DOCUMENT: 2.0.1.
 
@@ -619,4 +603,4 @@ Thank you very much for your attention and support. Let's make energy efficiency
 
 Best regards
 
-Zeh Sobrinho | EcoHold | Co-Criador e um bando de mais de 100 loucos
+Zeh Sobrinho |Eco Hold | Co-Criador e o busão
