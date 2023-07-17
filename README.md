@@ -145,6 +145,8 @@ Satisfação do cliente: O Google Cloud tem uma alta satisfação do cliente, o 
 
 **DeepEnergy**: O DeepEnergy é um sistema de energia renovável que utiliza uma variedade de fontes de energia, incluindo energia solar, eólica e geotérmica. O DeepEnergy também é capaz de armazenar energia por fusohorário, sem bateria, o que permite que o DeepCloud opere mesmo quando não há produção de energia.
 
+**NGH2DeepEnergy**
+
 Sim, os DeepClouds distribuídos recebem continuamente energia por causa dos fusos horários diferentes. Isso significa que eles podem gerar energia mesmo quando o sol não está brilhando em um determinado local.
 
 O total de energia foi calculado considerando as horas solares líquidas. Isso significa que as horas solares que não são aproveitadas pelos DeepClouds não foram contabilizadas.
@@ -153,7 +155,17 @@ Por exemplo, se um DeepCloud está localizado em um local que recebe 6 horas de 
 
 Ao considerar as horas solares líquidas, podemos obter uma estimativa mais precisa da quantidade de energia que os DeepClouds distribuídos podem gerar. Isso é importante porque nos permite avaliar o potencial do projeto DeepSun para fornecer energia limpa e renovável para o mundo.
 
-**DeepCloud**: O DeepCloud é um sistema de computação em nuvem que é alimentado pelo DeepEnergy. O DeepCloud é capaz de fornecer serviços de computação, armazenamento e rede de forma escalável e eficiente.
+**DeepCloud**: O DeepCloud é um sistema de computação em nuvem que é alimentado pelo DeepEnergy. O DeepCloud é capaz de fornecer serviços de computação interconinental, armazenamento e rede de forma escalável e eficiente suprido pela Solar DeepEnergy.
+
+**DeepWind**: Fazendas energéticas maritimas integradas a NGH2DataCloud, DeepPowerNGH2
+
+**DeepPowerNGH2** Fazendas energéticas hibridas pordutoras de gas natural e h2, distribuidos por gasodutos hibridos 95/5%, chegando a 15/85% em 2030, integradas a NGH2DataCloud e DeepWind
+
+**DeepRegulamentação**: Ecossistema de regulamentar, Arsesp, estadual, PANCLIMA municipal paulista,  habilita gasodutos hibridos, Gas Natural e H2, 95/5% incialmente, atingindo 15/85% em 2030, supridos por Plataformas Maritimas integradas por Fazendas energéticas maritimas integradas a usinas de H2 com energia suprido por fazendas eólicas **DeepWind** marítimas que entregam o blend, Gas Natural e H2, através de gasodutos hibridos.
+Distribuição atende a costa e sobe a serra para surprir residenciais, comerciais e industriais, seja para cocção, aquecimento ou HPC com 85% de eficiência enegética a grandes HPC, termoenergia em áreas Urbanas, alinhado as metas 
+Projeto Térmico Pedreira | EMAE (na segunda tentativa de privatização), eólica, gas natural marítimas, por exemplo, na Bacia de Santos, Sâo Paulo, Brasi.
+
+**NGH2DataCloud** O NGH2DataCloud é um sistema de computação em nuvem que é alimentado e integrado à planta energética NGH2DeepEnergy, 95/5%. O NGH2DeepCloud é capaz de fornecer serviços de computação, armazenamento e rede de forma escalável e eficiente localmente em zonas urbanas, suprido por Turbinas Hibridas a Gas Natural e Hidrogênio, tecnlogia disponível e validada pelo mercado e grandes fornecedores globais.
 
 **DeepCool**: O DeepCool é um sistema de resfriamento que utiliza uma variedade de técnicas, incluindo resfriamento a água, resfriamento a ar e resfriamento a imersão. O DeepCooling é capaz de manter o DeepCloud a uma temperatura adequada, mesmo quando está operando sob carga pesada.
 
