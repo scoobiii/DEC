@@ -1,9 +1,9 @@
 # O DEC Project
 
-Olá, queridões e queridonas, comunidades, investidores, FAPESP, Google, AWS, Azure, Tecent, Huawey, IBM, Oracle, Alibaba e mercado!
+Olá, queridões e queridonas, comunidades, investidores, FAPESP, Google, AWS, Azure, Tencent, Huawei, IBM, Oracle, Alibaba e mercado!
 
 Sou Zeh Sobrinho, co-criador e CEO da Eco Hold, holding de ecossistema e que pensa, desenvolve, projeta e entrega soluções sustentáveis.
-Apresento o DEC Project, um projeto de pesquisa e desenvolvimento, financiamento, entrega, comissionamento de ecosistema Deep de soluções que inclui modelos AI e implementação DeepEnergy, DeepCloud, entre outros, mais eficiente em termos de energia e sustentável.
+Apresento o DEC Project, um projeto de pesquisa e desenvolvimento, financiamento, entrega, comissionamento de ecossistema Deep de soluções que inclui modelos AI e implementação DeepEnergy, DeepCloud, entre outros, mais eficiente em termos de energia e sustentável.
 
 # 🌍 A Jornada dos Heróis Solares 🌞🌎
 
@@ -25,7 +25,13 @@ Essas cinco crianças, juntas, embarcaram em uma incrível jornada ao redor do m
 
 As cinco crianças, Pedro, Amina, Mei, Luca e Hana, receberam uma misteriosa mensagem em seus computadores uma noite #Hacker´s Virada ODS Jun/2023. Ela continha um convite para um encontro em um lugar secreto, onde elas poderiam compartilhar suas ideias para mudar o mundo.
 
-Intrigados e empolgados, os cinco heróis decidiram se encontrar. Para isso, Pedro voou de paraquedas sobre os morros cariocas 🪂, Amina correu pelas savanas quenianas 🏃‍♀️, Mei atravessou os arranha-céus de Xangai 🏙️, Luca pedalou por vilarejos italianos 🚴‍♂️ e Hana surfou ondas australianas 🏄‍♀️. Eles se encontraram em um templo antigo e misterioso no meio do deserto africano 🏜️.
+Intrigados e empolgados, os cinco heróis decidiram se encontrar. Para isso, 
+Pedro voou de paraquedas sobre os morros cariocas 
+🪂, Amina correu pelas savanas quenianas 🏃‍♀️, 
+Mei atravessou os arranha-céus de Xangai 🏙️, 
+Luca pedalou por vilarejos italianos 🚴‍♂️ e Hana surfou ondas australianas 🏄‍♀️. 
+
+Eles se encontraram em um templo antigo e misterioso no meio do deserto africano 🏜️.
 
 **Capítulo 2: A Profecia do Templo 🗿📜**
 
@@ -63,13 +69,16 @@ Com o passar dos anos, as soluções dos heróis solares se espalharam pelo mund
 |<img src="https://lh6.googleusercontent.com/ig1SHVxBpX0TgScGdFh7BnUrkqSC2NDb2e9QWVDSSYNX1JOoXb-hqGdd_xhBs34dbtSMrpb5IegGyr8iCLIdZnJUr8_cCq0U5YQLcf3xCpwXWl2epDpf-k-fvnwMOGYlXySimlOte5QNPsQHEgKLNPc" width="80%" height="80%" />|
 |<img src="https://lh3.googleusercontent.com/ouLCa1lKoyCZlCW83nvn9Ahw05G9DTCDGLnjeX2cH8JtylhvGXhmgEdqhNKEc5pKvgaRpr0udIanyhZBtqRwoYW0GFs6bGpZ1N_XsllJr9F8GYQ4eirfVI8hCKFdwXpxzpZiDV3yEVGmxdmLK2dKYXo" width="80%" height="80%" />|
 
+ <img src="https://earth.google.com/web/@8.84006633,4.89731038,250.61724907a,10980922.26193372d,30.00000163y,0h,0t,0r/data=MikKJwolCiExU01QSkVQQ3lHUXVmak9HTnMxT3JMamVZM19hMHBxZFAgAToDCgEw?authuser=0
+"/>
+
 # Dor | Oportunidade | Solução
 
 **Global**
 
 Mais de 50% da energia elétrica do planeta é produzida pela transformação de combustíveis fósseis, predominando carvão e gás natural, e neste processo, mais de 50% do calor produzido não é aproveitado na forma de energia, sendo dispensado, desperdiçado e jogado no planeta, também conhecido como Aquecimento Global Instantâneo.
 O mesmo acontece com mais de 500 sites nucleares, com eficiência energética inferior a 40%, ou seja, 60% do calor produzido é jogado no mar.
-O desperdício energético equivale a US$17 trilhões por ano, logo, uma empresa produtora de energia, distribuidora de energia, no mínimo,  devem ser certificadas ISO 5001 para usufruir desta oportunidade.
+O desperdício energético equivale a US$17 trilhões por ano, logo, uma empresa produtora de energia, distribuidora de energia, no mínimo,  deve ser certificada ISO 5001 para usufruir desta oportunidade.
 
 A transição NetZero passa pelo incremento da eficiência energética da matriz atual, incluindo solar, 5 horas por dia de produção a 20% de Eficiência Energética.
 
@@ -86,6 +95,12 @@ O consumo de energia do Google continuará a crescer nos próximos 22 anos, à m
 Existem alguns fatores que estão impulsionando o crescimento do consumo de energia do Google. Um fator é o aumento do uso de serviços em nuvem. Os serviços em nuvem são baseados na web e são hospedados em data centers. À medida que mais pessoas usam serviços em nuvem, o Google precisa construir mais data centers e alocar mais energia para alimentá-los.
 
 Outro fator que está impulsionando o crescimento do consumo de energia do Google é o aumento do uso de inteligência artificial (IA). A IA é uma tecnologia que está sendo usada em uma variedade de produtos e serviços do Google, como o Google Assistente, o Google Tradutor e o Google Fotos. À medida que o Google continua a investir em IA, a empresa precisa alocar mais energia para alimentar os sistemas de IA.
+
+| Atividade | Consumo de energia (watts) | Tempo (minutos) | Consumo de energia (kWh) | Custo (R$) |
+|---|---|---|---|---|
+| Banho 😱 | 5500 | 10 | 5,5 | 0,34 |
+| Mineração de *PLIMM 😱😱 | 4466,8 | 10 | 4,47 | 0,28 |
+| Gerando Prompt GPT 😱😱😱 | 2600,84 | 10 | 2,6 | 0,16 |
 
 O Google está tomando medidas para reduzir seu consumo de energia. A empresa está usando fontes de energia renováveis, como energia solar e eólica, para alimentar seus data centers. O Google também está investindo em tecnologias de eficiência energética, como resfriamento líquido e computação de borda.
 
@@ -118,7 +133,7 @@ O crescimento da demanda de energia do Google é impulsionado por uma série de 
 
 Outro fator que impulsiona o crescimento da demanda de energia do Google é o aumento da popularidade de serviços baseados em nuvem, como o Google Cloud Platform. O Google Cloud Platform é uma plataforma de computação em nuvem que oferece uma variedade de serviços, incluindo armazenamento, processamento, rede e análise de dados. Esses serviços estão se tornando cada vez mais populares, o que está levando a um aumento na demanda de servidores do Google.
 
-De acordo com a análise da empresa de pesquisa de mercado Technavio, o consumo de energia do Google deve crescer de 19,9 bilhões de kWh em 2022 para 44,1 bilhões de kWh em 2028, com uma taxa de crescimento anual composta (CAGR) de 12,6%. Isso se deve a uma série de fatores, incluindo o crescimento da base de usuários do Google, a expansão de sua infraestrutura de DeepClouds e o aumento da demanda por serviços de computação em nuvem.
+De acordo com a análise da empresa de pesquisa de mercado Technavio, o consumo de energia do Google deve crescer de 19,9 bilhões de kWh em 2022 para 44,1 bilhões de kWh em 2028, com uma taxa de crescimento anual composta (CAGR) de 12,6%. Isso se deve a uma série de fatores, incluindo o crescimento da base de usuários do Google, a expansão de sua infraestrutura de DeepCloud e o aumento da demanda por serviços de computação em nuvem.
 
 Por fim, o desenvolvimento de novas tecnologias, como inteligência artificial e mineração de criptomoedas, também está impulsionando o crescimento da demanda de energia do Google. A inteligência artificial é uma tecnologia que está se tornando cada vez mais poderosa e está sendo usada em uma ampla variedade de aplicações, como reconhecimento de imagem, tradução automática e aprendizado de máquina. Essas aplicações exigem uma grande quantidade de poder de computação, o que está levando a um aumento na demanda de servidores do Google.
 
@@ -130,8 +145,7 @@ O Google também está trabalhando para desenvolver novas tecnologias que possam
 
 O Google está comprometido em reduzir seu impacto ambiental e está tomando medidas para alcançá-lo. No entanto, ainda há muito a ser feito e é importante que os clientes do Google ajudem a empresa a alcançar seus objetivos.
 
-
-**Entregas: melhorar as metricas incluindo mind share**
+**Entregas: melhorar as métricas incluindo mind share**
 
 Número de clientes: O Google Cloud tem um número crescente de clientes, incluindo grandes empresas, pequenas empresas e startups.
 Revenue: O Google Cloud está gerando um faturamento crescente, o que reflete a crescente demanda por seus serviços.
@@ -143,53 +157,66 @@ Satisfação do cliente: O Google Cloud tem uma alta satisfação do cliente, o 
 
 # Produtos e Serviços
 
-**DeepEnergy**: O DeepEnergy é um sistema de energia renovável que utiliza uma variedade de fontes de energia, incluindo energia solar, eólica e geotérmica. O DeepEnergy também é capaz de armazenar energia por fusohorário, sem bateria, o que permite que o DeepCloud opere mesmo quando não há produção de energia.
+**DeepEnergy**: O DeepEnergy é um sistema de energia renovável que utiliza uma variedade de fontes de energia, incluindo energia solar, eólica e geotérmica. O DeepBattery também é capaz de armazenar energia solar por fuso horário dinâmico, sem bateria, o que permite ao DeepCloud opere mesmo quando não há produção de energia local.
 
-**NGH2DeepEnergy**
-
-Sim, os DeepClouds distribuídos recebem continuamente energia por causa dos fusos horários diferentes. Isso significa que eles podem gerar energia mesmo quando o sol não está brilhando em um determinado local.
+Sim, os DeepCloud distribuídos recebem continuamente energia por causa dos fusos horários diferentes. Isso significa que eles podem gerar energia mesmo quando o sol não está brilhando em um determinado local.
 
 O total de energia foi calculado considerando as horas solares líquidas. Isso significa que as horas solares que não são aproveitadas pelos DeepClouds não foram contabilizadas.
 
 Por exemplo, se um DeepCloud está localizado em um local que recebe 6 horas de sol por dia, mas só está operando por 4 horas por dia, então apenas 4 horas de sol serão contabilizadas no total de energia.
 
+Ao considerar as horas solares líquidas, podemos obter uma estimativa mais precisa da quantidade de energia que os DeepCloud distribuídos podem gerar. Isso é importante porque nos permite avaliar o potencial do projeto DeepSun para fornecer energia limpa e renovável para o mundo.
+
+**DeepCloud**: O DeepCloud é um sistema de computação em nuvem que é alimentado pelo DeepEnergy. O DeepCloud é capaz de fornecer serviços de computação, DeepBattery, armazenamento solar e rede de forma escalável, redundante e eficiente.
+
+**NGH2DeepEnergy** Sim, os DeepClouds distribuídos recebem continuamente energia por causa dos fusos horários diferentes. Isso significa que eles podem gerar energia mesmo quando o sol não está brilhando em um determinado local.
+O total de energia foi calculado considerando as horas solares líquidas. Isso significa que as horas solares que não são aproveitadas pelos DeepClouds não foram contabilizadas.
+Por exemplo, se um DeepCloud está localizado em um local que recebe 6 horas de sol por dia, mas só está operando por 4 horas por dia, então apenas 4 horas de sol serão contabilizadas no total de energia.
 Ao considerar as horas solares líquidas, podemos obter uma estimativa mais precisa da quantidade de energia que os DeepClouds distribuídos podem gerar. Isso é importante porque nos permite avaliar o potencial do projeto DeepSun para fornecer energia limpa e renovável para o mundo.
+DeepCloud: O DeepCloud é um sistema de computação em nuvem que é alimentado pelo DeepEnergy. O DeepCloud é capaz de fornecer serviços de computação interconinental, armazenamento e rede de forma escalável e eficiente suprido pela Solar DeepEnergy.
 
-**DeepCloud**: O DeepCloud é um sistema de computação em nuvem que é alimentado pelo DeepEnergy. O DeepCloud é capaz de fornecer serviços de computação interconinental, armazenamento e rede de forma escalável e eficiente suprido pela Solar DeepEnergy.
-
-**DeepWind**: Fazendas energéticas maritimas integradas a NGH2DataCloud, DeepPowerNGH2
+**DeepWind:** Fazendas energéticas maritimas integradas a NGH2DataCloud, DeepPowerNGH2
 
 **DeepPowerNGH2** Fazendas energéticas hibridas pordutoras de gas natural e h2, distribuidos por gasodutos hibridos 95/5%, chegando a 15/85% em 2030, integradas a NGH2DataCloud e DeepWind
 
-**DeepRegulamentação**: Ecossistema de regulamentar, Arsesp, estadual, PANCLIMA municipal paulista, na Bacia de Santos, Sâo Paulo, Brasil, gasodutos hibridos, Gas Natural e H2, 95/5% incialmente, atingindo 15/85% em 2030, supridos por Plataformas Maritimas integradas por fazendas energéticas de H2, com energia suprido por fazendas eólicas **DeepWind**.
-Distribuição atende a costa e sobe a serra para surprir residenciais, comerciais e industriais, seja para cocção, aquecimento ou HPC com 85% de eficiência enegética a grandes HPC, termoenergia em áreas Urbanas, alinhado as metas Projeto Térmico Pedreir, EMAE (na segunda tentativa de privatização.
-
-**DeepLeilão**:  Petrobras lidera leilão de 20 GW eólico para atenter DeepWind e metas ODS e NetZero
+**DeepRegulamentação:** Ecossistema de regulamentar, Arsesp, estadual, PANCLIMA municipal paulista, habilita gasodutos hibridos, Gas Natural e H2, 95/5% incialmente, atingindo 15/85% em 2030, supridos por Plataformas Maritimas integradas por Fazendas energéticas maritimas integradas a usinas de H2 com energia suprido por fazendas eólicas DeepWind marítimas que entregam o blend, Gas Natural e H2, através de gasodutos hibridos. Distribuição atende a costa e sobe a serra para surprir residenciais, comerciais e industriais, seja para cocção, aquecimento ou HPC com 85% de eficiência enegética a grandes HPC, termoenergia em áreas Urbanas, alinhado as metas Projeto Térmico Pedreira | EMAE (na segunda tentativa de privatização), eólica, gas natural marítimas, por exemplo, na Bacia de Santos, Sâo Paulo, Brasi.
 
 **NGH2DataCloud** O NGH2DataCloud é um sistema de computação em nuvem que é alimentado e integrado à planta energética NGH2DeepEnergy, 95/5%. O NGH2DeepCloud é capaz de fornecer serviços de computação, armazenamento e rede de forma escalável e eficiente localmente em zonas urbanas, suprido por Turbinas Hibridas a Gas Natural e Hidrogênio, tecnlogia disponível e validada pelo mercado e grandes fornecedores globais.
 
-**DeepCool**: O DeepCool é um sistema de resfriamento que utiliza uma variedade de técnicas, incluindo resfriamento a água, resfriamento a ar e resfriamento a imersão. O DeepCooling é capaz de manter o DeepCloud a uma temperatura adequada, mesmo quando está operando sob carga pesada.
+**DeepCool:** O DeepCool é um sistema de resfriamento que utiliza uma variedade de técnicas, incluindo resfriamento a água, resfriamento a ar e resfriamento a imersão. O DeepCool é capaz de manter o DeepCloud a uma temperatura adequada, mesmo quando está operando sob carga pesada.
 
-**DeepHealth**: O DeepHealth foi nossa primeira experiencia com Tensores durante o **hackcovid19**, é um sistema de diagnóstico médico que utiliza inteligência artificial para identificar lesões em imagens de saúde. O DeepHealth é capaz de identificar lesões com precisão, o que pode levar a um tratamento mais eficaz que estimula e demanda os demais projetos.**
-
-**DeepAI**: Redução do consumo de energia dos modelos de IA
+**DeepHealth:** O DeepHealth foi nossa primeira experiencia com Tensores durante o hackcovid19, é um sistema de diagnóstico médico que utiliza inteligência artificial para identificar lesões em imagens de saúde. O DeepHealth é capaz de identificar lesões com precisão, o que pode levar a um tratamento mais eficaz que estimula e demanda os demais projetos.**
 
 **DeepVision**: Imagens por IA com saída STL, 3DM, DWG com detalhes de marcas e componentes para serem entregues pela indústria 4.0, impossível hoje, apenas via impressão 2D.
 
-**DeepAIX**: ISO para operar todos os aplicativos e modelos de IA 100% in-memory, incluindo persistência, baseado no Linux chamado "Linux From Scratch" (LFS). O LFS é um projeto de código aberto que fornece um guia passo a passo sobre como construir seu próprio sistema operacional Linux a partir de sua base de código.
+**DeepAIX:** ISO para operar todos os aplicativos e modelos de IA 100% in-memory, incluindo persistência, baseado no Linux chamado "Linux From Scratch" (LFS). O LFS é um projeto de código aberto que fornece um guia passo a passo sobre como construir seu próprio sistema operacional Linux a partir de sua base de código.
+
+**DeepAI**: Redução do consumo de energia dos modelos de IA
+
+**DeepVision** Imagens por IA com saída STL, 3DM, DWG com detalhes de marcas e componentes para serem entregues pela indústria 4.0, impossível hoje, apenas via impressão 2D.
+
+**DeepPLIMM**: Monetizar a economia circular no ato da compra através do ciclo de vida do produto (PLM) e ciclo de vida do resíduo (WLM).
+ [PLIMM Initiative](https://opensea.io/collection/plimm)
+ 
+**DeepLixo**: Ecosistema @poplixo
+ [USA&CCNFT Initiative](https://opensea.io/collection/usa-ccnfts)
+
+**DeepFashion** [PopLixo Initiative](https://opensea.io/collection/poplixo)
+
+ **PopLixoCity** [PopCity Initiative](https://opensea.io/collection/poplixocity)
 
 # DeepSun
 
 **Visão**
 
-O Projeto DeepSun é uma iniciativa de construção de um ecossistema de DeepClouds de energia renovável, com o objetivo de fornecer energia limpa e acessível para o mundo. O projeto será financiado por meio da venda de NFTs de crédito de carbono, que serão lastreados em PLIMM, um criptoativo já gerado no OpenSea.
-Sim, os DeepClouds distribuídos recebem continuamente energia por causa dos fusos horários diferentes. Isso significa que eles podem gerar energia mesmo quando o sol não está brilhando em um determinado local.
+O Projeto DeepSun é uma iniciativa de construção de um ecossistema de DeepEnergy de energia renovável, com o objetivo de fornecer energia limpa e acessível para o mundo. O projeto será financiado por meio da venda de NFTs de crédito de carbono, que serão lastreados em PLIMM, um cripto ativo já gerado no Open Sea.
+Sim, os DeepCloud distribuídos recebem continuamente energia por causa dos fusos horários diferentes. Isso significa que eles podem gerar energia mesmo quando o sol não está brilhando em um determinado local.
 
-O total de energia foi calculado considerando as horas solares líquidas. Isso significa que as horas solares que não são aproveitadas pelos DeepClouds não foram contabilizadas.
+O total de energia foi calculado considerando as horas solares líquidas. Isso significa que as horas solares que não são aproveitadas pelos DeepCloud não foram contabilizadas.
 
 Por exemplo, se um DeepCloud está localizado em um local que recebe 6 horas de sol por dia, mas só está operando por 4 horas por dia, então apenas 4 horas de sol serão contabilizadas no total de energia.
 
-Ao considerar as horas solares líquidas, podemos obter uma estimativa mais precisa da quantidade de energia que os DeepClouds distribuídos podem gerar. Isso é importante porque nos permite avaliar o potencial do projeto DeepSun para fornecer energia limpa e renovável para o mundo.
+Ao considerar as horas solares líquidas, podemos obter uma estimativa mais precisa da quantidade de energia que os DeepClouds distribuídos podem gerar. Isso é importante porque nos permite avaliar o potencial do projeto DeepSun para fornecer energia limpa e renovável para as DeepCity pelos desertos o mundo atual.
 
 **Missão**
 
@@ -229,24 +256,24 @@ O Projeto DeepSun reduz as emissões de gases de efeito estufa em bilhões de to
 
 # Power & DeepCloudEcoHold
 
-| Site ID | Local | Google Earth Link | Latitude/Longitude | Area (km²) | UTC | DeepEnergy(TW) | DeepCloud(GW) |DeepEnergy(TW) | Região |
+| Site ID | Local |🌍 Google Earth Link | Latitude/Longitude | Area (km²) | UTC | DeepEnergy IN(TW) | DeepCloud Conta (GW) |DeepEnergy OUT Receitas (TW) | Região |
 |---|---|---|---|---|---|---|---|---|---|
-| P&DCEH1 | Sahara, Libya | Google Earth | 27.6826, 15.8389 | 363.48 | +2 | 0.727 | 1 | 0.717 | Africa |
-| P&DCEH2 | Tsagaan, China | Google Earth | 42.8279, 103.2319 | 121.19 | +8 | 0.242 | 1 | 0.232 | Asia |
-| P&DCEH3 | Australia Central | Google Earth | -23.6980, 133.8807 | 70 | +9:30 | 0.14 | 1 | 0.13 | Oceania |
-| P&DCEH4 | Mojave | Google Earth | 36.5323, -116.9325 | 80 | -8 | 0.16 | 1 | 0.15 | North America |
-| P&DCEH5 | Atacama | Google Earth | -23.8635, -69.1320 | 90 | -3 | 0.18 | 1 | 0.17 | South America |
-| P&DCEH6 | Sonora | Google Earth | 29.2705, -111.9516 | 100 | -7 | 0.2 | 1 | 0.19 | North America |
+| P&DCEH1 | Sahara, Libya | [Google Earth](https://earth.google.com/web/@8.84006633,4.89731038,250.61724907a,10980922.26193372d,30.00000163y,0h,0t,0r/data=MikKJwolCiExU01QSkVQQ3lHUXVmak9HTnMxT3JMamVZM19hMHBxZFAgAToDCgEw?authuser=0)  | 27.6826, 15.8389 | 363.48 | +2 | 0.727 | 1 | 0.717 | Africa |
+| P&DCEH2 | Tsagaan, China | [Google Earth](https://earth.google.com/web/@8.84006633,4.89731038,250.61724907a,10980922.26193372d,30.00000163y,0h,0t,0r/data=MikKJwolCiExU01QSkVQQ3lHUXVmak9HTnMxT3JMamVZM19hMHBxZFAgAToDCgEw?authuser=0) | 42.8279, 103.2319 | 121.19 | +8 | 0.242 | 1 | 0.232 | Asia |
+| P&DCEH3 | Australia Central | [Google Earth](https://earth.google.com/web/@8.84006633,4.89731038,250.61724907a,10980922.26193372d,30.00000163y,0h,0t,0r/data=MikKJwolCiExU01QSkVQQ3lHUXVmak9HTnMxT3JMamVZM19hMHBxZFAgAToDCgEw?authuser=0) | -23.6980, 133.8807 | 70 | +9:30 | 0.14 | 1 | 0.13 | Oceania |
+| P&DCEH4 | Mojave | [Google Earth](https://earth.google.com/web/@8.84006633,4.89731038,250.61724907a,10980922.26193372d,30.00000163y,0h,0t,0r/data=MikKJwolCiExU01QSkVQQ3lHUXVmak9HTnMxT3JMamVZM19hMHBxZFAgAToDCgEw?authuser=0) | 36.5323, -116.9325 | 80 | -8 | 0.16 | 1 | 0.15 | North America |
+| P&DCEH5 | Atacama | [Google Earth](https://earth.google.com/web/@8.84006633,4.89731038,250.61724907a,10980922.26193372d,30.00000163y,0h,0t,0r/data=MikKJwolCiExU01QSkVQQ3lHUXVmak9HTnMxT3JMamVZM19hMHBxZFAgAToDCgEw?authuser=0) | -23.8635, -69.1320 | 90 | -3 | 0.18 | 1 | 0.17 | South America |
+| P&DCEH6 | Sonora | [Google Earth](https://earth.google.com/web/@8.84006633,4.89731038,250.61724907a,10980922.26193372d,30.00000163y,0h,0t,0r/data=MikKJwolCiExU01QSkVQQ3lHUXVmak9HTnMxT3JMamVZM19hMHBxZFAgAToDCgEw?authuser=0) | 29.2705, -111.9516 | 100 | -7 | 0.2 | 1 | 0.19 | North America |
 | P&DCEH7 | Kalahari | Google Earth | -22.3285, 21.8569 | 110 | +2 | 0.22 | 1 | 0.21 | Africa |
-| P&DCEH8 | Patagonia | Google Earth | -51.9225, -69.4750 | 120 | -3 | 0.24 | 1 | 0.23 | South America |
-| P&DCEH9 | Taklamakan | Google Earth | 39.3743, 83.0158 | 130 | +8 | 0.26 | 1 | 0.25 | Asia |
+| P&DCEH8 | Patagonia | [Google Earth](https://earth.google.com/web/@8.84006633,4.89731038,250.61724907a,10980922.26193372d,30.00000163y,0h,0t,0r/data=MikKJwolCiExU01QSkVQQ3lHUXVmak9HTnMxT3JMamVZM19hMHBxZFAgAToDCgEw?authuser=0) | -51.9225, -69.4750 | 120 | -3 | 0.24 | 1 | 0.23 | South America |
+| P&DCEH9 | Taklamakan | [Google Earth](https://earth.google.com/web/@8.84006633,4.89731038,250.61724907a,10980922.26193372d,30.00000163y,0h,0t,0r/data=MikKJwolCiExU01QSkVQQ3lHUXVmak9HTnMxT3JMamVZM19hMHBxZFAgAToDCgEw?authuser=0) | 39.3743, 83.0158 | 130 | +8 | 0.26 | 1 | 0.25 | Asia |
 | P&DCEH10 | Namibia | Google Earth | -23.6445, 15.8076 | 140 | +2 | 0.28 | 1 | 0.27 | Africa |
 | P&DCEH11 | White Sands | Google Earth | 32.7867, -106.3257 | 150 | -7 | 0.3 | 1 | 0.29 | North America |
 | P&DCEH12 | Colorado | Google Earth | 38.9072, -109.1739 | 160 | -7 | 0.32 | 1 | 0.31 | North America |
-| P&DCEH13 | Libya | Google Earth | 26.2756, 17.2273 | 170 | +2 | 0.34 | 1 | 0.33 | Africa |
-| P&DCEH14 | Tabernas | Google Earth | -38.9949257, -9.7286609 | 180 | +2 | 0.36 | 1 | 0.35 | Europe |
-| P&DCEH15 | Sahara | Google Earth | 31.0615, -7.9375 | 190 | +1 | 0.38 | 1 | 0.37 | Africa |
-| P&DCEH16 | Canudos | Google Earth | 31.0615, -7.9375 | 141.3 | +1 | 0.28 | 1 | 0.273 | South America |
+| P&DCEH13 | Libya | [Google Earth](https://earth.google.com/web/@8.84006633,4.89731038,250.61724907a,10980922.26193372d,30.00000163y,0h,0t,0r/data=MikKJwolCiExU01QSkVQQ3lHUXVmak9HTnMxT3JMamVZM19hMHBxZFAgAToDCgEw?authuser=0) | 26.2756, 17.2273 | 170 | +2 | 0.34 | 1 | 0.33 | Africa |
+| P&DCEH14 | Tabernas | [Google Earth](https://earth.google.com/web/@8.84006633,4.89731038,250.61724907a,10980922.26193372d,30.00000163y,0h,0t,0r/data=MikKJwolCiExU01QSkVQQ3lHUXVmak9HTnMxT3JMamVZM19hMHBxZFAgAToDCgEw?authuser=0) | -38.9949257, -9.7286609 | 180 | +2 | 0.36 | 1 | 0.35 | Europe |
+| P&DCEH15 | Sahara | [Google Earth](https://earth.google.com/web/@8.84006633,4.89731038,250.61724907a,10980922.26193372d,30.00000163y,0h,0t,0r/data=MikKJwolCiExU01QSkVQQ3lHUXVmak9HTnMxT3JMamVZM19hMHBxZFAgAToDCgEw?authuser=0) | 31.0615, -7.9375 | 190 | +1 | 0.38 | 1 | 0.37 | Africa |
+| P&DCEH16 | Canudos | [Google Earth](https://earth.google.com/web/@8.84006633,4.89731038,250.61724907a,10980922.26193372d,30.00000163y,0h,0t,0r/data=MikKJwolCiExU01QSkVQQ3lHUXVmak9HTnMxT3JMamVZM19hMHBxZFAgAToDCgEw?authuser=0)  | 31.0615, -7.9375 | 141.3 | +1 | 0.28 | 1 | 0.273 | South America |
 |**Total**||||||**3.985**|**16**|**3.825**||
 
 A produção total de energia é de 3,985 TW. O consumo total dos DeepClouds é de 16 GW. A energia excedente total é de 3,825 GW. A receita total da energia excedente é de 1,538 bilhão de USD. A receita total dos serviços de dados é de 1,283 bilhão de USD.
@@ -263,7 +290,7 @@ total é de 2,821 bilhões de USD.
 # O lucro total é de 
 1,009 bilhão de USD.
 
-AEco Hold paga 50% dos lucros como dividendos, que são 504,5 milhões de USD apartir do IPO em 2028 .
+A Eco Hold paga 50% dos lucros como dividendos, que são USD 504,5 milhões a partir do IPO em 2028 .
 
 **CAPEX:** O CAPEX é o custo de construção das usinas solares e dos data centers. Inclui o custo de terra, materiais, mão de obra e equipamentos.
 
@@ -281,16 +308,16 @@ O Projeto DEC e time atendem a uma série de normas e certificações, incluindo
 - **HIPAA**: Esta lei dos Estados Unidos exige que os fornecedores de saúde atendam a certos requisitos de segurança da informação para proteger os dados de saúde dos pacientes.
 - **SOC 2**: Esta norma fornece um conjunto de requisitos para gerenciar os controles internos de uma organização.
 Validação de resultados: AEco Hold trabalha com uma série de organizações para validar seus resultados, incluindo:
-Governança; SoluçõesEco Hold validadas por
+Governança; Soluções Eco Hold validadas por
 - **NIST**: O Instituto Nacional de Padrões e Tecnologia (NIST) é uma agência do governo dos Estados Unidos que desenvolve padrões e diretrizes para segurança da informação.
 - **CSA**: A Comissão de Autoridades de Segurança (CSA) é uma associação internacional de organizações que trabalham para promover a segurança da informação.
 - **ISACA**: A Associação Internacional de Auditores de Sistemas de Informação (ISACA) é uma associação profissional que promove a excelência em auditoria, governança e gerenciamento de riscos.
 - **ISO 50001**
-- **UP Time Institute**
+- **UPTime Institute**
 - **Open Compute**
 - **Nasdaq Board Diversity**
-- **ODS2030**
-- **RBI Renda Basica Universal** 1% dos dividendos distribuidos em tempo para comunidades locais
+- **ODS 2030**
+- **RBI Renda Básica Universal** 1% dos dividendos distribuídos em tempo para comunidades locais
 - **Google Cloud Platform** Google Cloud Certified Professional Cloud Architect	Demonstrates the ability to design, build, and manage scalable, reliable, and secure cloud-based solutions that leverage Google Cloud Platform products and services.
 - **Amazon Web Services**	AWS Certified Solutions Architect - Associate	Demonstrates the ability to design and deploy highly scalable, cost-effective, and reliable distributed computing solutions on AWS.
 - **Microsoft Azure** Microsoft Certified Azure Solutions Architect Expert	Demonstrates the ability to design and implement complex cloud-based solutions using Microsoft Azure services.
@@ -360,7 +387,7 @@ Governança; SoluçõesEco Hold validadas por
 - Equipe de Logística e Cadeia de Suprimentos:
 - Equipe de Sustentabilidade: Claudia Soares
 
-# Fornecedores & Clientes
+# Fornecedores e Clientes
 
 - Google Cloud Platform
 - AWS
@@ -376,7 +403,7 @@ Governança; SoluçõesEco Hold validadas por
 
 **Time de desenvolvimento**
 
-O time de desenvolvimento regional poor continente e diferentes fuso horários mantem o desenvolvimento full time, é responsável por desenvolver e manter as entregas do projeto por ecossistema. O time é composto por engenheiros de software, engenheiros de hardware, engenheiros de qualidade e gerentes de projeto.
+O time de desenvolvimento regional por continente e diferentes fuso horários mantém o desenvolvimento full time, é responsável por desenvolver e manter as entregas do projeto por ecossistema. O time é composto por engenheiros de software, engenheiros de hardware, engenheiros de qualidade e gerentes de projeto.
 
 **América do Norte:**
 
@@ -508,7 +535,7 @@ Os times de desenvolvimento regional é responsável por desenvolver e manter as
 
 **Experiência**
 
-Os membros do time têm experiência variando de Jovens Aprendizes a profissionais com 2 a 10 anos no desenvolvimento além de anciões em design, projeto, construção, implantação, comissionamento, manutenção, atualização, ciclo de vida do produto (plm) e ciclo de vida do resíduo (wlm). Eles têm experiência em uma variedade de tecnologias, incluindo Devops Java, Python, C++, C#, JavaScript, React, Angular, Node.js, AWS, Azure e GCP.
+Os membros do time têm experiência variando de Jovens Aprendizes a profissionais com 2 a 10 anos no desenvolvimento além de anciões em design, projeto, construção, implantação, comissionamento, manutenção, atualização, ciclo de vida do produto (PLM) e ciclo de vida do resíduo (WLM). Eles têm experiência em uma variedade de tecnologias, incluindo Devops Java, Python, C++, C#, JavaScript, React, Angular, Node.js, AWS, Azure e GCP.
 
 **Remuneração**
 
@@ -594,6 +621,10 @@ We offer top-notch sustainable solutions powered by advanced technology, meeting
 
 1️⃣5️⃣ PLIMM Bank: Optimize financial logistics with efficient routing, transportation monitoring, and intelligent financial supply chain management. #FinancialEvolved
 
+1️⃣6️⃣ Deep Consulting
+
+1️⃣7️⃣ Deep Design
+
 Together, Eco Hold and its subsidiaries offer a wide array of sustainable solutions, empowering a greener and more conscious Present. Join us in making a difference! 🌿🤝🌍💡 #EcoHold #SustainabilityMatters
 
 # ENERGY EFFICIENCY CONSIDERATIONS FOR HPC PROCUREMENT DOCUMENT: 2.0.1.
@@ -617,3 +648,4 @@ Thank you very much for your attention and support. Let's make energy efficiency
 Best regards
 
 Zeh Sobrinho |Eco Hold | Co-Criador e o busão
+
