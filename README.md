@@ -195,6 +195,10 @@ Deep Cloud: O Deep Cloud é um sistema de computação em nuvem que é alimentad
 
 **DeepCool:** O DeepCool é um sistema de resfriamento que utiliza uma variedade de técnicas, incluindo resfriamento a água, resfriamento a ar e resfriamento a imersão. O DeepCool é capaz de manter o Deep Cloud a uma temperatura adequada, mesmo quando está operando sob carga pesada.
 
+**DeepSunStorage** Sistema de termoacumulação armazena calor do sol durante o dia para ser connsumido pelos DeepChillers à noite
+
+**DeepChiller** Sistema de resfriamento por termoacumulação utiliza calor do sol durante o dia para produzir frio para os DeepCloud ou calor acumulado nos DeepSunStorage.
+
 **Deep Health:** O Deep Health foi nossa primeira experiência com Tensores durante o hack convid 19, é um sistema de diagnóstico médico que utiliza inteligência artificial para identificar lesões em imagens de saúde. O Deep Health é capaz de identificar lesões com precisão, o que pode levar a um tratamento mais eficaz que estimula e demanda os demais projetos.**
 
 **DeepVision**Imagens por dia com saída STL, 3DM, DWG com detalhes de marcas e componentes para serem entregues pela indústria 4.0, impossível hoje, apenas via impressão 2D.
