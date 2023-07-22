@@ -1,4 +1,4 @@
-# O DEC Project
+# O DeepEnergyCloud Project
 
 Olá, queridões e queridonas, comunidades, investidores, FAPESP, Google, AWS, Azure, Tencent, Huawei, IBM, Oracle, Alibaba e mercado!
 
