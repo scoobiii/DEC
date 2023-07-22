@@ -189,7 +189,40 @@ Deep Cloud: O Deep Cloud é um sistema de computação em nuvem que é alimentad
 
 **Deep Leilão** 
 - Petrobras adota ISO 50001
-- Lança leilão de 20 GW eólicas offshore.
+- Lança leilão de 10 TW eólicas offshore.
+  
+**IndexDeepCloud** O IDC é indicador entre uma faixa numérica e de gradiente de cores entre o azul e o pink que indica o quão o DataCloud esta próximo ou distante do ideal
+
+                - "Fator de Utilização do Economizador de Ar (AEUF)",
+                - "Eficiência de Fluxo de Ar",
+                - "Gabinetes em Conformidade com os Padrões ASHRAE",
+                - "Eficiência do Uso de Carbono (CUE)",
+                - "Economia de CO2",
+                - "Fator de Capacidade de Resfriamento (CCF)",
+                - "Eficiência da Infraestrutura do Data Center (DCiE)",
+                - "Eficiência de Desempenho do Data Center (DCPE)",
+                - "Eficiência do Desempenho do Data Center por Energia (DPPE)",
+                - "Densidade de Energia do Data Center (DCPD)",
+                - "Eficiência do Espaço do Data Center (DCSE)",
+                - "Diferença de Temperatura por Gabinete (Delta-T por Gabinete)",
+                - "Eficiência de Utilização de Hardware Implementado (DH-UE)",
+                - "Taxa de Utilização de Hardware Implementado (DH-UR)",
+                - "Eficiência de Reutilização de Energia (ERE)",
+                - "Fator de Reutilização de Energia (ERF)",
+                - "Razão de Energia Fixa para Variável (FVER)",
+                - "Coeficiente de Energia Verde (GEC)",
+                - "Fator de Utilização da Rede (GUF)",
+                - "Eficiência do Sistema de Ventilação e Ar Condicionado (HSE)",
+                - "Eficiência de Energia do Equipamento de TI (ITEE)",
+                - "Eficiência de Uso de Energia (PUE)",
+                - "Eficiência de Espaço, Consumo de Energia e Desempenho (SWaP)",
+                - "Capacidade de Energia Desperdiçada por Rack",
+                - "Eficiência de Carbono da Tecnologia (TCE)",
+                - "Temperatura por Gabinete",
+                - "Eficiência de Energia do Sistema de Alimentação Ininterrupta (UPS) (UPEE)",
+                - "Fator de Potência do UPS (UPF)",
+                - "Fator de Utilização do Economizador de Água (WEUF)",
+                - "Eficiência de Uso da Água (WUE)"
 
 **NGH2 DataCloud** O NGH2 DataCloud é um sistema de computação em nuvem que é alimentado e integrado à planta energética NGH2 Deep Energy, 95/5%. O N2Deep Cloud é capaz de fornecer serviços de computação, armazenamento e rede de forma escalável e eficiente localmente em zonas urbanas, suprido por Turbinas Híbridas a Gás Natural e Hidrogênio, tecnologia disponível e validada pelo mercado e grandes fornecedores globais.
 
