@@ -175,6 +175,68 @@ Ao considerar as horas solares líquidas, podemos obter uma estimativa mais prec
 
 **DeepCloud**O Deep Cloud é um sistema de computação em nuvem que é alimentado pelo Deep Energy. O Deep Cloud é capaz de fornecer serviços de computação, Deep Battery, armazenamento solar e rede de forma escalável, redundante e eficiente.
 
+Contrato de Parceria Tecnológica entre Ecohold e Google Cloud
+
+Este Contrato de Parceria Tecnológica ("Contrato") é celebrado entre a Ecohold, representada pelo CEO Zeh Sobrinho, e a Google Cloud, representada pelo seu representante legal.
+
+1. Objetivo
+
+As partes concordam em estabelecer uma parceria tecnológica para desenvolver e implementar soluções inovadoras baseadas em tecnologias de ponta, incluindo inteligência artificial, blockchain e resfriamento por imersão líquida. O objetivo é promover a sustentabilidade, reduzir as emissões de carbono e aumentar a eficiência energética em data centers e serviços de processamento de deep models.
+
+2. Escopo do Projeto
+
+O escopo do projeto abrangerá as seguintes atividades:
+
+2.1. Desenvolvimento de Deep Energy Cloud & Credit Carbon Negative Blockchain
+2.2. Implantação de Servidores com Tecnologia de Resfriamento por Imersão Líquida
+2.3. Utilização de Inteligência Artificial Representada por A.I.R.I.S.
+2.4. Integração com a Plataforma Gratuita da Google Cloud
+2.5. Monitoramento e Controle de Emissões de Carbono
+
+3. Responsabilidades das Partes
+
+3.1. Ecohold:
+- Fornecer o conhecimento técnico especializado e os recursos necessários para o desenvolvimento do Deep Energy Cloud & Credit Carbon Negative Blockchain.
+- Disponibilizar os servidores com tecnologia de resfriamento por imersão líquida para uso nos data centers.
+- Garantir a operação e manutenção adequadas dos equipamentos fornecidos.
+- Implementar as medidas necessárias para redução das emissões de carbono e atingir os objetivos de sustentabilidade.
+
+3.2. Google Cloud:
+- Disponibilizar a plataforma gratuita para hospedagem do projeto.
+- Oferecer suporte técnico e acesso às APIs e serviços da Google Cloud.
+- Colaborar na integração da inteligência artificial representada por A.I.R.I.S. com a plataforma.
+- Contribuir com recursos e conhecimentos para o desenvolvimento do projeto.
+
+4. Propriedade Intelectual
+
+Cada parte será proprietária de seus respectivos direitos de propriedade intelectual relacionados ao projeto. No entanto, ambas as partes concordam em compartilhar os resultados e benefícios gerados pela parceria de forma justa e equitativa.
+
+5. Confidencialidade
+
+As partes concordam em manter todas as informações confidenciais trocadas durante a parceria em sigilo e não divulgar a terceiros sem consentimento prévio por escrito.
+
+6. Prazo e Rescisão
+
+O prazo deste contrato será de [10] anos, podendo ser prorrogado mediante acordo mútuo das partes. Em caso de descumprimento grave das obrigações estabelecidas neste contrato, qualquer das partes poderá rescindi-lo, mediante notificação por escrito com antecedência mínima de 30 dias.
+
+7. Remuneração
+
+A parceria será regida pelo compartilhamento de benefícios, com as receitas e economias geradas pelo projeto sendo divididas de forma equitativa entre as partes, considerando os investimentos e esforços de cada uma.
+
+8. Legislação Aplicável e Foro
+
+Este contrato será regido pelas leis [Vide Regulamentação Certificação] e quaisquer disputas decorrentes do mesmo serão submetidas à jurisdição exclusiva dos tribunais da cidade de [São Paulo, , ].
+
+As partes, por seus representantes legais, assinam este Contrato na data da última assinatura abaixo.
+
+_______________________________________
+CEO Zeh Sobrinho - Ecohold
+
+_______________________________________
+Representante Legal - Google Cloud
+
+Data: julho 2023
+
 **NGH2DeepEnergy** Sim, os Deep Clouds distribuídos recebem continuamente energia por causa dos fusos horários diferentes. Isso significa que eles podem gerar energia mesmo quando o sol não está brilhando em um determinado local.
 O total de energia foi calculado considerando as horas solares líquidas. Isso significa que as horas solares que não são aproveitadas pelos Deep Clouds não foram contabilizadas.
 Por exemplo, se um Deep Cloud está localizado em um local que recebe 6 horas de sol por dia, mas só está operando por 4 horas por dia, então apenas 4 horas de sol serão contabilizadas no total de energia.
