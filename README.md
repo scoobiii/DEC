@@ -1,4 +1,4 @@
-# O DeepEnergyCloud Project
+# O Deep Energy Cloud Project
 
 Olá, queridões e queridonas, comunidades, investidores, FAPESP, Google, AWS, Azure, Tencent, Huawei, IBM, Oracle, Alibaba e mercado!
 
@@ -191,7 +191,7 @@ Deep Cloud: O Deep Cloud é um sistema de computação em nuvem que é alimentad
 - Petrobras adota ISO 50001
 - Lança leilão de 10 TW eólicas offshore.
   
-**IndexDeepCloud** O IDC é indicador entre uma faixa numérica e de gradiente de cores entre o azul e o pink que indica o quão o DataCloud esta próximo ou distante do ideal
+**Index Deep Cloud** O IDC é indicador entre uma faixa numérica e de gradiente de cores entre o azul e o pink que indica o quão o DataCloud esta próximo ou distante do ideal de eficiência energética.
 
                 - "Fator de Utilização do Economizador de Ar (AEUF)",
                 - "Eficiência de Fluxo de Ar",
@@ -224,33 +224,67 @@ Deep Cloud: O Deep Cloud é um sistema de computação em nuvem que é alimentad
                 - "Fator de Utilização do Economizador de Água (WEUF)",
                 - "Eficiência de Uso da Água (WUE)"
 
+o "**Index Deep Cloud**" e atribuir a nota AI para o designer **Deep Cloud da Eco Hold**
+Tabela com os KPIs normalizados e seus respectivos pesos:
+
+| KPI | Grandeza | Valor Mínimo | Valor Máximo | Valor Ideal | Excelência | Peso |
+|-----|----------|-------------|-------------|-------------|------------|------|
+| AEUF | % | 0 | 100 | 90 | 95 | 0.05 |
+| Eficiência de Fluxo de Ar | l/s/rack | 0 | 1000 | 600 | 750 | 0.05 |
+| Gabinetes em Conformidade com os Padrões ASHRAE | % | 0 | 100 | 90 | 95 | 0.05 |
+| CUE | kgCO2/kWh | 0 | 100 | 50 | 25 | 0.1 |
+| Economia de CO2 | tCO2/ano | 0 | 10000 | 5000 | 25000 | 0.1 |
+| CCF | kW/rack | 0 | 1000 | 500 | 250 | 0.05 |
+| DCiE | % | 0 | 100 | 90 | 95 | 0.05 |
+| DCPE | % | 0 | 100 | 90 | 95 | 0.05 |
+| DPPE | % | 0 | 100 | 90 | 95 | 0.05 |
+| DCPD | kW/m² | 0 | 1000 | 500 | 250 | 0.05 |
+| DCSE | % | 0 | 100 | 90 | 95 | 0.05 |
+| Delta-T por Gabinete | °C | 0 | 10 | 5 | 2.5 | 0.05 |
+| DH-UE | % | 0 | 100 | 90 | 95 | 0.05 |
+| DH-UR | % | 0 | 100 | 90 | 95 | 0.05 |
+| ERE | % | 0 | 100 | 90 | 95 | 0.05 |
+| ERF | % | 0 | 100 | 90 | 95 | 0.05 |
+| FVER | % | 0 | 100 | 90 | 95 | 0.05 |
+| GEC | % | 0 | 100 | 90 | 95 | 0.05 |
+| GUF | % | 0 | 100 | 90 | 95 | 0.05 |
+| HSE | % | 0 | 100 | 90 | 95 | 0.05 |
+| ITEE | % | 0 | 100 | 90 | 95 | 0.05 |
+| PUE | % | 0 | 200 | 1.3 | 1.05 | 0.1 |
+| SWaP | % | 0 | 100 | 90 | 95 | 0.05 |
+| Capacidade de Energia Desperdiçada por Rack | kW/rack | 0 | 1000 | 500 | 250 | 0.05 |
+| TCE | kgCO2/kWh | 0 | 100 | 50 | 25 | 0.1 |
+| Temperatura por Gabinete | °C | 0 | 10 | 5 | 2.5 | 0.05 |
+| UPEE | % | 0 | 100 | 90 | 95 | 0.05 |
+| UPF | % | 0 | 100 | 90 | 95 | 0.05 |
+
 **NGH2 DataCloud** O NGH2 DataCloud é um sistema de computação em nuvem que é alimentado e integrado à planta energética NGH2 Deep Energy, 95/5%. O N2Deep Cloud é capaz de fornecer serviços de computação, armazenamento e rede de forma escalável e eficiente localmente em zonas urbanas, suprido por Turbinas Híbridas a Gás Natural e Hidrogênio, tecnologia disponível e validada pelo mercado e grandes fornecedores globais.
 
-**DeepCool:** O DeepCool é um sistema de resfriamento que utiliza uma variedade de técnicas, incluindo resfriamento a água, resfriamento a ar e resfriamento a imersão. O DeepCool é capaz de manter o Deep Cloud a uma temperatura adequada, mesmo quando está operando sob carga pesada.
+**Deep Cool:** O DeepCool é um sistema de resfriamento que utiliza uma variedade de técnicas, incluindo resfriamento a água, resfriamento a ar e resfriamento a imersão. O DeepCool é capaz de manter o Deep Cloud a uma temperatura adequada, mesmo quando está operando sob carga pesada.
 
-**DeepSunStorage** Sistema de termoacumulação armazena calor do sol durante o dia para ser connsumido pelos DeepChillers à noite
+**Deep Sun Storage** Sistema de termoacumulação armazena calor do sol durante o dia para ser connsumido pelos DeepChillers à noite
 
-**DeepChiller** Sistema de resfriamento por termoacumulação utiliza calor do sol durante o dia para produzir frio para os DeepCloud ou calor acumulado nos DeepSunStorage.
+**Deep Chiller** Sistema de resfriamento por termoacumulação utiliza calor do sol durante o dia para produzir frio para os DeepCloud ou calor acumulado nos DeepSunStorage.
 
 **Deep Health:** O Deep Health foi nossa primeira experiência com Tensores durante o hack convid 19, é um sistema de diagnóstico médico que utiliza inteligência artificial para identificar lesões em imagens de saúde. O Deep Health é capaz de identificar lesões com precisão, o que pode levar a um tratamento mais eficaz que estimula e demanda os demais projetos.**
 
-**DeepVision**Imagens por dia com saída STL, 3DM, DWG com detalhes de marcas e componentes para serem entregues pela indústria 4.0, impossível hoje, apenas via impressão 2D.
+**Deep Vision**Imagens por dia com saída STL, 3DM, DWG com detalhes de marcas e componentes para serem entregues pela indústria 4.0, impossível hoje, apenas via impressão 2D.
 
-**DeepAIX:** ISO para operar todos os aplicativos e modelos de IA 100% in-memory, incluindo persistência, baseado no Linux chamado "Linux From Scratch" (LFS). O LFS é um projeto de código aberto que fornece um guia passo a passo sobre como construir seu próprio sistema operacional Linux a partir de sua base de código.
+**Deep AIX:** ISO para operar todos os aplicativos e modelos de IA 100% in-memory, incluindo persistência, baseado no Linux chamado "Linux From Scratch" (LFS). O LFS é um projeto de código aberto que fornece um guia passo a passo sobre como construir seu próprio sistema operacional Linux a partir de sua base de código.
 
-**DeepAI**: Redução do consumo de energia dos modelos de IA
+**Deep AI**: Redução do consumo de energia dos modelos de IA
 
 **DeepVision** Imagens por dia com saída STL, 3DM, DWG com detalhes de marcas e componentes para serem entregues pela indústria 4.0, impossível hoje, apenas via impressão 2D.
 
-**DeepPLIMM**Monetizar a economia circular no ato da compra através do ciclo de vida do produto (PLM) e ciclo de vida do resíduo (WLM).
+**Deep PLIMM**Monetizar a economia circular no ato da compra através do ciclo de vida do produto (PLM) e ciclo de vida do resíduo (WLM).
  [PLIMM Initiative](https://opensea.io/collection/plimm)
  
 **Deep Lixo**: Ecossistema @poplixo
  [USA&CCNFT Initiative](https://opensea.io/collection/usa-ccnfts)
 
-**DeepFashion** [PopLixo Initiative](https://opensea.io/collection/poplixo)
+**Deep Fashion** [PopLixo Initiative](https://opensea.io/collection/poplixo)
 
- **PopLixoCity** [PopCity Initiative](https://opensea.io/collection/poplixocity)
+ **Pop Lixo City** [PopCity Initiative](https://opensea.io/collection/poplixocity)
 
 # Deep Sun
 
