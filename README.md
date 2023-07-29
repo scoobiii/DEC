@@ -1,6 +1,6 @@
 # Treinamento EcoHold III - DeepEnergy e DeepCloud
 
-** O Deep Energy Cloud Project**
+**O Deep Energy Cloud Project**
 
 Olá, queridões e queridonas, comunidades, investidores, FAPESP, Google, AWS, Azure, Tencent, Huawei, IBM, Oracle, Alibaba e mercado!
 
