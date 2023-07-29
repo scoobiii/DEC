@@ -205,11 +205,11 @@ Contrato de Parceria Tecnológica entre Ecohold e Google Cloud
 
 Este Contrato de Parceria Tecnológica ("Contrato") é celebrado entre a Ecohold, representada pelo CEO Zeh Sobrinho, e a Google Cloud, representada pelo seu representante legal.
 
-1. Objetivo
+**1. Objetivo**
 
 As partes concordam em estabelecer uma parceria tecnológica para desenvolver e implementar soluções inovadoras baseadas em tecnologias de ponta, incluindo inteligência artificial, blockchain e resfriamento por imersão líquida. O objetivo é promover a sustentabilidade, reduzir as emissões de carbono e aumentar a eficiência energética em data centers e serviços de processamento de deep models.
 
-2. Escopo do Projeto
+**2. Escopo do Projeto**
 
 O escopo do projeto abrangerá as seguintes atividades:
 
@@ -221,7 +221,7 @@ O escopo do projeto abrangerá as seguintes atividades:
 
 3. Responsabilidades das Partes
 
-3.1. Ecohold:
+**3.1. Ecohold:**
 - Fornecer o conhecimento técnico especializado e os recursos necessários para o desenvolvimento do Deep Energy Cloud & Credit Carbon Negative Blockchain.
 - Disponibilizar os servidores com tecnologia de resfriamento por imersão líquida para uso nos data centers.
 - Garantir a operação e manutenção adequadas dos equipamentos fornecidos.
@@ -233,23 +233,23 @@ O escopo do projeto abrangerá as seguintes atividades:
 - Colaborar na integração da inteligência artificial representada por A.I.R.I.S. com a plataforma.
 - Contribuir com recursos e conhecimentos para o desenvolvimento do projeto.
 
-4. Propriedade Intelectual
+**4. Propriedade Intelectual**
 
 Cada parte será proprietária de seus respectivos direitos de propriedade intelectual relacionados ao projeto. No entanto, ambas as partes concordam em compartilhar os resultados e benefícios gerados pela parceria de forma justa e equitativa.
 
-5. Confidencialidade
+**5. Confidencialidade**
 
 As partes concordam em manter todas as informações confidenciais trocadas durante a parceria em sigilo e não divulgar a terceiros sem consentimento prévio por escrito.
 
-6. Prazo e Rescisão
+**6. Prazo e Rescisão**
 
 O prazo deste contrato será de [10] anos, podendo ser prorrogado mediante acordo mútuo das partes. Em caso de descumprimento grave das obrigações estabelecidas neste contrato, qualquer das partes poderá rescindi-lo, mediante notificação por escrito com antecedência mínima de 30 dias.
 
-7. Remuneração
+**7. Remuneração**
 
 A parceria será regida pelo compartilhamento de benefícios, com as receitas e economias geradas pelo projeto sendo divididas de forma equitativa entre as partes, considerando os investimentos e esforços de cada uma.
 
-8. Legislação Aplicável e Foro
+**8. Legislação Aplicável e Foro**
 
 Este contrato será regido pelas leis [Vide Regulamentação Certificação] e quaisquer disputas decorrentes do mesmo serão submetidas à jurisdição exclusiva dos tribunais da cidade de [São Paulo, , ].
 
@@ -277,7 +277,7 @@ Deep Cloud: O Deep Cloud é um sistema de computação em nuvem que é alimentad
 
 **Deep Leilão** 
 - Petrobras adota ISO 50001
-- Lança leilão de 10 TW eólicas offshore.
+- Petrobras lança leilão de 10 TW eólicas offshore.
   
 **Index Deep Cloud** O IDC é indicador entre uma faixa numérica e de gradiente de cores entre o azul e o pink que indica o quão o DataCloud esta próximo ou distante do ideal de eficiência energética.
 
@@ -822,7 +822,7 @@ Best regards
 
 Zeh Sobrinho |Eco Hold | Co-Criador e o busão
 
-# Cursos I
+# EcoHold Training 
 
 **Introdução à Revolução Industrial e o papel do carvão e petróleo no desenvolvimento das máquinas a vapor e locomotivas.**
 
@@ -887,9 +887,7 @@ Existem várias maneiras de monetizar a solução do problema da eficiência ene
 
 Vincent Cerf é um cientista da computação americano que é considerado um dos pais da internet. Ele é co-inventor do protocolo TCP/IP, que é o protocolo fundamental da internet
 
-Claro, aqui está o capítulo 1 do seu curso sobre datacenters:
-
-# Curso II - Datacenter
+# EcoHold Training II - Datacenter
 
 **O que é um datacenter?**
 
@@ -947,5 +945,8 @@ Existem várias maneiras de gerenciar a segurança e a eficiência de um datacen
 * **Usar práticas de gerenciamento de energia:** As práticas de gerenciamento de energia podem ajudar a reduzir os custos de energia de um datacenter.
 * **Usar práticas de gerenciamento de dados:** As práticas de gerenciamento de dados podem ajudar
 
-# Curso III
-https://docs.google.com/document/d/e/2PACX-1vSZqQ9S79aHzM8dJ0mwLFypUIvTECx0qdAgiButSl-2qpi5swKEt8RtdqjyMJqL4IfSQbZA5KMPnB70/pub
+# EcoHold Training III - DeepEnergy & DeepCloud
+
+**Udemy**
+<img src="https://docs.google.com/document/d/e/2PACX-1vSZqQ9S79aHzM8dJ0mwLFypUIvTECx0qdAgiButSl-2qpi5swKEt8RtdqjyMJqL4IfSQbZA5KMPnB70/pub"/>
+
