@@ -1,4 +1,4 @@
-# Google Cloud Service Health
+# Google Cloud Service Health 
 29 Jul 2022 14:05 PDT
 
 For a full Incident Report, please refer to [https://status.cloud.google.com/incidents/fmEL9i2fArADKawkZAa2](https://status.cloud.google.com/incidents/fmEL9i2fArADKawkZAa2)
