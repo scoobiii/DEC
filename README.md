@@ -947,8 +947,8 @@ Existem várias maneiras de gerenciar a segurança e a eficiência de um datacen
 
 # EcoHold Training III - DeepEnergy & DeepCloud 
 
-**- ET&CCNFT EcoHold Training & Carbon Credit Negative Block Chain -**
-- 
+**ET&CCNFT EcoHold Training & Carbon Credit Negative Block Chain**
+
  [Pagamento - ET&CCNFT - Valor 1 PLIMM = 1 ETH - Conversivel em ações EcoHold](https://opensea.io/collection/plimm)
 
  [Inscrição - Formulário ](https://forms.gle/tfC8WYk8QvNPjpfu7)
