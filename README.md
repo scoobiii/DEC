@@ -7,34 +7,39 @@ Apresento o DEC Project, um projeto de pesquisa e desenvolvimento, financiamento
 
 # Cenário, Dor, Dor, Oportunidade
 
-1. **Londres é a capital financeira do mundo.** Isso se deve a uma série de fatores, incluindo sua localização central, sua história como um centro comercial e seu sistema financeiro bem desenvolvido. Londres é o lar de muitas das maiores empresas financeiras do mundo, incluindo a BlackRock, a Vanguard e a Nimb.
+1. **Londres era a capital financeira do mundo.** Isso se devia a uma série de fatores, incluindo sua localização central, sua história como um centro comercial e seu sistema financeiro bem desenvolvido. Londres era o lar de muitas das maiores empresas financeiras do mundo, incluindo a BlackRock, a Vanguard e a Nimb.
   
   2. **O impacto financeiro da falha do Datacenter Google L5/6/7 em Londres em 22 de julho de 2022 foi significativo.** A falha causou uma interrupção no serviço de alguns produtos e serviços do Google, incluindo o Gmail, o YouTube e o Google Search. Isso resultou em perda de receita para o Google e também prejudicou sua reputação como fornecedor de serviços confiáveis.
 
   3. **O impacto da falha do Datacenter Google L5/6/7 em Londres também foi sentido por outras empresas financeiras, como a BlackRock, a Vanguard e a Nimb.** Essas empresas também têm uma presença significativa em Londres e foram afetadas pela interrupção do serviço.
  
-  4. **As empresas que operam em Londres ou recebem investimentos da BlackRock, Vanguard, Nimb e BNDES têm um interesse na resolução do problema da falha do Datacenter Google L5/6/7.** Essas empresas podem perder receita ou reputação se outra falha ocorrer.
+  4. **As empresas que operam em Londres ou recebem investimentos da BlackRock, Vanguard, Nimb e BNDES têm um interesse na resolução do problema da falha do Datacenter Google L5/6/7.** 
+
+Essas empresas perderam receita ou reputação o que pode se agravar se outra falha ocorrer.
 
   5. **Existem algumas maneiras de monetizar sobre este problema.** Uma maneira é desenvolver e vender soluções para tornar os datacenters mais resistentes ao calor. Outra maneira é desenvolver e vender soluções para ajudar as empresas a se recuperar de falhas em datacenters.
  
-  6. **Vincent Cerf é um dos fundadores da Internet.** Ele é creditado com o desenvolvimento do protocolo TCP/IP, que é a base da Internet. O protocolo TCP/IP é projetado para ser resistente a ataques nucleares.
+  6. **Vincent Cerf é um dos fundadores da Internet.** Ele é creditado com o desenvolvimento do protocolo TCP/IP, que é a base da Internet. O protocolo TCP/IP é projetado para ser resistente a ataques nucleares enquanto que não resistiu a 40 o em Londres.
+
+**Falta de investimentos?**
  
   7. **O gráfico da camada OSI é mostrado abaixo.** A camada física é responsável por transportar os dados pela rede. A camada de enlace é responsável por garantir que os dados sejam entregues corretamente. A camada de rede é responsável por rotear os dados entre diferentes redes. A camada de transporte é responsável por garantir que os dados sejam entregues na ordem correta. A camada de sessão é responsável por estabelecer e manter uma conexão entre dois processos. A camada de apresentação é responsável por converter os dados em um formato que possa ser entendido pelo usuário. A camada de aplicação é responsável por fornecer serviços ao usuário, como acesso à Internet, e-mail e bate-papo.
 
-
   8. **O gráfico histórico da temperatura em Londres desde 1945 é mostrado abaixo.** A temperatura média em Londres tem aumentado gradualmente nos últimos anos. A temperatura mais alta registrada em Londres foi de 38,5 graus Celsius em 2019.
 
-  9. **O gráfico treemap da temperatura em Londres em 2022 e 2023 é mostrado abaixo.** O gráfico mostra que a temperatura em Londres foi mais alta em 2023 do que em 2022. A temperatura mais alta registrada em Londres em 2023 foi de 39,1 graus Celsius.
+  9. **O gráfico treemap da temperatura em Londres em 2022 e 2023 é mostrado abaixo.** O gráfico mostra que a temperatura em Londres foi mais alta em 2022, 42,9 oC que em 2023. 
 
   10. **O Google comprou a DeepMind para reduzir o custo de energia.** A DeepMind é uma empresa de inteligência artificial que desenvolve algoritmos de aprendizado de máquina. Esses algoritmos podem ser usados para otimizar o uso de energia em datacenters.
  
-  11. **A Ashare aprovou um novo limite de temperatura para datacenters de 27 graus Celsius.** Esse novo limite é mais alto do que o limite anterior de 25 graus Celsius. O aumento no limite de temperatura foi aprovado para ajudar a reduzir o custo de energia dos datacenters.
+  11. **A Ashare aprovou um novo limite de temperatura para datacenters de 27 graus Celsius.**  Esse novo limite é mais alto do que o limite anterior de 25 graus Celsius. O aumento no limite de temperatura foi aprovado para ajudar a reduzir o custo de energia dos datacenters sem atentar para a segurança.
 
-  12. **Em 2020, a IBM parou a Internet brasileira por meio de uma operação terceirizada, a Ascenty, no campus de São Paulo, em 1º, 2º e 3º.** A falha foi causada por um problema com o sistema de resfriamento do datacenter da IBM. A falha afetou o acesso à Internet para milhões de pessoas no Brasil.
+  12. **Em 2020, a IBM parou a Internet brasileira por meio de uma operação terceirizada, a Ascenty, no campus de São Paulo, em SAO01, SAO02 e SAO03.** A falha foi causada por um problema com o sistema de resfriamento redundante entre si com serviços da IBM. A falha afetou o acesso à Internet para milhões de pessoas no Brasil.
 
   13. **A energia e o resfriamento não fazem parte da camada OSI.** Isso ocorre porque a camada OSI é responsável por transportar os dados pela rede. A energia e o resfriamento são necessários para operar um datacenter, mas eles não estão envolvidos no transporte de dados.
 
   14. **Os datacenters deveriam ser data cloud, mas ainda são gerenciados como os antigos CPD, ou seja, não fornecem redundância externa como padrão.**
+
+**Atribuir falhas a serviços de utilidades como energia e e resfriamento é um tiro no pé e outro no saco, poias 'atesta que o service provider não esta configurado para APP redundantes externamente ao DC ou Campus'**
 
 # 🌍 A Jornada dos Herois Solares 🌞🌎
 
