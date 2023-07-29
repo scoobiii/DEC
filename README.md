@@ -947,6 +947,7 @@ Existem várias maneiras de gerenciar a segurança e a eficiência de um datacen
 
 # EcoHold Training III - DeepEnergy & DeepCloud
 
-**Udemy**
-<img src="https://docs.google.com/document/d/e/2PACX-1vSZqQ9S79aHzM8dJ0mwLFypUIvTECx0qdAgiButSl-2qpi5swKEt8RtdqjyMJqL4IfSQbZA5KMPnB70/pub"/>
+ [Pagamento - EcoNFT - Conversivel em ações EcoHold](https://opensea.io/collection/plimm)
+
+ [Inscrição - Formulário ](https://opensea.io/collection/plimm)
 
