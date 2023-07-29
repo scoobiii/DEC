@@ -822,7 +822,7 @@ Best regards
 
 Zeh Sobrinho |Eco Hold | Co-Criador e o busão
 
-# EcoHold Training 
+# EcoHold Training I 
 
 **Introdução à Revolução Industrial e o papel do carvão e petróleo no desenvolvimento das máquinas a vapor e locomotivas.**
 
@@ -945,9 +945,11 @@ Existem várias maneiras de gerenciar a segurança e a eficiência de um datacen
 * **Usar práticas de gerenciamento de energia:** As práticas de gerenciamento de energia podem ajudar a reduzir os custos de energia de um datacenter.
 * **Usar práticas de gerenciamento de dados:** As práticas de gerenciamento de dados podem ajudar
 
-# EcoHold Training III - DeepEnergy & DeepCloud
+# EcoHold Training III - DeepEnergy & DeepCloud 
 
- [Pagamento - EcoNFT - Conversivel em ações EcoHold](https://opensea.io/collection/plimm)
+**- ET&CCNFT EcoHold Training & Carbon Credit Negative Block Chain -**
+- 
+ [Pagamento - ET&CCNFT - Valor 1 PLIMM = 1 ETH - Conversivel em ações EcoHold](https://opensea.io/collection/plimm)
 
- [Inscrição - Formulário ](https://opensea.io/collection/plimm)
+ [Inscrição - Formulário ](https://forms.gle/tfC8WYk8QvNPjpfu7)
 
