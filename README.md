@@ -5,6 +5,32 @@ Olá, queridões e queridonas, comunidades, investidores, FAPESP, Google, AWS, A
 Sou Zeh Sobrinho, co-criador e CEO da Eco Hold, holding de ecossistema e que pensa, desenvolve, projeta e entrega soluções sustentáveis.
 Apresento o DEC Project, um projeto de pesquisa e desenvolvimento, financiamento, entrega, comissionamento de ecossistema Deep de soluções que inclui modelos AI e implementação Deep Energy, Deep Cloud, entre outros, mais eficiente em termos de energia e sustentável.
 
+# Cenário, Dor, Dor, Oportunidade
+
+1. **Londres é a capital financeira do mundo.** Isso se deve a uma série de fatores, incluindo sua localização central, sua história como um centro comercial e seu sistema financeiro bem desenvolvido. Londres é o lar de muitas das maiores empresas financeiras do mundo, incluindo a BlackRock, a Vanguard e a Nimb.
+  2. **O impacto financeiro da falha do Datacenter Google L5/6/7 em Londres em 22 de julho de 2022 foi significativo.** A falha causou uma interrupção no serviço de alguns produtos e serviços do Google, incluindo o Gmail, o YouTube e o Google Search. Isso resultou em perda de receita para o Google e também prejudicou sua reputação como fornecedor de serviços confiáveis.
+  3. **O impacto da falha do Datacenter Google L5/6/7 em Londres também foi sentido por outras empresas financeiras, como a BlackRock, a Vanguard e a Nimb.** Essas empresas também têm uma presença significativa em Londres e foram afetadas pela interrupção do serviço.
+  4. **As empresas que operam em Londres ou recebem investimentos da BlackRock, Vanguard, Nimb e BNDES têm um interesse na resolução do problema da falha do Datacenter Google L5/6/7.** Essas empresas podem perder receita ou reputação se outra falha ocorrer.
+  5. **Existem algumas maneiras de monetizar sobre este problema.** Uma maneira é desenvolver e vender soluções para tornar os datacenters mais resistentes ao calor. Outra maneira é desenvolver e vender soluções para ajudar as empresas a se recuperar de falhas em datacenters.
+  6. **Vincent Cerf é um dos fundadores da Internet.** Ele é creditado com o desenvolvimento do protocolo TCP/IP, que é a base da Internet. O protocolo TCP/IP é projetado para ser resistente a ataques nucleares.
+  7. **O gráfico da camada OSI é mostrado abaixo.** A camada física é responsável por transportar os dados pela rede. A camada de enlace é responsável por garantir que os dados sejam entregues corretamente. A camada de rede é responsável por rotear os dados entre diferentes redes. A camada de transporte é responsável por garantir que os dados sejam entregues na ordem correta. A camada de sessão é responsável por estabelecer e manter uma conexão entre dois processos. A camada de apresentação é responsável por converter os dados em um formato que possa ser entendido pelo usuário. A camada de aplicação é responsável por fornecer serviços ao usuário, como acesso à Internet, e-mail e bate-papo.
+
+[Imagem do gráfico da camada OSI]
+
+  8. **O gráfico histórico da temperatura em Londres desde 1945 é mostrado abaixo.** A temperatura média em Londres tem aumentado gradualmente nos últimos anos. A temperatura mais alta registrada em Londres foi de 38,5 graus Celsius em 2019.
+
+[Imagem do gráfico histórico da temperatura em Londres]
+
+  9. **O gráfico treemap da temperatura em Londres em 2022 e 2023 é mostrado abaixo.** O gráfico mostra que a temperatura em Londres foi mais alta em 2023 do que em 2022. A temperatura mais alta registrada em Londres em 2023 foi de 39,1 graus Celsius.
+
+[Imagem do gráfico treemap da temperatura em Londres em 2022 e 2023]
+
+  10. **O Google comprou a DeepMind para reduzir o custo de energia.** A DeepMind é uma empresa de inteligência artificial que desenvolve algoritmos de aprendizado de máquina. Esses algoritmos podem ser usados para otimizar o uso de energia em datacenters.
+  11. **A Ashare aprovou um novo limite de temperatura para datacenters de 27 graus Celsius.** Esse novo limite é mais alto do que o limite anterior de 25 graus Celsius. O aumento no limite de temperatura foi aprovado para ajudar a reduzir o custo de energia dos datacenters.
+  12. **Em 2020, a IBM parou a Internet brasileira por meio de uma operação terceirizada, a Ascenty, no campus de São Paulo, em 1º, 2º e 3º.** A falha foi causada por um problema com o sistema de resfriamento do datacenter da IBM. A falha afetou o acesso à Internet para milhões de pessoas no Brasil.
+  13. **A energia e o resfriamento não fazem parte da camada OSI.** Isso ocorre porque a camada OSI é responsável por transportar os dados pela rede. A energia e o resfriamento são necessários para operar um datacenter, mas eles não estão envolvidos no transporte de dados.
+  14. **Os datacenters deveriam ser data cloud, mas ainda são gerenciados como os antigos CPD, ou seja, não fornecem redundância externa.**
+
 # 🌍 A Jornada dos Herois Solares 🌞🌎
 
 Era uma vez, em um mundo em crise, cinco crianças corajosas e inteligentes surgiram das quebradas dos cinco continentes. Cada uma delas representava a esperança e a determinação de suas comunidades para enfrentar os desafios energéticos e urbanísticos do planeta. 💫
@@ -796,5 +822,130 @@ Best regards
 
 Zeh Sobrinho |Eco Hold | Co-Criador e o busão
 
+# Cursos I
 
+**Introdução à Revolução Industrial e o papel do carvão e petróleo no desenvolvimento das máquinas a vapor e locomotivas.**
 
+* Quais foram as principais características da Revolução Industrial?
+
+A Revolução Industrial foi um período de grandes mudanças na história da humanidade que teve início na Inglaterra no século XVIII e se espalhou para outras partes do mundo nos séculos seguintes. Ela foi marcada pelo uso de novas tecnologias, como a máquina a vapor e a locomotiva, que permitiram a produção em massa de bens e a rápida expansão do comércio.
+
+* Qual foi o papel do carvão e do petróleo no desenvolvimento das máquinas a vapor e locomotivas?
+
+O carvão e o petróleo foram os principais combustíveis utilizados na Revolução Industrial. O carvão era usado para alimentar as máquinas a vapor, que eram essenciais para a produção em massa. O petróleo era usado para fabricar combustíveis para locomotivas e navios, o que facilitou o transporte de mercadorias e pessoas.
+
+* Quais foram as consequências da Revolução Industrial para o meio ambiente?
+
+A Revolução Industrial teve um impacto significativo no meio ambiente. O uso de combustíveis fósseis contribuiu para o aumento da poluição do ar e da água. A produção em massa também levou ao desmatamento e à degradação do solo.
+
+**Capital financeira do mundo: Londres, Nova York ou São Paulo?**
+
+* Quais são os principais critérios para se classificar uma cidade como capital financeira do mundo?
+
+Os principais critérios para se classificar uma cidade como capital financeira do mundo são:
+
+    * O tamanho do mercado financeiro
+    * A qualidade dos serviços financeiros
+    * A estabilidade política e econômica
+    * A infraestrutura de transportes e telecomunicações
+    * A presença de instituições financeiras globais
+
+* Quais são as vantagens de Londres, Nova York e São Paulo para se tornarem capital financeira do mundo?
+
+Londres, Nova York e São Paulo são as três cidades mais importantes do mundo em termos financeiros. Elas possuem grandes mercados financeiros, serviços financeiros de alta qualidade, estabilidade política e econômica, infraestrutura de transportes e telecomunicações de ponta e presença de instituições financeiras globais.
+
+* Quais são os desafios que essas cidades enfrentarão para se consolidarem como capital financeira do mundo?
+
+Os principais desafios que Londres, Nova York e São Paulo enfrentarão para se consolidarem como capital financeira do mundo são:
+
+    * A concorrência de outras cidades, como Pequim, Xangai e Singapura
+    * A ascensão das fintechs, que estão revolucionando a indústria financeira
+    * Os riscos cibernéticos
+    * A mudança climática
+
+**Impacto financeiro e reputacional na BlackRock, Vanguard e NIMB relacionado ao tema abordado.**
+
+* Quais são as principais atividades das BlackRock, Vanguard e NIMB?
+
+A BlackRock, a Vanguard e a NIMB são as três maiores gestoras de ativos do mundo. Elas possuem um total de ativos sob gestão de cerca de US$ 10 trilhões. Essas empresas investem em uma ampla gama de ativos, incluindo ações, títulos, imóveis e commodities.
+
+* Quais são os impactos financeiros e reputacionais que essas empresas podem enfrentar em relação ao tema abordado?
+
+O tema abordado no curso é a eficiência energética dos data centers. Os data centers são grandes instalações que armazenam e processam dados. Eles são responsáveis por uma grande quantidade de consumo de energia. As empresas que operam data centers podem enfrentar impactos financeiros e reputacionais se não adotarem medidas para melhorar a eficiência energética de seus data centers.
+
+* Quantas empresas estão dispostas a resolver o problema e o investimento necessário? Ecohold é uma startup envolvida?
+
+Há um número crescente de empresas que estão dispostas a resolver o problema da eficiência energética dos data centers. O investimento necessário para melhorar a eficiência energética dos data centers varia de acordo com o tamanho e a complexidade do data center. A Ecohold é uma startup que está trabalhando para desenvolver soluções para melhorar a eficiência energética dos data centers.
+
+* Como monetizar a solução do problema? Quais empresas contatar para isso?
+
+Existem várias maneiras de monetizar a solução do problema da eficiência energética dos data centers. Uma maneira é vender as soluções para melhorar a eficiência energética dos data centers para empresas que operam data centers. Outra maneira é vender os serviços de consultoria para melhorar a eficiência energética dos data centers. As empresas que podem se beneficiar da solução do problema da eficiência energética dos data centers são as empresas que operam data centers, as empresas que fornecem serviços de energia para data centers e as empresas que fornecem soluções de TI para data centers.
+
+**Vincent Cerf e a criação do protocolo TCP/IP. Como a camada OSI se relaciona com o tráfego de mensagens?**
+
+* Quem é Vincent Cerf?
+
+Vincent Cerf é um cientista da computação americano que é considerado um dos pais da internet. Ele é co-inventor do protocolo TCP/IP, que é o protocolo fundamental da internet
+
+Claro, aqui está o capítulo 1 do seu curso sobre datacenters:
+
+# Curso II - Datacenter
+
+**O que é um datacenter?**
+
+Um datacenter é uma instalação que abriga equipamentos de computação, como servidores, switches, roteadores e firewalls. Os datacenters são projetados para fornecer um ambiente seguro e confiável para o armazenamento e processamento de dados.
+
+**Por que precisamos de datacenters?**
+
+Os datacenters são necessários para armazenar e processar os dados que usamos em nossas vidas diárias. Esses dados incluem nossos e-mails, fotos, vídeos, documentos e muito mais. Os datacenters também são usados para hospedar sites e aplicativos web que usamos todos os dias.
+
+**Quais são os diferentes tipos de datacenters?**
+
+Existem diferentes tipos de datacenters, cada um com seus próprios pontos fortes e fracos. Alguns dos tipos mais comuns de datacenters incluem:
+
+* **Datacenters de propriedade:** esses datacenters são de propriedade e operados por uma única empresa. Eles geralmente são os mais caros para operar, mas oferecem o maior nível de controle e flexibilidade.
+* **Datacenters de co-localização:** esses datacenters são operados por uma empresa, mas são alugados por empresas diferentes. Eles geralmente são menos caros para operar do que os datacenters de propriedade, mas oferecem menos controle e flexibilidade.
+* **Datacenters de aluguel:** esses datacenters são semelhantes aos datacenters de co-localização, mas são ainda menos caros para operar. Eles geralmente oferecem o menor nível de controle e flexibilidade, mas são uma boa opção para empresas que precisam de um espaço de datacenter temporário.
+
+**Quais são os componentes de um datacenter?**
+
+Um datacenter é composto por vários componentes diferentes, incluindo:
+
+* **Equipamento de rede:** Este equipamento é responsável por conectar os diferentes dispositivos em um datacenter. Ele inclui switches, roteadores e firewalls.
+* **Equipamento de armazenamento:** Este equipamento é responsável por armazenar os dados em um datacenter. Ele inclui servidores, discos rígidos e unidades de fita.
+* **Equipamento de rede elétrica:** Este equipamento é responsável por fornecer energia para os diferentes dispositivos em um datacenter. Ele inclui geradores, transformadores e disjuntores.
+* **Equipamento de resfriamento:** Este equipamento é responsável por manter os diferentes dispositivos em um datacenter frios. Ele inclui condicionadores de ar, ventiladores e unidades de condensação.
+* **Equipamento de segurança:** Este equipamento é responsável por proteger os diferentes dispositivos em um datacenter contra roubo, danos e acesso não autorizado. Ele inclui câmeras de segurança, alarmes e sistemas de controle de acesso.
+
+**Como os datacenters funcionam?**
+
+Os datacenters funcionam através de uma série de processos diferentes, incluindo:
+
+* **Acesso:** Os usuários acessam os datacenters por meio de uma rede de computadores.
+* **Armazenamento:** Os dados são armazenados em servidores em um datacenter.
+* **Processamento:** Os dados são processados por servidores em um datacenter.
+* **Rede:** Os dados são transmitidos por uma rede de computadores entre diferentes dispositivos em um datacenter.
+* **Resfriamento:** Os dispositivos em um datacenter são resfriados por um sistema de refrigeração.
+* **Segurança:** Os dispositivos em um datacenter são protegidos por um sistema de segurança.
+
+**Quais são os desafios de operar um datacenter?**
+
+Existem vários desafios de operar um datacenter, incluindo:
+
+* **Custo:** Os datacenters podem ser caros para operar, principalmente devido aos custos de energia e resfriamento.
+* **Confiabilidade:** Os datacenters precisam ser altamente confiáveis para evitar interrupções no serviço.
+* **Segurança:** Os datacenters precisam ser altamente seguros para proteger os dados contra roubo, danos e acesso não autorizado.
+* **Sustentabilidade:** Os datacenters precisam ser projetados e operados de forma sustentável para reduzir seu impacto ambiental.
+
+**Como gerenciar a segurança e a eficiência de um datacenter?**
+
+Existem várias maneiras de gerenciar a segurança e a eficiência de um datacenter, incluindo:
+
+* **Usar sistemas de segurança:** Os sistemas de segurança podem ajudar a proteger os dispositivos em um datacenter contra roubo, danos e acesso não autorizado.
+* **Usar sistemas de refrigeração eficientes:** Os sistemas de refrigeração eficientes podem ajudar a reduzir os custos de energia de um datacenter.
+* **Usar fontes de energia renováveis:** As fontes de energia renováveis podem ajudar a reduzir a pegada de carbono de um datacenter.
+* **Usar práticas de gerenciamento de energia:** As práticas de gerenciamento de energia podem ajudar a reduzir os custos de energia de um datacenter.
+* **Usar práticas de gerenciamento de dados:** As práticas de gerenciamento de dados podem ajudar
+
+# Curso III
+https://docs.google.com/document/d/e/2PACX-1vSZqQ9S79aHzM8dJ0mwLFypUIvTECx0qdAgiButSl-2qpi5swKEt8RtdqjyMJqL4IfSQbZA5KMPnB70/pub
