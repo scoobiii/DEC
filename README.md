@@ -1,11 +1,13 @@
-# O Deep Energy Cloud Project
+# Treinamento EcoHold III - DeepEnergy e DeepCloud
+
+** O Deep Energy Cloud Project**
 
 Olá, queridões e queridonas, comunidades, investidores, FAPESP, Google, AWS, Azure, Tencent, Huawei, IBM, Oracle, Alibaba e mercado!
 
 Sou Zeh Sobrinho, co-criador e CEO da Eco Hold, holding de ecossistema e que pensa, desenvolve, projeta e entrega soluções sustentáveis.
 Apresento o DEC Project, um projeto de pesquisa e desenvolvimento, financiamento, entrega, comissionamento de ecossistema Deep de soluções que inclui modelos AI e implementação Deep Energy, Deep Cloud, entre outros, mais eficiente em termos de energia e sustentável.
 
-# Cenário, Dor, Dor, Oportunidade
+# Cenário: Dor, Lambança, Desafio, Oportunidade
 
 1. **Londres era a capital financeira do mundo.** Isso se devia a uma série de fatores, incluindo sua localização central, sua história como um centro comercial e seu sistema financeiro bem desenvolvido. Londres era o lar de muitas das maiores empresas financeiras do mundo, incluindo a BlackRock, a Vanguard e a Nimb.
   
