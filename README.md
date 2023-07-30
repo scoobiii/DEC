@@ -41,7 +41,7 @@ Essas empresas perderam receita ou reputação o que pode se agravar se outra fa
 
   14. **Os datacenters deveriam ser data cloud, mas ainda são gerenciados como os antigos CPD, ou seja, não fornecem redundância externa como padrão.**
 
-**Atribuir falhas a serviços de utilidades como energia e e resfriamento é um tiro no pé e outro no saco, poias 'atesta que o service provider não esta configurado para APP redundantes externamente ao DC ou Campus'**
+**Atribuir queda de APP a serviços de utilidades como energia e e resfriamento 'atesta que o service provider não esta configurado para APP redundantes externamente ao DC ou Campus'**
 
 # 🌍 A Jornada dos Herois Solares 🌞🌎
 
