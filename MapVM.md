@@ -1,22 +1,3 @@
-ℹ️ Alerta! Falha em servidores da IBM gerou instabilidade na internet nesta segunda! 🔥😓💻 Superaquecimento de data center da companhia prejudicou serviços bancários da Caixa e Nubank, além de apps como WhatsApp. 😱📉 #IBM #Falha #Servidores #DataCenter #Instabilidade #Caixa #Nubank #WhatsApp
-
-🔧 Data center da IBM em São Paulo teve problema de refrigeração e deixou serviços on-line instáveis. 🚧❄️ #IBM #DataCenter #Problema #Refrigeração #Instabilidade #SãoPaulo
-
-💔 Falha no serviço IBM Cloud afetou clientes desde a manhã de segunda-feira (7) e voltou às 22h. Site e app da Caixa ficaram fora do ar por causa do problema. 😢🌧️ #IBM #IBMCloud #Falha #Clientes #Caixa #ForaDoAr
-
-🚫 Caixa Tem fica fora do ar após pane em servidor da IBM. Falha de resfriamento em data center da empresa levou à interrupção do serviço. ❄️🔥 #Caixa #CaixaTem #ForaDoAr #Falha #Resfriamento #DataCenter
-
-🔥 IBM falha e derruba serviços no Brasil. Uma falha de resfriamento dentro do prédio que abriga o data center da nuvem da IBM em São Paulo resultou em uma interrupção temporária do serviço. 💥🇧🇷 #IBM #Falha #Serviços #Brasil #Resfriamento #DataCenter
-
-🤷‍♂️ Caixa, Nubank e outros serviços sofrem instabilidade com falha no serviço IBM Cloud. 😫📉 #Caixa #Nubank #IBMCloud #Falha #Instabilidade
-
-💥 IBM sofre com superaquecimento e gera instabilidade na internet do Brasil. Uma falha de resfriamento dentro do prédio que abriga o data center da nuvem da IBM em São Paulo resultou em uma interrupção temporária do serviço. 🌡️📶 #IBM #Superaquecimento #Instabilidade #Brasil #Resfriamento #DataCenter
-
-📅 Publicado em 7 de dezembro de 2020. #Notícia #Dezembro2020
-
-#IBM #Falha #Instabilidade #DataCenter #Servidores #Caixa #Nubank #WhatsApp #IBMCloud #CaixaTem #Resfriamento #SãoPaulo #Brasil #Dezembro2020
-
-
 
 Para personalizar o código para cada uma das empresas afetadas pelas falhas nos data centers da IBM, podemos adicionar informações específicas sobre cada incidente e criar mensagens de alerta mais informativas. Vou fazer algumas modificações no código para exemplificar como personalizar as mensagens de alerta:
 
