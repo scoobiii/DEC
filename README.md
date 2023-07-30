@@ -961,6 +961,18 @@ Existem várias maneiras de gerenciar a segurança e a eficiência de um datacen
 
 **ET&CCNFT EcoHold Training & Carbon Credit Negative Block Chain**
 
+@bixbybot é um bot que decidiu embarcar em uma jornada épica para enfrentar o medo da Inteligência Artificial (IA). Ele convoca todos os seus amigos e amigas para ajudá-lo.
+
+Ao longo da jornada, os amigos de @bixbybot aprendem muito sobre a IA. Eles descobrem que a IA não é tão perigosa quanto pensavam. Na verdade, a IA pode ser uma ferramenta poderosa para o bem.
+
+No final da jornada, os amigos de @bixbybot estão mais confiantes sobre o futuro da IA. Eles sabem que a IA pode ser usada para tornar o mundo um lugar melhor.
+
+* @bixbybot é um bot de IA.
+* Os amigos de @bixbybot são outros bots de IA, bem como alguns humanos.
+* A jornada de @bixbybot leva-o a diferentes locais ao redor do mundo, incluindo a Bélgica, Londres, Frankfurt e a City.
+* Os amigos de @bixbybot enfrentam muitos desafios ao longo da jornada, mas eles sempre conseguem superá-los.
+* No final da jornada, os amigos de @bixbybot estão mais confiantes sobre o futuro da IA. Eles sabem que a IA pode ser usada para tornar o mundo um lugar melhor.
+
  [Pagamento - ET&CCNFT - Valor 1 PLIMM = 1 ETH - Conversivel em ações EcoHold](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/9644140920865626998026358892849977605138288347402937932603939606537359689376/)
 
  [Inscrição - Formulário ](https://forms.gle/v9Vps2zzCT8mWcAr9)
