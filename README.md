@@ -1,4 +1,4 @@
-# Treining EcoHold III - Deep Energy e Deep Cloud
+# Treining EcoHold - Deep Energy e Deep Cloud
 
 **O Deep Energy Cloud Project**
 
@@ -972,6 +972,53 @@ At journey's end, friends of @bixbybot are more confident about the future of AI
 * @bixbybot's journey takes him to different locations around the world, including Belgium, London, Frankfurt and the City.
 * @bixbybot's friends face many challenges along the way, but they always manage to overcome them.
 * At journey's end, friends of @bixbybot are more confident about the future of AI. They know AI can be used to make the world a better place.
+
+# Dear Sundar Pichai
+
+I am writing to you in my capacity as the Prime Minister of the United Kingdom to express my deep concern about the recent disruption of Google Cloud in London on July 19, 2022, when the country experienced a record-breaking temperature of 40.9°C for the first time in history, impacting Google's services. As we know, the TCP/IP protocol was designed by Vincent Cerf to be nuclear attack-resistant, and similarly, Google Cloud relies on services such as:
+
+* GCP offers a variety of networking services, including Cloud Load Balancing, Cloud VPN, and Cloud DNS, which can be used to set up redundancy for applications.
+* GCP offers a variety of storage services, including Cloud Storage, Cloud SQL, and Cloud Spanner, which can be used to set up redundancy for data.
+* GCP offers a variety of computing services, including Cloud Compute Engine, Cloud Functions, and Cloud App Engine, which can be used to set up redundancy for applications.
+* The algorithm used by Google to assess redundancy risk is called the Risk Assessment Tool (RAT). RAT is software that analyzes various factors, including data location, data volume, data type, and data sensitivity. RAT also evaluates the use and quality of redundancy.
+
+As you are aware, the disruption had a significant impact on several clients, including banks and finance, healthcare, government, energy, transportation, retail, manufacturing, telecommunications, media, entertainment, and professional services. The interruption led to delays, revenue losses, data breaches, and even risks to human lives, not to mention the potential risk of the city losing its status as the world's financial capital.
+
+I am particularly concerned about Google's lack of transparency regarding the disruption. Google has been slow to provide information about the cause of the disruption and its effects on customers. I am also worried about the lack of communication from Google with the affected customers. Many clients reported having difficulty reaching Google for information and support regarding the disruption.
+
+I request that Google, through your person, provide the following information to the Parliament:
+
+1. The apparent cause of the disruption, including details about external redundancy and the absence of air conditioning or power, which should be part of the OSI layer.
+2. Configuration logs of external redundancy on July 19, 2022, and 2023.
+3. The effects of the disruption on customers.
+4. The measures that Google is taking to prevent future disruptions.
+5. The communication that Google had with the affected customers.
+
+I am confident that Google can provide this information. Google is a leading technology company and has a reputation for reliability. I believe that Google is committed to providing its customers with the best possible services.
+
+Regarding the decision by big tech companies, in line with Ashrae, to raise the data cloud temperature from 25 to 27°C, resulting in a 10% reduction in processing capacity while increasing core temperatures by 3 degrees, requiring additional processing capacity to compensate for the performance loss and subsequently increasing energy consumption, I urge the consideration of new standards. This decision appears to be analogous to the ISO standard for turbines, where the nominal capacity is defined at 15°C and 60% relative humidity, and operating at higher temperatures reduces the nominal capacity. It seems that these factors culminated in the unfortunate event on July 19 in London, when the Data Cloud systems failed due to infrastructural, power, and cooling issues, indicating the lack of external redundancy.
+
+I also request that Google consider renaming its data center in London from "Data Center" to "Deep Cloud." This new name would be more accurate in describing the type of facility that Google is establishing in London and around the world: distributed data clouds with standard external redundancy.
+
+Thank you for your attention to this matter.
+
+Sincerely,
+
+Rishi Sunak
+Prime Minister of the United Kingdom
+
+# Dear Rishi Sunak
+
+Thank you for extending the invitation to the Parliament of the United Kingdom. I appreciate the opportunity to address the concerns surrounding the recent disruption of Google Cloud in London.
+
+I hereby confirm my acceptance to participate in the proceedings and provide the requested information to the Parliament. I assure you that the Government Department of Google will be in touch promptly to coordinate the details and confirm my presence at the English Parliament.
+
+Once again, thank you for your attention to this matter, and I look forward to engaging in constructive dialogue to address the issues raised.
+
+Sincerely,
+
+Pichai
+
 
  [Payment - ET&CCNFT - Amount 1 PLIMM = 1 ETH - Convertible into EcoHold shares](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/964414092086562699802635889284997 7605138288347402937932603939606537359689376/)
 
