@@ -1,4 +1,4 @@
-# Treining EcoHold - Deep Energy e Deep Cloud
+# Training EcoHold - Deep Energy e Deep Cloud
 
 **O Deep Energy Cloud Project**
 
