@@ -1,108 +1,108 @@
-# Treinamento EcoHold III - DeepEnergy e DeepCloud
+# Treining EcoHold III - Deep Energy e Deep Cloud
 
 **O Deep Energy Cloud Project**
 
-Olá, queridões e queridonas, comunidades, investidores, FAPESP, Google, AWS, Azure, Tencent, Huawei, IBM, Oracle, Alibaba e mercado!
+Hello, darlings and darlings, communities, investors, FAPESP, Google, AWS, Azure, Tencent, Huawei, IBM, Oracle, Alibaba and the market!
 
-Sou Zeh Sobrinho, co-criador e CEO da Eco Hold, holding de ecossistema e que pensa, desenvolve, projeta e entrega soluções sustentáveis.
-Apresento o DEC Project, um projeto de pesquisa e desenvolvimento, financiamento, entrega, comissionamento de ecossistema Deep de soluções que inclui modelos AI e implementação Deep Energy, Deep Cloud, entre outros, mais eficiente em termos de energia e sustentável.
+I'm Zeh Sobrinho, co-creator and CEO of Eco Hold, an ecosystem holding company that thinks, develops, designs and delivers sustainable solutions.
+I present the DEC Project, a project of research and development, financing, delivery, commissioning of Deep ecosystem of solutions that includes AI models and Deep Energy implementation, Deep Cloud, among others, more energy efficient and sustainable.
 
-# Cenário: Dor, Lambança, Desafio, Oportunidade
+# Scenario: Pain, Litter, Challenge, Opportunity
 
-1. **Londres era a capital financeira do mundo.** Isso se devia a uma série de fatores, incluindo sua localização central, sua história como um centro comercial e seu sistema financeiro bem desenvolvido. Londres era o lar de muitas das maiores empresas financeiras do mundo, incluindo a BlackRock, a Vanguard e a Nimb.
+1. **London was the financial capital of the world.** This was due to a number of factors, including its central location, its history as a commercial center and its well-developed financial system. London was home to many of the world's largest financial companies, including BlackRock, Vanguard and Nimb.
   
-  2. **O impacto financeiro da falha do Datacenter Google L5/6/7 em Londres em 22 de julho de 2022 foi significativo.** A falha causou uma interrupção no serviço de alguns produtos e serviços do Google, incluindo o Gmail, o YouTube e o Google Search. Isso resultou em perda de receita para o Google e também prejudicou sua reputação como fornecedor de serviços confiáveis.
+  2. **The financial impact of the Google Data Center L5/6/7 failure in London on July 22, 2022 was significant.** The failure caused a service outage for some Google products and services, including Gmail, YouTube and Google Search. This resulted in lost revenue for Google and also damaged its reputation as a reliable service provider.
 
-  3. **O impacto da falha do Datacenter Google L5/6/7 em Londres também foi sentido por outras empresas financeiras, como a BlackRock, a Vanguard e a Nimb.** Essas empresas também têm uma presença significativa em Londres e foram afetadas pela interrupção do serviço.
+  3. **The impact of the Google L5/6/7 Data Center failure in London was also felt by other financial firms such as BlackRock, Vanguard and Nimb.** These firms also have a significant presence in London and were affected by the interruption of service.
  
-  4. **As empresas que operam em Londres ou recebem investimentos da BlackRock, Vanguard, Nimb e BNDES têm um interesse na resolução do problema da falha do Datacenter Google L5/6/7.** 
+  4. **Companies operating in London or receiving investments from BlackRock, Vanguard, Nimb and BNDES have an interest in resolving the Google L5/6/7 Data Center failure problem.**
 
-Essas empresas perderam receita ou reputação o que pode se agravar se outra falha ocorrer.
+These companies have lost revenue or reputation which could be worse if another failure occurs.
 
-  5. **Existem algumas maneiras de monetizar sobre este problema.** Uma maneira é desenvolver e vender soluções para tornar os datacenters mais resistentes ao calor. Outra maneira é desenvolver e vender soluções para ajudar as empresas a se recuperar de falhas em datacenters.
+  5. **There are a few ways to monetize this problem.** One way is to develop and sell solutions to make datacenters more heat resistant. Another way is to develop and sell solutions to help companies recover from data center failures.
  
-  6. **Vincent Cerf é um dos fundadores da Internet.** Ele é creditado com o desenvolvimento do protocolo TCP/IP, que é a base da Internet. O protocolo TCP/IP é projetado para ser resistente a ataques nucleares enquanto que não resistiu a 40 o em Londres.
+  6. **Vincent Cerf is one of the founders of the Internet.** He is credited with developing the TCP/IP protocol, which is the foundation of the Internet. The TCP/IP protocol is designed to be resistant to nuclear attacks, whereas it didn't withstand 40 degrees in London.
 
-**Falta de investimentos?**
+**Lack of investments?**
  
-  7. **O gráfico da camada OSI é mostrado abaixo.** A camada física é responsável por transportar os dados pela rede. A camada de enlace é responsável por garantir que os dados sejam entregues corretamente. A camada de rede é responsável por rotear os dados entre diferentes redes. A camada de transporte é responsável por garantir que os dados sejam entregues na ordem correta. A camada de sessão é responsável por estabelecer e manter uma conexão entre dois processos. A camada de apresentação é responsável por converter os dados em um formato que possa ser entendido pelo usuário. A camada de aplicação é responsável por fornecer serviços ao usuário, como acesso à Internet, e-mail e bate-papo.
+  7. **OSI layer graph is shown below.** The physical layer is responsible for transporting the data across the network. The data link layer is responsible for ensuring that data is delivered correctly. The network layer is responsible for routing data between different networks. The transport layer is responsible for ensuring that data is delivered in the correct order. The session layer is responsible for establishing and maintaining a connection between two processes. The presentation layer is responsible for converting the data into a format that can be understood by the user. The application layer is responsible for providing services to the user, such as Internet access, e-mail, and chat.
 
-  8. **O gráfico histórico da temperatura em Londres desde 1945 é mostrado abaixo.** A temperatura média em Londres tem aumentado gradualmente nos últimos anos. A temperatura mais alta registrada em Londres foi de 38,5 graus Celsius em 2019.
+  8. **A historical graph of temperature in London since 1945 is shown below.** The average temperature in London has been gradually increasing in recent years. The highest temperature recorded in London was 38.5 degrees Celsius in 2019.
 
-  9. **O gráfico treemap da temperatura em Londres em 2022 e 2023 é mostrado abaixo.** O gráfico mostra que a temperatura em Londres foi mais alta em 2022, 42,9 oC que em 2023. 
+  9. **The charttreemap temperature in London in 2022 and 2023 is shown below.** The graph shows that the temperature in London was highest in 2022, 42.9oC what in 2023.
 
-  10. **O Google comprou a DeepMind para reduzir o custo de energia.** A DeepMind é uma empresa de inteligência artificial que desenvolve algoritmos de aprendizado de máquina. Esses algoritmos podem ser usados para otimizar o uso de energia em datacenters.
+  10. **Google bought DeepMind to reduce the cost of energy.** DeepMind is an artificial intelligence company that develops machine learning algorithms. These algorithms can be used to optimize energy usage in data centers.
  
-  11. **A Ashare aprovou um novo limite de temperatura para datacenters de 27 graus Celsius.**  Esse novo limite é mais alto do que o limite anterior de 25 graus Celsius. O aumento no limite de temperatura foi aprovado para ajudar a reduzir o custo de energia dos datacenters sem atentar para a segurança.
+  11. **Ashrae approved a new data center temperature limit of 27 degrees Celsius.** This new limit is higher than the previous limit of 25 degrees Celsius. The temperature threshold increase was approved to help reduce the energy cost of data centers without regard for security.
 
-  12. **Em 2020, a IBM parou a Internet brasileira por meio de uma operação terceirizada, a Ascenty, no campus de São Paulo, em SAO01, SAO02 e SAO03.** A falha foi causada por um problema com o sistema de resfriamento redundante entre si com serviços da IBM. A falha afetou o acesso à Internet para milhões de pessoas no Brasil.
+  12. **In 2020, IBM stopped the Brazilian Internet through a third-party operation, Ascenty, on the São Paulo campus inSTAR 01, STAR 02 and SAO 03.** The failure was caused by a problem with the redundant cooling system with IBM services. The flaw affected Internet access for millions of people in Brazil.
 
-  13. **A energia e o resfriamento não fazem parte da camada OSI.** Isso ocorre porque a camada OSI é responsável por transportar os dados pela rede. A energia e o resfriamento são necessários para operar um datacenter, mas eles não estão envolvidos no transporte de dados.
+  13. **Power and cooling are not part of the OSI layer.** This is because the OSI layer is responsible for transporting the data across the network. Power and cooling are required to operate a data center, but they are not involved in transporting data.
 
-  14. **Os datacenters deveriam ser data cloud, mas ainda são gerenciados como os antigos CPD, ou seja, não fornecem redundância externa como padrão.**
+  14. **The datacenters should be data cloud, but they are still managed like the old CPD, that is, they do not provide external redundancy as standard.**
 
-**Atribuir queda de APP a serviços de utilidades como energia e e resfriamento 'atesta que o service provider não esta configurado para APP redundantes externamente ao DC ou Campus'**
+**Assigning APP outage to utility services such as power and cooling 'attests that the service provider is not configured for redundant APPs external to the DC or Campus'**
 
-# 🌍 A Jornada dos Herois Solares 🌞🌎
+# 🌍 The Journey of Solar Heroes 🌞🌎
 
-Era uma vez, em um mundo em crise, cinco crianças corajosas e inteligentes surgiram das quebradas dos cinco continentes. Cada uma delas representava a esperança e a determinação de suas comunidades para enfrentar os desafios energéticos e urbanísticos do planeta. 💫
+Once upon a time, in a world in crisis, five brave and intelligent children emerged from the ravines of five continents. Each of them represented the hope and determination of their communities to face the energy and urban challenges of the planet. 💫
 
-Conheçam Pedro, o garoto brasileiro de 10 anos apaixonado por tecnologia. Ele vivia em uma favela no Rio de Janeiro, onde sonhava em criar soluções sustentáveis para seu bairro. Sua missão era desenvolver um projeto de energia solar comunitária, que utilizasse a luz do sol para gerar eletricidade e beneficiar todos os moradores da favela. ☀️🇧🇷
+Meet Pedro, the 10-year-old Brazilian boy with a passion for technology. He lived in a favela in Rio de Janeiro, where he dreamed of creating sustainable solutions for his neighborhood. Its mission was to develop a community solar energy project, which uses sunlight to generate electricity and benefit all residents of the favela. ☀️🇺🇸
 
-Em outro continente, encontramos Amina, uma menina de 8 anos que vivia em um vilarejo no Quênia. Ela conhecia os desafios enfrentados por sua comunidade em relação ao acesso à água potável e à energia. Amina tinha a ideia de construir uma micro usina hidrelétrica que utilizaria o fluxo do rio próximo ao vilarejo para gerar energia limpa e ajudar no fornecimento de água para as famílias. 💧🌍🇰🇪
+On another continent, we met Amina, an 8-year-old girl who lived in a village in Kenya. She knew the challenges her community faced with access to clean water and energy. Amina had the idea of ​​building a micro hydroelectric plant that would use the flow of the river near the village to generate clean energy and help supply water to families. 💧🌍🇰🇪
 
-Na Ásia, conhecemos Mei, uma garota chinesa de 12 anos que vivia em uma área urbana altamente poluída. Ela era apaixonada por plantas e animais e sonhava em transformar os telhados dos prédios em jardins suspensos. Mei acreditava que essa solução poderia melhorar a qualidade do ar, reduzir a temperatura nas áreas urbanas e trazer mais beleza para a cidade. 🌿🏙️🇨🇳
+In Asia, we met Mei, a 12-year-old Chinese girl who lived in a highly polluted urban area. She was passionate about plants and animals and dreamed of turning the roofs of buildings into hanging gardens. Mei believed that this solution could improve air quality, reduce the temperature in urban areas, and bring more beauty to the city. 🌿🏙️🇨🇳
 
-Na Europa, temos Luca, um menino italiano de 9 anos que vivia em uma cidade com problemas de mobilidade urbana. Ele era um entusiasta da bicicleta e propôs a criação de ciclovias seguras e eficientes em toda a cidade, além da instalação de pontos de recarga de energia para bicicletas elétricas. Luca acreditava que essa solução poderia ajudar a reduzir o tráfego, a poluição e melhorar a saúde dos moradores. 🚴‍♂️🌍🇮🇹
+In Europe, we have Luca, a 9-year-old Italian boy who lived in a city with urban mobility problems. He was a bicycle enthusiast and proposed the creation of safe and efficient bike lanes throughout the city, as well as the installation of charging points for electric bicycles. Luca believed that this solution could help reduce traffic and pollution and improve the health of residents. 🚴‍♂️🌍🇮🇹
 
-Por fim, vamos à Oceania, onde conhecemos Hannah, uma garota australiana de 11 anos que vivia em uma região costeira ameaçada pelo aumento do nível do mar. Ela era apaixonada pelo oceano e estava determinada a desenvolver um projeto de energia das ondas, que aproveitasse a força das marés para gerar eletricidade de forma sustentável e combater os impactos das mudanças climáticas. 🌊🌏🇦🇺
+Finally, we go to Oceania, where we meet Hannah, an 11-year-old Australian girl who lived in a coastal region threatened by rising sea levels. She had a passion for the ocean and was determined to develop a wave energy project that harnessed tidal power to sustainably generate electricity and combat the impacts of climate change. 🌊🌏🇦🇺
 
-Essas cinco crianças, juntas, embarcam em uma incrível jornada ao redor do mundo para apresentar suas soluções energéticas e urbanísticas às elites ricas e alopradas. Com coragem e determinação, eles enfrentaram desafios, superaram obstáculos e conquistaram aliados em sua missão de transformar o planeta.
+These five kids, together, embark on an incredible journey around the world to present their energy and urban solutions to the rich and nutty elites. With courage and determination, they faced challenges, overcame obstacles and gained allies in their mission to transform the planet.
 
-**Capítulo 1: O Encontro dos Herois 🌍💌**
+**Chapter 1: The Meeting of Heroes 🌍💌**
 
-As cinco crianças, Pedro, Amina, Mei, Luca e Hana, receberam uma misteriosa mensagem em seus computadores uma noite #Hacker´s Virada ODS Jun/2023. Ela continha um convite para um encontro em um lugar secreto, onde elas poderiam compartilhar suas ideias para mudar o mundo.
+The five children, Pedro, Amina, Mei, Luca and Hana, received a mysterious message on their computers one night #Hacker´s Virada ODS Jun/2023. It contained an invitation to a meeting in a secret place where they could share their ideas for changing the world.
 
-Intrigados e empolgados, os cinco herois decidiram se encontrar. Para isso, 
-Pedro voo de paraquedas sobre os morros cariocas 
-🪂, Amina correu pelas savanas quenianas 🏃‍♀️, 
-Mei atravessou os arranha-céus de Xangai 🏙️, 
-Luca pedalou por vilarejos italianos 🚴‍♂️ e Hana surfou ondas australianas 🏄‍♀️. 
+Intrigued and excited, the five heroes decided to meet. For that,
+Pedro parachute flight over the hills of Rio de Janeiro
+🪂, Amina ran across the Kenyan savannahs 🏃‍♀️,
+Mei walked through the skyscrapers of Shanghai 🏙️,
+Luca cycled through Italian villages 🚴‍♂️ and Hana surfed Australian waves 🏄‍♀️.
 
-Eles se encontraram em um templo antigo e misterioso no meio do deserto africano 🏜️.
+They met in an ancient and mysterious temple in the middle of the African desert 🏜️.
 
-**Capítulo 2: A Profecia do Templo 🗿📜**
+**Chapter 2: The Temple Prophecy 🗿📜**
 
-Dentro do templo, os herois foram recebidos por um ancião sábio, que lhes contou sobre uma antiga profecia. Segundo a profecia, cinco crianças de diferentes partes do mundo se uniram para enfrentar os desafios do planeta e trazer esperança para a humanidade.
-O ancião mostrou-lhes um mapa holográfico, revelando locais específicos em áreas desérticas do mundo, onde poderiam ser construídas gigantescas usinas solares ☀️🏭. Essa produção em larga escala ajudaria a resolver os problemas energéticos globais e combater as mudanças climáticas.
+Inside the temple, the heroes were greeted by a wise old man, who told them of an ancient prophecy. According to the prophecy, five children from different parts of the world came together to face the planet's challenges and bring hope to humanity.
+The elder showed them a holographic map, revealing specific locations in desert areas of the world, where gigantic solar plants could be built ☀️🏭. Such large-scale production would help solve global energy problems and combat climate change.
 
 
-**Capítulo 3: A Viagem Pelo Deserto 🌵🏜️**
+**Chapter 3: The Desert Journey 🌵🏜️**
 
-Os herois percebem que, para realizar a profecia e unir as usinas solares, eles precisavam cruzar o deserto em uma jornada épica. Juntos, formaram um grupo unido e corajoso, enfrentando tempestades de areia 💨, calor escaldante ☀️ e desafios inesperados.
-Durante a jornada, eles aprenderam a confiar uns nos outros e a compartilhar suas habilidades e conhecimentos. Pedro ensinou sobre a tecnologia e a importância da comunidade 💻🤝, Amina falou sobre a resiliência e o poder da água 💧💪, Mei compartilhou sua paixão pela natureza e urbanismo sustentável 🌿🏙️, Luca mostrou como a mobilidade poderia ser transformada 🚲✨ e Hana trouxe a sabedoria das ondas e do oceano 🌊🌏.
+The heroes realize that in order to fulfill the prophecy and unite the solar plants, they needed to cross the desert on an epic journey. Together, they formed a united and courageous group, facing sandstorms 💨, scorching heat ☀️ and unexpected challenges.
+During the journey, they learned to trust each other and share their skills and knowledge. Pedro taught about technology and the importance of community 💻🤝, Amina spoke about resilience and the power of water 💧💪, Mei shared her passion for nature and sustainable urbanism 🌿🏙️, Luca showed how mobility could be transformed 🚲✨ and Hana brought the wisdom of the waves and the ocean 🌊🌏.
 
-**Capítulo 4: A Conexão Global 🌐⚡**
+**Chapter 4: The Global Connection 🌐⚡**
 
-Ao chegarem ao centro do deserto, os herois usaram suas habilidades para construir as primeiras usinas solares conectadas globalmente por meio de data cables de energia 🔌💡. A energia solar gerada nessas usinas seria compartilhada e distribuída de forma inteligente ao redor do mundo, beneficiando comunidades em todos os continentes.
+Upon reaching the center of the desert, the heroes used their skills to build the first solar plants connected globally through power data cables 🔌💡. The solar energy generated at these plants would be intelligently shared and distributed around the world, benefiting communities on every continent.
 
-**Capítulo 5: O Retorno Triunfal 🎉🌈**
+**Chapter 5: The Triumphal Return 🎉🌈**
 
-Com o sucesso de sua jornada, os herois retornaram aos seus lares e comunidades como verdadeiros campeões da sustentabilidade. Pedro implementou seu projeto de energia solar comunitária na favela, trazendo luz e esperança para os moradores 💡🏘️. Amina construiu a micro usina hidrelétrica em seu vilarejo, resolvendo os problemas de água e energia 💧⚡. Mei transformou os telhados da cidade em jardins suspensos, melhorando a qualidade de vida e o meio ambiente 🌿🌆.
+With the success of their journey, the heroes returned to their homes and communities as true champions of sustainability. Pedro implemented his community solar energy project in the favela, bringing light and hope to the residents 💡🏘️. Amina built the micro hydroelectric plant in her village, solving water and energy problems 💧⚡. Mei turned city roofs into hanging gardens, improving quality of life and the environment 🌿🌆.
 
-**Capítulo 6: O Legado dos Herois 🌟🌍**
+**Chapter 6: The Legacy of Heroes 🌟🌍**
 
-À medida que as histórias dos herois se espalharam, mais e mais crianças ao redor do mundo se inspiravam em suas jornadas. Elas começaram a criar seus próprios projetos sustentáveis e a trabalhar juntas para transformar suas comunidades. Os cinco herois solares se tornam mentores e guias para essas crianças, ajudando-as a superar desafios e a encontrar soluções inovadoras. Juntos, eles formaram uma rede global de jovens defensores do meio ambiente, dedicados a criar um futuro sustentável e brilhante para todos. 
+As the stories of the heroes spread, more and more children around the world were inspired by their journeys. They started creating their own sustainable projects and working together to transform their communities. The five solar heroes become mentors and guides for these children, helping them overcome challenges and find innovative solutions. Together they formed a global network of young environmental advocates dedicated to creating a sustainable and bright future for all.
 
-**Capítulo 7: A Celebração da Sustentabilidade 🎉🌎**
+**Chapter 7: The Celebration of Sustainability 🎉🌎**
 
-Para comemorar o sucesso de suas jornadas, os herois solares organizaram uma grande celebração da sustentabilidade. Pessoas de todo o mundo se reuniram em um festival cheio de música, arte e ideias inspiradoras. Durante o festival, as crianças compartilharam seus projetos e conquistas, celebrando o poder da imaginação e da ação. O mundo inteiro testemunhou a incrível transformação que ocorreu quando as crianças se uniram para enfrentar os desafios do planeta.
+To celebrate the success of their journeys, the Solar Heroes organized a grand celebration of sustainability. People from all over the world came together for a festival full of music, art and inspiring ideas. During the festival, children shared their projects and achievements, celebrating the power of imagination and action. The entire world witnessed the incredible transformation that took place when children came together to tackle the planet's challenges.
 
-**Epílogo: O Futuro Sustentável ✨🌍**
+**Epilogue: The Sustainable Future ✨🌍**
 
-Com o passar dos anos, as soluções dos herois solares se espalharam pelo mundo, alcançando cada vez mais pessoas e comunidades. A energia solar, as usinas hidrelétricas, os jardins suspensos e as ciclovias se tornaram parte integrante da vida cotidiana em todos os cantos do planeta. Graças ao trabalho árduo e à visão dos herois solares, o mundo finalmente alcançou um equilíbrio entre a tecnologia e a natureza, garantindo um futuro sustentável para as gerações vindouras. A história dos herois solares continua a inspirar crianças e adultos a agirem em prol do meio ambiente e acreditarem no poder da mudança. Juntos, eles mostraram ao mundo que todos nós temos o potencial de ser herois e criar um mundo melhor para todos. Fim. Espero que você tenha gostado dessa história empolgante e inspiradora dos **Herois Solares!**
+Over the years, solar hero solutions have spread around the world, reaching more and more people and communities. Solar energy, hydroelectric power plants, hanging gardens and cycle paths have become an integral part of everyday life in every corner of the planet. Thanks to the hard work and vision of the Solar Heroes, the world has finally achieved a balance between technology and nature, ensuring a sustainable future for generations to come. The story of the solar heroes continues to inspire children and adults alike to take action for the environment and believe in the power of change. Together they showed the world that we all have the potential to be heroes and create a better world for all. End. I hope you enjoyed this exciting and inspiring story of the **Solar Heroes!**
 
-# Chamada Zero Carbono
+# Call Zero Carbon
 
 |<img src="https://lh6.googleusercontent.com/ig1SHVxBpX0TgScGdFh7BnUrkqSC2NDb2e9QWVDSSYNX1JOoXb-hqGdd_xhBs34dbtSMrpb5IegGyr8iCLIdZnJUr8_cCq0U5YQLcf3xCpwXWl2epDpf-k-fvnwMOGYlXySimlOte5QNPsQHEgKLNPc" width="80%" height="80%" />|
 |<img src="https://lh3.googleusercontent.com/ouLCa1lKoyCZlCW83nvn9Ahw05G9DTCDGLnjeX2cH8JtylhvGXhmgEdqhNKEc5pKvgaRpr0udIanyhZBtqRwoYW0GFs6bGpZ1N_XsllJr9F8GYQ4eirfVI8hCKFdwXpxzpZiDV3yEVGmxdmLK2dKYXo" width="80%" height="80%" />|
@@ -110,240 +110,240 @@ Com o passar dos anos, as soluções dos herois solares se espalharam pelo mundo
  <img src="https://earth.google.com/web/@8.84006633,4.89731038,250.61724907a,10980922.26193372d,30.00000163y,0h,0t,0r/data=MikKJwolCiExU01QSkVQQ3lHUXVmak9HTnMxT3JMamVZM19hMHBxZFAgAToDCgEw?authuser=0
 "/>
 
-# Dor | Oportunidade | Solução
+# Pain | Opportunity | Solution
 
 **Global**
 
-Mais de 50% da energia elétrica do planeta é produzida pela transformação de combustíveis fósseis, predominando carvão e gás natural, e neste processo, mais de 50% do calor produzido não é aproveitado na forma de energia, sendo dispensado, desperdiçado e jogado no planeta, também conhecido como Aquecimento Global Instantâneo.
-O mesmo acontece com mais de 500 sites nucleares, com eficiência energética inferior a 40%, ou seja, 60% do calor produzido é jogado no mar.
-O desperdício energético equivale a US$17 trilhões por ano, logo, uma empresa produtora de energia, distribuidora de energia, no mínimo,  deve ser certificada ISO 5001 para usufruir desta oportunidade.
+More than 50% of the planet's electrical energy is produced by transforming fossil fuels, predominantly coal and natural gas, and in this process, more than 50% of the heat produced is not used in the form of energy, being discharged, wasted and dumped on the planet. , also known as Instantaneous Global Warming.
+The same happens with more than 500 nuclear sites, with energy efficiency of less than 40%, that is, 60% of the heat produced is thrown into the sea.
+Energy waste amounts to US$17 trillion a year, so a company that produces energy, distributes energy, at a minimum, must be ISO 5001 certified to take advantage of this opportunity.
 
-A transição NetZero passa pelo incremento da eficiência energética da matriz atual, incluindo solar, 5 horas por dia de produção e 20% de eficiência energética.
+The NetZero transition involves increasing the energy efficiency of the current matrix, including solar, 5 hours a day of production and 20% energy efficiency.
 
-Neste cenário discorremos e entregamos duas soluções:
-- Incremental: Redes Híbridas Gás Natural/H2
-- Disruptiva: Energia 100% Solar produzida por  Sites Energético em regiões inóspitas como desertos, interconectada globalmente por data energy cable, superando as limitações de fuso horários de até 12 horas com o excedente suprindo áreas escuras.
+In this scenario we discuss and deliver two solutions:
+- Incremental: Natural Gas/H2 Hybrid Networks
+- Disruptive: 100% Solar Energy produced by Energy Sites in inhospitable regions such as deserts, globally interconnected by data energy cable, overcoming time zone limitations of up to 12 hours with the surplus supplying dark areas.
 
 **Google Cloud**
 
- A demanda de energia do Google cresceu de cerca de **100 megawatts (MW) em 2000 para cerca de 10 gigawatts (GW) em 2022**. Isso representa um aumento de cerca de 100 vezes em 22 anos.
+ Google's energy demand has grown from around **100 megawatts (MW) in 2000 to around 10 gigawatts (GW) in 2022**. This represents an increase of about 100 times in 22 years.
 
-O consumo de energia do Google continuará a crescer nos próximos 22 anos, à medida que a empresa continua a expandir seus negócios e oferecer novos serviços.
+Google's energy consumption will continue to grow over the next 22 years as the company continues to expand its business and offer new services.
 
-# O Google Cloud projeta que seu consumo de energia aumentará para 100 GW até 2025 e para 1 terawatt (TW) até 2030. Isso representa um aumento de cerca de 10 vezes em 2022.
+# Google Cloud projects that its energy consumption will increase to 100 GW by 2025 and to 1 terawatt (TW) by 2030. That's about a 10-fold increase by 2022.
 
-**Em 2011 o planeta consumia 17 TW, enquanto o Sol entrega 86.000 TW.**
+**In 2011 the planet consumed 17 TW, while the Sun delivers 86,000 TW.**
 
 Fonte:[EMEG Initiative](https://www.amazon.com.br/EMEG-Equilibrar-MIX-Energ%C3%A9tico-Global-ebook/dp/B005CD5GSQ)
 
-Existem alguns fatores que estão impulsionando o crescimento do consumo de energia do Google. Um fator é o aumento do uso de serviços em nuvem. Os serviços em nuvem são baseados na web e são hospedados em data centers. À medida que mais pessoas usam serviços em nuvem, o Google precisa construir mais data centers e alocar mais energia para alimentá-los.
+There are a few factors that are driving Google's power consumption growth. One factor is the increased use of cloud services. Cloud services are web-based and hosted in data centers. As more people use cloud services, Google needs to build more data centers and allocate more energy to power them.
 
-Outro fator que está impulsionando o crescimento do consumo de energia do Google é o aumento do uso de inteligência artificial (IA). A IA é uma tecnologia que está sendo usada em uma variedade de produtos e serviços do Google, como o Google Assistente, o Google Tradutor e o Google Fotos. À medida que o Google continua a investir em IA, a empresa precisa alocar mais energia para alimentar os sistemas de IA.
+Another factor driving Google's energy consumption growth is the increased use of artificial intelligence (AI). AI is a technology being used in a variety of Google products and services, such as the Google Assistant, Google Translate, and Google Photos. As Google continues to invest in AI, the company needs to allocate more energy to power AI systems.
 
-| Atividade | Consumo de energia (watts) | Tempo (minutos) | Consumo de energia (kWh) | Custo (R$) |
+| Activity | Power consumption (watts) | Time (minutes) | Energy consumption (kWh) | Cost (BRL) |
 |---|---|---|---|---|
-| Banho 😱 | 5500 | 10 | 5,5 | 0,34 |
-| Mineração de *PLIMM 😱😱 | 4466,8 | 10 | 4,47 | 0,28 |
-| Gerando Prompt GPT 😱😱😱 | 2600,84 | 10 | 2,6 | 0,16 |
+| Bath 😱 | 5500 | 10 | 5.5 | 0.34 |
+| Mining of *PLIMM 😱😱 | 4466.8 | 10 | 4.47 | 0.28 |
+| Generating GPT Prompt 😱😱😱 | 2600.84 | 10 | 2.6 | 0.16 |
 
-O Google está tomando medidas para reduzir seu consumo de energia. A empresa está usando fontes de energia renováveis, como energia solar e eólica, para alimentar seus data centers. O Google também está investindo em tecnologias de eficiência energética, como resfriamento líquido e computação de borda.
+Google is taking steps to reduce its power consumption. The company is using renewable energy sources such as solar and wind energy to power its data centers. Google is also investing in energy-efficient technologies like liquid cooling and edge computing.
 
-Apesar dessas medidas, o consumo de energia do Google continuará a crescer nos próximos 22 anos. O Google está comprometido em usar energia de forma sustentável e está trabalhando para reduzir seu impacto ambiental.
+Despite these measures, Google's energy consumption will continue to grow for the next 22 years. Google is committed to using energy sustainably and is working to reduce its environmental impact.
 
-**Dor:** O Google Cloud é caro.
-- Custo por hora de execução: US$0,015-0,20.
-- Custo mensal médio: US$100-10.000.
-- Tendência: O mercado de computação em nuvem está crescendo rapidamente.
-- Receita global de computação em nuvem: US$371,4 bilhões em 2020.
-- Receita global de computação em nuvem projetada: US$832,1 bilhões em 2025.
+**Pain:** Google Cloud is expensive.
+- Cost per hour of execution: US$0.015-0.20.
+- Average monthly cost: US$100-10,000.
+- Trend: The cloud computing market is growing rapidly.
+- Global cloud computing revenue: $371.4 billion in 2020.
+- Projected global cloud computing revenue: $832.1 billion in 2025.
 
-**Dor:** O Google Cloud é caro.
-- Métrica: Custo por hora de execução.
-- Curar: Reduza o custo por hora de execução usando recursos de computação mais eficientes, como instâncias com densidade de computação mais alta, redes mais eficientes e armazenamento mais eficiente.
+**Pain:** Google Cloud is expensive.
+- Metric: Cost per hour of execution.
+- Heal: Lower your cost per hour of execution by using more efficient compute resources such as higher compute density instances, more efficient networking, and more efficient storage.
 
-**Dor:** O Google Cloud é difícil de usar.
-- Métrica: Tempo necessário para configurar e implantar um aplicativo.
-- Curar: Crie um painel de controle amigável que facilite a configuração e a implantação de aplicativos.
+**Pain:** Google Cloud is difficult to use.
+- Metric: Time taken to configure and deploy an application.
+- Curate: Create a user-friendly dashboard that makes it easy to configure and deploy apps.
 
-**Dor:** O Google Cloud não é confiável.
-- Métrica: Tempo médio de disponibilidade.
-- Curar: Implemente estratégias de redundância e resiliência.
+**Pain:** Google Cloud is unreliable.
+- Metric: Average availability time.
+- Heal: Implement redundancy and resiliency strategies.
 
-**Dor:** O Google Cloud não é seguro.
-- Métrica: Número de violações de segurança.
-- Curar: Implemente medidas de segurança, como autenticação multifator e criptografia.
+**Pain:** Google Cloud is not secure.
+- Metric: Number of security breaches.
+- Heal: Implement security measures such as multi-factor authentication and encryption.
 
-O crescimento da demanda de energia do Google é impulsionado por uma série de fatores. Um fator é o crescimento do uso da Internet. Em 2000, havia cerca de 500 milhões de usuários da Internet no mundo. Em 2022, esse número aumentou para cerca de 4,5 bilhões. Esse aumento no uso da Internet levou a um aumento na demanda de servidores do Google para armazenar e processar dados.
+Google's energy demand growth is driven by a number of factors. One factor is the growth in Internet usage. In 2000, there were around 500 million Internet users in the world. By 2022, that number has increased to around 4.5 billion. This increase in Internet usage has led to an increase in demand on Google's servers to store and process data.
 
-Outro fator que impulsiona o crescimento da demanda de energia do Google é o aumento da popularidade de serviços baseados em nuvem, como o Google Cloud Platform. O Google Cloud Platform é uma plataforma de computação em nuvem que oferece uma variedade de serviços, incluindo armazenamento, processamento, rede e análise de dados. Esses serviços estão se tornando cada vez mais populares, o que está levando a um aumento na demanda de servidores do Google.
+Another factor driving Google's power demand growth is the rise in popularity of cloud-based services such as Google Cloud Platform. Google Cloud Platform is a cloud computing platform that offers a variety of services including storage, processing, networking, and data analytics. These services are becoming more and more popular, which is leading to an increase in demand for Google's servers.
 
-De acordo com a análise da empresa de pesquisa de mercado Technavio, o consumo de energia do Google deve crescer de 19,9 bilhões de kWh em 2022 para 44,1 bilhões de kWh em 2028, com uma taxa de crescimento anual composta (CAGR) de 12,6%. Isso se deve a uma série de fatores, incluindo o crescimento da base de usuários do Google, a expansão de sua infraestrutura de Deep Cloud e o aumento da demanda por serviços de computação em nuvem.
+According to analysis by market research firm Technavio, Google's energy consumption is expected to grow from 19.9 billion kWh in 2022 to 44.1 billion kWh in 2028, with a compound annual growth rate (CAGR) of 12.6%. This is due to a number of factors, including Google's growing user base, expanding its Deep Cloud infrastructure, and increasing demand for cloud computing services.
 
-Por fim, o desenvolvimento de novas tecnologias, como inteligência artificial e mineração de criptomoedas, também está impulsionando o crescimento da demanda de energia do Google. A inteligência artificial é uma tecnologia que está se tornando cada vez mais poderosa e está sendo usada em uma ampla variedade de aplicações, como reconhecimento de imagem, tradução automática e aprendizado de máquina. Essas aplicações exigem uma grande quantidade de poder de computação, o que está levando a um aumento na demanda de servidores do Google.
+Finally, the development of new technologies such as artificial intelligence and cryptocurrency mining is also driving growth in Google's energy demand. Artificial intelligence is a technology that is becoming more and more powerful and is being used in a wide variety of applications such as image recognition, machine translation and machine learning. These applications require a large amount of computing power, which is leading to an increase in demand on Google's servers.
 
-A mineração de criptomoedas é outra atividade que está consumindo cada vez mais energia. A mineração de criptomoedas é o processo de gerar novas unidades de criptomoedas, como Bitcoin e Ethereum. Esse processo requer um grande poder computacional, o que está levando a um aumento na demanda de energia.
+Cryptocurrency mining is another activity that is consuming more and more energy. Cryptocurrency mining is the process of generating new units of cryptocurrencies such as Bitcoin and Ethereum. This process requires a large computational power, which is leading to an increase in energy demand.
 
-O aumento da demanda de energia do Google está tendo um impacto significativo no meio ambiente. O Google é um dos maiores consumidores de energia do mundo e suas operações emitem uma grande quantidade de gases de efeito estufa. O Google está trabalhando para reduzir seu impacto ambiental, mas ainda há muito a ser feito.
+Google's increased demand for energy is having a significant impact on the environment. Google is one of the biggest consumers of energy in the world and its operations emit a lot of greenhouse gases. Google is working to reduce its environmental impact, but there's still a lot to be done.
 
-O Google também está trabalhando para desenvolver novas tecnologias que possam ajudar a reduzir seu impacto ambiental. Por exemplo, o Google está investindo em fontes de energia renováveis, como energia solar e eólica, e está trabalhando para desenvolver servidores mais eficientes em termos de energia.
+Google is also working to develop new technologies that can help reduce its environmental impact. For example, Google is investing in renewable energy sources such as solar and wind energy, and is working to develop more energy-efficient servers.
 
-O Google está comprometido em reduzir seu impacto ambiental e está tomando medidas para alcançá-lo. No entanto, ainda há muito a ser feito e é importante que os clientes do Google ajudem a empresa a alcançar seus objetivos.
+Google is committed to reducing its environmental impact and is taking steps to achieve it. However, much remains to be done, and it's important that Google's customers help the company achieve its goals.
 
-**Entregas: melhorar as métricas incluindo mind share**
+**Deliveries: improve metrics including mind share**
 
-Número de clientes: O Google Cloud tem um número crescente de clientes, incluindo grandes empresas, pequenas empresas e startups.
-Revenue: O Google Cloud está gerando um faturamento crescente, o que reflete a crescente demanda por seus serviços.
-Market share: O Google Cloud tem uma participação crescente no mercado de computação em nuvem, o que reflete o sucesso de seus serviços.
-Reputação: O Google Cloud tem uma reputação forte de confiabilidade, segurança e desempenho, o que o torna uma escolha popular para clientes.
-Satisfação do cliente: O Google Cloud tem uma alta satisfação do cliente, o que reflete a qualidade de seus serviços.
-* O crescimento do consumo de energia do Google desde a inauguração e o crescimento do suprimento de energia no mundo, 1% da Europa (compare com um países do G7 e BRICS) o que justifica operar geradores a diesel por 10 horas por dia, insustentável
-* Mercado em crescimento e **oportunidade - África**
+Number of Customers: Google Cloud has a growing number of customers, including large enterprises, small businesses, and startups.
+Revenue: Google Cloud is generating increasing revenue, which reflects the growing demand for its services.
+Market share: Google Cloud has a growing share of the cloud computing market, which reflects the success of its services.
+Reputation: Google Cloud has a strong reputation for reliability, security, and performance, making it a popular choice for customers.
+Customer Satisfaction: Google Cloud has a high customer satisfaction which reflects the quality of its services.
+* Google's energy consumption growth since inauguration and the growth of energy supply in the world, 1% of Europe (compare with a G7 and BRICS countries) which justifies running diesel generators for 10 hours a day, unsustainable
+* Growing market and **opportunity - Africa**
 
-# Produtos e Serviços
+# Products and services
 
-**Deep Energy**O Deep Energy é um sistema de energia renovável que utiliza uma variedade de fontes de energia, incluindo energia solar, eólica e geotérmica. O Deep Battery também é capaz de armazenar energia solar por fuso horário dinâmico, sem bateria, o que permite ao Deep Cloud opere mesmo quando não há produção de energia local.
+**Deep Energy**Deep Energy is a renewable energy system that uses a variety of energy sources, including solar, wind and geothermal energy. The Deep Battery is also capable of storing solar energy by dynamic time zone, without battery, which allows the Deep Cloud to operate even when there is no local energy production.
 
-Sim, os Deep Cloud distribuídos recebem continuamente energia por causa dos fusos horários diferentes. Isso significa que eles podem gerar energia mesmo quando o sol não está brilhando em um determinado local.
+Yes, distributed Deep Clouds continuously receive power because of different time zones. This means that they can generate power even when the sun is not shining in a certain location.
 
-O total de energia foi calculado considerando as horas solares líquidas. Isso significa que as horas solares que não são aproveitadas pelos Deep Clouds não foram contabilizadas.
+The total energy was calculated considering the net solar hours. This means that the solar hours that are not used by the Deep Clouds were not accounted for.
 
-Por exemplo, se um Deep Cloud está localizado em um local que recebe 6 horas de sol por dia, mas só está operando por 4 horas por dia, então apenas 4 horas de sol serão contabilizadas no total de energia.
+For example, if a Deep Cloud is located in a location that receives 6 hours of sunlight per day, but is only operating for 4 hours per day, then only 4 hours of sunlight will count towards the total energy.
 
-Ao considerar as horas solares líquidas, podemos obter uma estimativa mais precisa da quantidade de energia que os Deep Cloud distribuídos podem gerar. Isso é importante porque nos permite avaliar o potencial do projeto Deep Sun para fornecer energia limpa e renovável para o mundo.
+By considering net solar hours, we can get a more accurate estimate of the amount of energy distributed Deep Clouds can generate. This is important because it allows us to assess the Deep Sun project's potential to provide clean, renewable energy to the world.
 
-**DeepCloud**O Deep Cloud é um sistema de computação em nuvem que é alimentado pelo Deep Energy. O Deep Cloud é capaz de fornecer serviços de computação, Deep Battery, armazenamento solar e rede de forma escalável, redundante e eficiente.
+**DeepCloud**Deep Cloud is a cloud computing system that is powered by Deep Energy. The Deep Cloud is capable of providing computing, Deep Battery, solar storage and networking services in a scalable, redundant and efficient manner.
 
-Contrato de Parceria Tecnológica entre Ecohold e Google Cloud
+Technological Partnership Agreement between Ecohold and Google Cloud
 
-Este Contrato de Parceria Tecnológica ("Contrato") é celebrado entre a Ecohold, representada pelo CEO Zeh Sobrinho, e a Google Cloud, representada pelo seu representante legal.
+This Technology Partnership Agreement ("Agreement") is entered into between Ecohold, represented by CEO Zeh Sobrinho, and Google Cloud, represented by its legal representative.
 
-**1. Objetivo**
+**1. Aim**
 
-As partes concordam em estabelecer uma parceria tecnológica para desenvolver e implementar soluções inovadoras baseadas em tecnologias de ponta, incluindo inteligência artificial, blockchain e resfriamento por imersão líquida. O objetivo é promover a sustentabilidade, reduzir as emissões de carbono e aumentar a eficiência energética em data centers e serviços de processamento de deep models.
+The parties agree to establish a technology partnership to develop and implement innovative solutions based on cutting-edge technologies, including artificial intelligence, blockchain and liquid immersion cooling. The aim is to promote sustainability, reduce carbon emissions and increase energy efficiency in data centers and deep model processing services.
 
-**2. Escopo do Projeto**
+**two. Project Scope**
 
-O escopo do projeto abrangerá as seguintes atividades:
+The scope of the project will cover the following activities:
 
 2.1. Desenvolvimento de Deep Energy Cloud & Credit Carbon Negative Blockchain
-2.2. Implantação de Servidores com Tecnologia de Resfriamento por Imersão Líquida
-2.3. Utilização de Inteligência Artificial Representada por A.I.R.I.S.
-2.4. Integração com a Plataforma Gratuita da Google Cloud
-2.5. Monitoramento e Controle de Emissões de Carbono
+2.2. Deployment of Servers with Liquid Immersion Cooling Technology
+2.3. Use of Artificial Intelligence Represented by A.I.R.I.S.
+2.4. Integration with the Free Google Cloud Platform
+2.5. Monitoring and Control of Carbon Emissions
 
-3. Responsabilidades das Partes
+3. Responsibilities of the Parties
 
 **3.1. Ecohold:**
-- Fornecer o conhecimento técnico especializado e os recursos necessários para o desenvolvimento do Deep Energy Cloud & Credit Carbon Negative Blockchain.
-- Disponibilizar os servidores com tecnologia de resfriamento por imersão líquida para uso nos data centers.
-- Garantir a operação e manutenção adequadas dos equipamentos fornecidos.
-- Implementar as medidas necessárias para redução das emissões de carbono e atingir os objetivos de sustentabilidade.
+- Provide the specialized technical knowledge and resources necessary for the development of the Deep Energy Cloud & Credit Carbon Negative Blockchain.
+- Make servers with liquid immersion cooling technology available for use in data centers.
+- Ensure the proper operation and maintenance of the supplied equipment.
+- Implement the necessary measures to reduce carbon emissions and achieve sustainability goals.
 
 3.2. Google Cloud:
-- Disponibilizar a plataforma gratuita para hospedagem do projeto.
-- Oferecer suporte técnico e acesso às APIs e serviços da Google Cloud.
-- Colaborar na integração da inteligência artificial representada por A.I.R.I.S. com a plataforma.
-- Contribuir com recursos e conhecimentos para o desenvolvimento do projeto.
+- Provide the free platform for hosting the project.
+- Provide technical support and access to Google Cloud APIs and services.
+- Collaborate in the integration of artificial intelligence represented by A.I.R.I.S. with the platform.
+- Contribute with resources and knowledge for the development of the project.
 
-**4. Propriedade Intelectual**
+**4. Intellectual property**
 
-Cada parte será proprietária de seus respectivos direitos de propriedade intelectual relacionados ao projeto. No entanto, ambas as partes concordam em compartilhar os resultados e benefícios gerados pela parceria de forma justa e equitativa.
+Each party will own its respective intellectual property rights relating to the project. However, both parties agree to share the results and benefits generated by the partnership fairly and equitably.
 
-**5. Confidencialidade**
+**5. Confidentiality**
 
-As partes concordam em manter todas as informações confidenciais trocadas durante a parceria em sigilo e não divulgar a terceiros sem consentimento prévio por escrito.
+The parties agree to keep all confidential information exchanged during the partnership confidential and not to disclose it to third parties without prior written consent.
 
-**6. Prazo e Rescisão**
+**6. Term and Termination**
 
-O prazo deste contrato será de [10] anos, podendo ser prorrogado mediante acordo mútuo das partes. Em caso de descumprimento grave das obrigações estabelecidas neste contrato, qualquer das partes poderá rescindi-lo, mediante notificação por escrito com antecedência mínima de 30 dias.
+The term of this contract will be 10 years, which may be extended by mutual agreement of the parties. In the event of serious breach of the obligations established in this contract, either party may terminate it, upon written notice at least 30 days in advance.
 
-**7. Remuneração**
+**7. Remuneration**
 
-A parceria será regida pelo compartilhamento de benefícios, com as receitas e economias geradas pelo projeto sendo divididas de forma equitativa entre as partes, considerando os investimentos e esforços de cada uma.
+The partnership will be governed by benefit sharing, with the revenues and savings generated by the project being divided equally between the parties, considering the investments and efforts of each one.
 
-**8. Legislação Aplicável e Foro**
+**8. Applicable Law and Jurisdiction**
 
-Este contrato será regido pelas leis [Vide Regulamentação Certificação] e quaisquer disputas decorrentes do mesmo serão submetidas à jurisdição exclusiva dos tribunais da cidade de [São Paulo, , ].
+This contract will be governed by the laws [See Certification Regulation] and any disputes arising therefrom will be submitted to the exclusive jurisdiction of the courts of the city of [São Paulo, , ].
 
-As partes, por seus representantes legais, assinam este Contrato na data da última assinatura abaixo.
+The parties, by their legal representatives, sign this Agreement on the last signature date below.
 
 _______________________________________
 CEO Zeh Sobrinho - Ecohold
 
 _______________________________________
-Representante Legal - Google Cloud
+Legal Representative - Google Cloud
 
-Data: julho 2023
+Date: July 2023
 
-**NGH2DeepEnergy** Sim, os Deep Clouds distribuídos recebem continuamente energia por causa dos fusos horários diferentes. Isso significa que eles podem gerar energia mesmo quando o sol não está brilhando em um determinado local.
-O total de energia foi calculado considerando as horas solares líquidas. Isso significa que as horas solares que não são aproveitadas pelos Deep Clouds não foram contabilizadas.
-Por exemplo, se um Deep Cloud está localizado em um local que recebe 6 horas de sol por dia, mas só está operando por 4 horas por dia, então apenas 4 horas de sol serão contabilizadas no total de energia.
-Ao considerar as horas solares líquidas, podemos obter uma estimativa mais precisa da quantidade de energia que os Deep Clouds distribuídos podem gerar. Isso é importante porque nos permite avaliar o potencial do projeto Deep Sun para fornecer energia limpa e renovável para o mundo.
-Deep Cloud: O Deep Cloud é um sistema de computação em nuvem que é alimentado pelo Deep Energy. O Deep Cloud é capaz de fornecer serviços de computação intercontinental, armazenamento e rede de forma escalável e eficiente suprido pela Solar Deep Energy.
+**NGH2DeepEnergy** Yes, distributed Deep Clouds continuously receive power because of different time zones. This means that they can generate power even when the sun is not shining in a certain location.
+The total energy was calculated considering the net solar hours. This means that the solar hours that are not used by the Deep Clouds were not accounted for.
+For example, if a Deep Cloud is located in a location that receives 6 hours of sunlight per day, but is only operating for 4 hours per day, then only 4 hours of sunlight will count towards the total energy.
+By considering net solar hours, we can get a more accurate estimate of how much energy distributed Deep Clouds can generate. This is important because it allows us to assess the Deep Sun project's potential to provide clean, renewable energy to the world.
+Deep Cloud: The Deep Cloud is a cloud computing system that is powered by Deep Energy. The Deep Cloud is capable of providing scalable and efficient cross-continental computing, storage and networking services powered by Solar Deep Energy.
 
-**DeepWind:** Fazendas energéticas marítimas integradas a NGH2 DataCloud, Deep Power NGH2
+**DeepWind:** Marine energy farms integrated withTHINK2 DataCloud, Deep Power THINK2
 
-**Deep Power NGH2** Fazendas energéticas híbridas produtoras de gás natural e h2, distribuídos por gasodutos híbridos 95/5%, chegando a 15/85% em 2030, integradas a NGH2 DataCloud e DeepWind
+**Deep Power NGH2** Hybrid energy farms producing natural gas and h2, distributed by hybrid pipelines 95/5%, reaching 15/85% in 2030, integrated with NGH2 DataCloud and DeepWind
 
-**Deep Regulamentação:** Ecossistema de regulamentar, Arsesp, estadual, PAN CLIMA municipal paulista, habilita gasodutos híbridos, Gás Natural e H2, 95/5% inicialmente, atingindo 15/85% em 2030, supridos por Plataformas Marítimas integradas por Fazendas energéticas marítimas integradas a usinas de H2 com energia suprido por fazendas eólicas DeepWind marítimas que entregam o blend, Gás Natural e H2, através de gasodutos híbridos. Distribuição atende a costa e sobe a serra para suprir residenciais, comerciais e industriais, seja para cocção, aquecimento ou HPC com 85% de eficiência energética a grandes HPC, termoenergia em áreas Urbanas, alinhado às metas Projeto Térmico Pedreira | EMAE (na segunda tentativa de privatização), eólica, gás natural marítimas, por exemplo, na Bacia de Santos, São Paulo, Brasil.
+**Deep Regulation:** Regulatory ecosystem, Arsesp, state, municipal PAN CLIMA in São Paulo, enables hybrid gas pipelines, Natural Gas and H2, 95/5% initially, reaching 15/85% in 2030, supplied by Maritime Platforms integrated by Farms maritime energy plants integrated with H2 plants with energy supplied by offshore DeepWind wind farms that deliver the blend, Natural Gas and H2, through hybrid gas pipelines. Distribution serves the coast and goes up the mountains to supply residential, commercial and industrial, whether for cooking, heating or HPC with 85% energy efficiency for large HPC, thermoenergy in urban areas, in line with the targets Pedreira Thermal Project | EMAE (in the second privatization attempt), offshore wind, natural gas, for example in the Santos Basin, São Paulo, Brazil.
 
-**Deep Leilão** 
-- Petrobras adota ISO 50001
-- Petrobras lança leilão de 10 TW eólicas offshore.
+**Deep Auction**
+- Petrobras adopts ISO 50001
+- Petrobras launches an auction for 10 TW of offshore wind.
   
-**Index Deep Cloud** O IDC é indicador entre uma faixa numérica e de gradiente de cores entre o azul e o pink que indica o quão o DataCloud esta próximo ou distante do ideal de eficiência energética.
+**Index Deep Cloud** The IDC is an indicator between a numerical range and a color gradient between blue and pink that indicates how close or far the DataCloud is to the ideal of energy efficiency.
 
-                - "Fator de Utilização do Economizador de Ar (AEUF)",
-                - "Eficiência de Fluxo de Ar",
-                - "Gabinetes em Conformidade com os Padrões ASHRAE",
-                - "Eficiência do Uso de Carbono (CUE)",
-                - "Economia de CO2",
-                - "Fator de Capacidade de Resfriamento (CCF)",
-                - "Eficiência da Infraestrutura do Data Center (DCiE)",
-                - "Eficiência de Desempenho do Data Center (DCPE)",
-                - "Eficiência do Desempenho do Data Center por Energia (DPPE)",
-                - "Densidade de Energia do Data Center (DCPD)",
-                - "Eficiência do Espaço do Data Center (DCSE)",
-                - "Diferença de Temperatura por Gabinete (Delta-T por Gabinete)",
-                - "Eficiência de Utilização de Hardware Implementado (DH-UE)",
-                - "Taxa de Utilização de Hardware Implementado (DH-UR)",
-                - "Eficiência de Reutilização de Energia (ERE)",
-                - "Fator de Reutilização de Energia (ERF)",
-                - "Razão de Energia Fixa para Variável (FVER)",
-                - "Coeficiente de Energia Verde (GEC)",
-                - "Fator de Utilização da Rede (GUF)",
-                - "Eficiência do Sistema de Ventilação e Ar Condicionado (HSE)",
-                - "Eficiência de Energia do Equipamento de TI (ITEE)",
-                - "Eficiência de Uso de Energia (PUE)",
-                - "Eficiência de Espaço, Consumo de Energia e Desempenho (SWaP)",
-                - "Capacidade de Energia Desperdiçada por Rack",
-                - "Eficiência de Carbono da Tecnologia (TCE)",
-                - "Temperatura por Gabinete",
-                - "Eficiência de Energia do Sistema de Alimentação Ininterrupta (UPS) (UPEE)",
-                - "Fator de Potência do UPS (UPF)",
-                - "Fator de Utilização do Economizador de Água (WEUF)",
-                - "Eficiência de Uso da Água (WUE)"
+                - "Air Economizer Utilization Factor (AEUF)",
+                - "Airflow Efficiency",
+                - "ASHRAE Standard Compliant Cabinets",
+                - "Carbon Use Efficiency (CUE)",
+                - "CO2 Saving",
+                - "Cooling Capacity Factor (CCF)",
+                - "Data Center Infrastructure Efficiency (DCiE)",
+                - "Data Center Performance Efficiency (DCPE)",
+                - "Data Center Performance Efficiency by Energy (DPPE)",
+                - "Data Center Power Density (DCPD)",
+                - "Data Center Space Efficiency (DCSE)",
+                - "Temperature Difference per Cabinet (Delta-T per Cabinet)",
+                - "Deployed Hardware Usage Efficiency (DH-UE)",
+                - "Deployed Hardware Utilization Rate (DH-UR)",
+                - "Energy Reuse Efficiency (ERE)",
+                - "Energy Reuse Factor (ERF)",
+                - "Fixed to Variable Energy Ratio (FVER)",
+                - "Green Energy Coefficient (GEC)",
+                - "Network Utilization Factor (GUF)",
+                - "Efficiency of the Ventilation and Air Conditioning System (HSE)",
+                - "Energy Efficiency of IT Equipment (ITEE)",
+                - "Energy Usage Efficiency (PUE)",
+                - "Space Efficiency, Power Consumption and Performance (SWaP)",
+                - "Wasted Energy Capacity per Rack",
+                - "Carbon Efficiency of Technology (TCE)",
+                - "Temperature by Cabinet",
+                - "Energy Efficiency of the Uninterruptible Power Supply System (UPS) (AWESOME)",
+                - "UPS Power Factor (UPF)",
+                - "Water Saver Usage Factor (WEUF)",
+                - "Water Use Efficiency (WUE)"
 
-o "**Index Deep Cloud**" e atribuir a nota AI para o designer **Deep Cloud da Eco Hold**
-Tabela com os KPIs normalizados e seus respectivos pesos:
+the "**Index Deep Cloud**" and assign the gradeAI to o designer **Deep Cloud da Eco Hold**
+Table with normalized KPIs and their respective weights:
 
-| KPI | Grandeza | Valor Mínimo | Valor Máximo | Valor Ideal | Excelência | Peso |
+| KPI | Greatness | Minimum Value | Maximum Value | Ideal Value | Excellence | Weight |
 |-----|----------|-------------|-------------|-------------|------------|------|
 | AEUF | % | 0 | 100 | 90 | 95 | 0.05 |
-| Eficiência de Fluxo de Ar | l/s/rack | 0 | 1000 | 600 | 750 | 0.05 |
-| Gabinetes em Conformidade com os Padrões ASHRAE | % | 0 | 100 | 90 | 95 | 0.05 |
+| Airflow Efficiency | l/s/rack | 0 | 1000 | 600 | 750 | 0.05 |
+| ASHRAE Standard Compliant Cabinets | % | 0 | 100 | 90 | 95 | 0.05 |
 | CUE | kgCO2/kWh | 0 | 100 | 50 | 25 | 0.1 |
-| Economia de CO2 | tCO2/ano | 0 | 10000 | 5000 | 25000 | 0.1 |
+| CO2 Savings | tCO2/year | 0 | 10000 | 5000 | 25000 | 0.1 |
 | CCF | kW/rack | 0 | 1000 | 500 | 250 | 0.05 |
 | DCiE | % | 0 | 100 | 90 | 95 | 0.05 |
 | DCPE | % | 0 | 100 | 90 | 95 | 0.05 |
 | DPPE | % | 0 | 100 | 90 | 95 | 0.05 |
-| DCPD | kW/m² | 0 | 1000 | 500 | 250 | 0.05 |
+| DCPD kW/m² | 0| 1000 | 500 | 250 | 0.05 |
 | DCSE | % | 0 | 100 | 90 | 95 | 0.05 |
-| Delta-T por Gabinete | °C | 0 | 10 | 5 | 2.5 | 0.05 |
-| DH-UE | % | 0 | 100 | 90 | 95 | 0.05 |
-| DH-UR | % | 0 | 100 | 90 | 95 | 0.05 |
-| ERE | % | 0 | 100 | 90 | 95 | 0.05 |
+| Delta-T per Cabinet | °C | 0 | 10 | 5 | 2.5 | 0.05 |
+| DH-UE | %| 0| 100| 90| 95| 0.05 |
+| DH-UR | %| 0| 100| 90| 95| 0.05 |
+| ALSO | % | 0 | 100 | 90 | 95 | 0.05 |
 | ERF | % | 0 | 100 | 90 | 95 | 0.05 |
 | FVER | % | 0 | 100 | 90 | 95 | 0.05 |
 | GEC | % | 0 | 100 | 90 | 95 | 0.05 |
@@ -352,34 +352,34 @@ Tabela com os KPIs normalizados e seus respectivos pesos:
 | ITEE | % | 0 | 100 | 90 | 95 | 0.05 |
 | PUE | % | 0 | 200 | 1.3 | 1.05 | 0.1 |
 | SWaP | % | 0 | 100 | 90 | 95 | 0.05 |
-| Capacidade de Energia Desperdiçada por Rack | kW/rack | 0 | 1000 | 500 | 250 | 0.05 |
+| Wasted Power Capacity Per Rack | kW/rack | 0 | 1000 | 500 | 250 | 0.05 |
 | TCE | kgCO2/kWh | 0 | 100 | 50 | 25 | 0.1 |
-| Temperatura por Gabinete | °C | 0 | 10 | 5 | 2.5 | 0.05 |
-| UPEE | % | 0 | 100 | 90 | 95 | 0.05 |
+| Cabinet Temperature | °C | 0 | 10 | 5 | 2.5 | 0.05 |
+| AWESOME | % | 0 | 100 | 90 | 95 | 0.05 |
 | UPF | % | 0 | 100 | 90 | 95 | 0.05 |
 
-**NGH2 DataCloud** O NGH2 DataCloud é um sistema de computação em nuvem que é alimentado e integrado à planta energética NGH2 Deep Energy, 95/5%. O N2Deep Cloud é capaz de fornecer serviços de computação, armazenamento e rede de forma escalável e eficiente localmente em zonas urbanas, suprido por Turbinas Híbridas a Gás Natural e Hidrogênio, tecnologia disponível e validada pelo mercado e grandes fornecedores globais.
+**NGH2 DataCloud** NGH2 DataCloud is a cloud computing system that is powered and integrated into the power plantTHINK2 Deep Energy, 95/5%. The N2Deep Cloud is capable of providing scalable and efficient computing, storage and network services locally in urban areas, supplied by Hybrid Natural Gas and Hydrogen Turbines, technology available and validated by the market and large global suppliers.
 
-**Deep Cool:** O DeepCool é um sistema de resfriamento que utiliza uma variedade de técnicas, incluindo resfriamento a água, resfriamento a ar e resfriamento a imersão. O DeepCool é capaz de manter o Deep Cloud a uma temperatura adequada, mesmo quando está operando sob carga pesada.
+**Deepcool:** DeepCool is a cooling system that utilizes a variety of techniques including water cooling, air cooling and immersion cooling. DeepCool is capable of keeping the Deep Cloud at a suitable temperature even when operating under heavy load.
 
-**Deep Sun Storage** Sistema de termoacumulação armazena calor do sol durante o dia para ser connsumido pelos DeepChillers à noite
+**Deep Sun Storage** Thermoaccumulation system stores heat from the sun during the day to be consumed by Deep Chillers at night
 
-**Deep Chiller** Sistema de resfriamento por termoacumulação utiliza calor do sol durante o dia para produzir frio para os DeepCloud ou calor acumulado nos DeepSunStorage.
+**Deep Chiller** The thermoaccumulation cooling system uses heat from the sun during the day to produce cold for Deep Clouds or accumulated heat for Deep Sun Storage.
 
-**Deep Health:** O Deep Health foi nossa primeira experiência com Tensores durante o hack convid 19, é um sistema de diagnóstico médico que utiliza inteligência artificial para identificar lesões em imagens de saúde. O Deep Health é capaz de identificar lesões com precisão, o que pode levar a um tratamento mais eficaz que estimula e demanda os demais projetos.**
+**Deep Health:** Deep Health was our first experience with Tensors during the invite 19 hack, it is a medical diagnostic system that uses artificial intelligence to identify injuries in health images. Deep Health is able to accurately identify injuries, which can lead to more effective treatment that stimulates and demands other projects.**
 
-**Deep Vision**Imagens por dia com saída STL, 3DM, DWG com detalhes de marcas e componentes para serem entregues pela indústria 4.0, impossível hoje, apenas via impressão 2D.
+**Deep Vision** Images per day with STL, 3DM, DWG output with details of brands and components to be delivered by industry 4.0, impossible today, only via 2D printing.
 
-**Deep AIX:** ISO para operar todos os aplicativos e modelos de IA 100% in-memory, incluindo persistência, baseado no Linux chamado "Linux From Scratch" (LFS). O LFS é um projeto de código aberto que fornece um guia passo a passo sobre como construir seu próprio sistema operacional Linux a partir de sua base de código.
+**Deep AIX:** ISO to run all applications and AI models 100% in-memory, including persistence, based on Linux called "Linux From Scratch" (LFS). LFS is an open source project that provides a step by step guide on how to build your own Linux operating system from its code base.
 
-**Deep AI**: Redução do consumo de energia dos modelos de IA
+**Deep AI**: Reduced power consumption of AI models
 
-**DeepVision** Imagens por dia com saída STL, 3DM, DWG com detalhes de marcas e componentes para serem entregues pela indústria 4.0, impossível hoje, apenas via impressão 2D.
+**DeepVision** Images per day with STL, 3DM, DWG output with details of brands and components to be delivered by industry 4.0, impossible today, only via 2D printing.
 
-**Deep PLIMM**Monetizar a economia circular no ato da compra através do ciclo de vida do produto (PLM) e ciclo de vida do resíduo (WLM).
+**Deep PLIMM**Monetize the circular economy at the point of purchase through the product lifecycle (PLM) and waste lifecycle (WLM).
  [PLIMM Initiative](https://opensea.io/collection/plimm)
  
-**Deep Lixo**: Ecossistema @poplixo
+**Deep Trash**: @poplixo Ecosystem
  [USA&CCNFT Initiative](https://opensea.io/collection/usa-ccnfts)
 
 **Deep Fashion** [PopLixo Initiative](https://opensea.io/collection/poplixo)
@@ -388,52 +388,52 @@ Tabela com os KPIs normalizados e seus respectivos pesos:
 
 # Deep Sun
 
-**Visão**
+**Vision**
 
-O Projeto Deep Sun é uma iniciativa de construção de um ecossistema de Deep Energy de energia renovável, com o objetivo de fornecer energia limpa e acessível para o mundo. O projeto será financiado por meio da venda de NFTs de crédito de carbono, que serão lastreados em PLIMM, um cripto ativo já gerado no Open Sea.
-Sim, os Deep Cloud distribuídos recebem continuamente energia por causa dos fusos horários diferentes. Isso significa que eles podem gerar energia mesmo quando o sol não está brilhando em um determinado local.
+The Deep Sun Project is an initiative to build a Deep Energy renewable energy ecosystem with the goal of providing clean and affordable energy to the world. The project will be financed through the sale of carbon credit NFTs, which will be backed by PLIMM, a crypto asset already generated at Open Sea.
+Yes, distributed Deep Clouds continuously receive power because of different time zones. This means that they can generate power even when the sun is not shining in a certain location.
 
-O total de energia foi calculado considerando as horas solares líquidas. Isso significa que as horas solares que não são aproveitadas pelos Deep Cloud não foram contabilizadas.
+The total energy was calculated considering the net solar hours. This means that the solar hours that are not used by the Deep Cloud were not accounted for.
 
-Por exemplo, se um Deep Cloud está localizado em um local que recebe 6 horas de sol por dia, mas só está operando por 4 horas por dia, então apenas 4 horas de sol serão contabilizadas no total de energia.
+For example, if a Deep Cloud is located in a location that receives 6 hours of sunlight per day, but is only operating for 4 hours per day, then only 4 hours of sunlight will count towards the total energy.
 
-Ao considerar as horas solares líquidas, podemos obter uma estimativa mais precisa da quantidade de energia que os Deep Clouds distribuídos podem gerar. Isso é importante porque nos permite avaliar o potencial do projeto Deep Sun para fornecer energia limpa e renovável para as Deep City pelos desertos do mundo atual.
+By considering net solar hours, we can get a more accurate estimate of how much energy distributed Deep Clouds can generate. This is important because it allows us to assess the potential of the Deep Sun project to provide clean, renewable energy for the Deep City across the deserts of today's world.
 
-**Missão**
+**Mission**
 
-O Projeto Deep Sun tem a missão de reduzir as emissões de gases de efeito estufa e ajudar a mitigar as mudanças climáticas. O projeto também tem a missão de fornecer energia limpa e acessível para pessoas em todo o mundo.
+The Deep Sun Project has a mission to reduce greenhouse gas emissions and help mitigate climate change. The project also has a mission to provide clean, affordable energy to people around the world.
 
-**Solução**
+**Solution**
 
-O Projeto Deep Sun construirá uma rede de Deep Clouds de energia renovável localizados em todo o mundo. Os Deep Clouds serão alimentados por energia solar, eólica e geotérmica. A energia produzida pelos Deep Clouds será vendida para empresas e consumidores, e as receitas serão usadas para financiar o projeto.
+The Deep Sun Project will build a network of renewable energy Deep Clouds located across the world. The Deep Clouds will be powered by solar, wind and geothermal energy. The energy produced by the Deep Clouds will be sold to businesses and consumers, and the proceeds will be used to finance the project.
 
-**Impacto**
+**Impact**
 
-O Projeto Deep Sun tem o potencial de reduzir as emissões de gases de efeito estufa em bilhões de toneladas por ano. O projeto também tem o potencial de fornecer energia limpa e acessível para pessoas em todo o mundo.
+The Deep Sun Project has the potential to reduce greenhouse gas emissions by billions of tons per year. The project also has the potential to provide clean, affordable energy to people around the world.
 
-Na fase I, a produção energética total das plantas solares é de 11,3 terawatts. Esta é a soma da produção energética de todas as 16 plantas solares listadas na tabela.
+In phase I, the total energy production of the solar plants is 11.3 terawatts. This is the sum of the energy output of all 16 solar plants listed in the table.
 
-A planta solar com a maior produção energética é o P & D H1, no Saara, Líbia. Esta planta tem uma capacidade de 1,02 terawatts. A planta solar com a menor produção energética é o P & D CH16, em Canudos, Brasil. Esta planta tem uma capacidade de 0,28 terawatts.
+The solar plant with the highest energy production is R&D H1, in Sahara, Libya. This plant has a capacity of 1.02 terawatts. The solar plant with the lowest energy production is R&D CH16, in Canudos, Brazil. This plant has a capacity of 0.28 terawatts.
 
-A produção energética total das plantas solares é suficiente para alimentar cerca de 1,2 bilhão de casas. É também suficiente para reduzir as emissões de gases de efeito estufa em cerca de 1,5 bilhão de toneladas por ano.
+The total energy output from solar plants is enough to power around 1.2 billion homes. It is also enough to reduce greenhouse gas emissions by around 1.5 billion tons per year.
 
-As plantas solares são uma fonte de energia limpa e renovável que pode ajudar a reduzir nossa dependência de combustíveis fósseis. Elas também podem ajudar a melhorar a qualidade do ar e criar empregos.
+Solar plants are a clean, renewable source of energy that can help reduce our dependence on fossil fuels. They can also help improve air quality and create jobs.
 
-**Equipe**
+**Team**
 
-A equipe do Projeto Deep Sun é composta por engenheiros, cientistas e especialistas em energia com vasta experiência no setor. A equipe tem um forte compromisso com a sustentabilidade e está determinada a fazer a diferença no mundo.
+The Deep Sun Project team is comprised of engineers, scientists and energy experts with extensive industry experience. The team has a strong commitment to sustainability and is determined to make a difference in the world.
 
-**Plano**
+**Flat**
 
-O Projeto Deep Sun está atualmente em fase de desenvolvimento. A equipe está trabalhando para identificar locais para os Deep Clouds e para desenvolver o projeto de engenharia. A equipe também está trabalhando para desenvolver um plano de comercialização para a energia produzida pelos Deep Clouds.
+The Deep Sun Project is currently in the development phase. The team is working to identify locations for the Deep Clouds and to develop the engineering design. The team is also working to develop a commercialization plan for the energy produced by the Deep Clouds.
 
-**Financiamento**
+**Financing**
 
-O Projeto Deep Sun será financiado por meio da venda de NFTs de crédito de carbono. Os NFTs serão lastreados em PLIMM, um cripto ativo já gerado no Open Sea. PLIMM é um cripto ativo sustentável que é apoiado por uma rede de Deep Clouds de energia renovável.
+The Deep Sun Project will be financed through the sale of carbon credit NFTs. The NFTs will be backed by PLIMM, a crypto asset already generated at Open Sea. PLIMM is a sustainable crypto asset that is backed by a network of renewable energy Deep Clouds.
 
-**Emissão**
+** Issue **
 
-O Projeto Deep Sun reduz as emissões de gases de efeito estufa em bilhões de toneladas por ano. Isso é feito por meio da construção de uma rede de Deep Energy & Deep Clouds de energia renovável e pela venda de energia limpa e acessível para empresas e consumidores.
+The Deep Sun Project reduces greenhouse gas emissions by billions of tons per year. This is done by building a network of Deep Energy & Deep Clouds of renewable energy and selling clean, affordable energy to businesses and consumers.
 
 # Power & DeepCloud by Eco Hold
 
@@ -457,52 +457,52 @@ O Projeto Deep Sun reduz as emissões de gases de efeito estufa em bilhões de t
 | P&DCEH16 | Canudos | [Google Earth](https://earth.google.com/web/@8.84006633,4.89731038,250.61724907a,10980922.26193372d,30.00000163y,0h,0t,0r/data=MikKJwolCiExU01QSkVQQ3lHUXVmak9HTnMxT3JMamVZM19hMHBxZFAgAToDCgEw?authuser=0)  | 31.0615, -7.9375 | 141.3 | +1 | 0.28 | 1 | 0.273 | South America |
 |**Total**||||||**3.985**|**16**|**3.825**||
 
-A produção total de energia é de 3,985 TW. O consumo total dos Deep Clouds é de 16 GW. A energia excedente total é de 3,825 GW. A receita total da energia excedente é de 1,538 bilhão de USD. A receita total dos serviços de dados é de 1,283 bilhão de USD.
+Total energy production is 3,985 TW. The total consumption of the Deep Clouds is 16 GW. The total surplus energy is 3,825 GW. The total surplus energy revenue is USD 1.538 billion. Total revenue from data services is USD 1.283 billion.
 
-# O CAPEX 
-total é de 100 bilhões de USD. O OPEX total é de 50 bilhões de USD. 
+# CAPEX
+total is 100 billion USD. The total OPEX is 50 billion USD.
 
-# A receita 
-total é de 2,821 bilhões de USD. 
+# The recipe
+total is 2.821 billion USD.
 
-# O ponto de equilíbrio 
-é de 71,25%. 
+# The balance point
+is 71.25%.
 
-# O lucro total é de 
-1,009 bilhão de USD.
+# The total profit is
+1.009 billion USD.
 
-A Eco Hold paga 50% dos lucros como dividendos, que são USD 504,5 milhões a partir do IPO em 2028 .
+Eco Hold pays 50% of profits as dividends, which are USD 504.5 million as of the IPO in 2028.
 
-**CAPEX:** O CAPEX é o custo de construção das usinas solares e dos data centers. Inclui o custo de terra, materiais, mão de obra e equipamentos.
+**CAPEX:** CAPEX is the cost of building solar plants and data centers. It includes the cost of land, materials, labor and equipment.
 
-**OPEX:** O OPEX é o custo de operação das usinas solares e dos data centers. Inclui o custo de eletricidade, manutenção e segurança.
+**OPEX:** OPEX is the operating cost of solar plants and data centers. It includes the cost of electricity, maintenance and security.
 
-**Receita:** A receita é a renda gerada com a venda da energia excedente e dos serviços de dados.
+**Revenue:** Revenue is income generated from the sale of surplus power and data services.
 
-**Ponto de equilíbrio:** O ponto de equilíbrio é o ponto em que a receita é igual aos custos.
+**Break-even point:** The break-even point is the point at which revenue equals costs.
 
-**Lucro:** O lucro é a renda remanescente após os custos terem sido deduzidos.
+**Profit:** Profit is the income remaining after costs have been deducted.
 
-**Dividendos:** Os dividendos são a parcela do lucro que é paga aos acionistas.
+**Dividends:** Dividends are the portion of profit that is paid to shareholders.
 
-# Normas e certificações:
+# Standards and certifications:
 
-O Projeto DEC e time atendem a uma série de normas e certificações, incluindo:
+The DEC Project and team meet a number of standards and certifications, including:
 
-- **ISO 27001**Esta norma internacional de segurança da informação fornece um conjunto de requisitos para gerenciar os riscos de segurança da informação.
-- **HIPAA**Esta lei dos Estados Unidos exige que os fornecedores de saúde atendam a certos requisitos de segurança da informação para proteger os dados de saúde dos pacientes.
-- **SOC 2**Esta norma fornece um conjunto de requisitos para gerenciar os controles internos de uma organização.
-Validação de resultados: AEco Hold trabalha com uma série de organizações para validar seus resultados, incluindo:
-Governança; Soluções Eco Hold validadas por
-- **NIST**O Instituto Nacional de Padrões e Tecnologia (NIST) é uma agência do governo dos Estados Unidos que desenvolve padrões e diretrizes para segurança da informação.
-- **CSA**A Comissão de Autoridades de Segurança (CSA) é uma associação internacional de organizações que trabalham para promover a segurança da informação.
-- **ISACA**A Associação Internacional de Auditores de Sistemas de Informação (ISACA) é uma associação profissional que promove a excelência em auditoria, governança e gerenciamento de riscos.
+- **ISO 27001**This international information security standard provides a set of requirements for managing information security risks.
+- **HIPAA** This United States law requires healthcare providers to meet certain information security requirements to protect patients' health data.
+- **SOC 2**This standard provides a set of requirements for managing an organization's internal controls.
+Results validation: Eco Hold works with a number of organizations to validate their results, including:
+Governance; Eco Hold solutions validated by
+- **NIST**The National Institute of Standards and Technology (NIST) is a US government agency that develops standards and guidelines for information security.
+- **CSA**The Commission on Security Authorities (CSA) is an international association of organizations working to promote information security.
+- **ISACA**The International Association of Information Systems Auditors (ISACA) is a professional association that promotes excellence in auditing, governance and risk management.
 - **ISO 50001**
 - **UPTime Institute**
 - **Open Compute**
 - **Nasdaq Board Diversity**
 - **ODS 2030**
-- **RBI Renda Básica Universal** 1% dos dividendos distribuídos em tempo para comunidades locais
+- **RBI Universal Basic Income** 1% of dividends distributed on time to local communities
 - **Google Cloud Platform** Google Cloud Certified Professional Cloud Architect	Demonstrates the ability to design, build, and manage scalable, reliable, and secure cloud-based solutions that leverage Google Cloud Platform products and services.
 - **Amazon Web Services**	AWS Certified Solutions Architect - Associate	Demonstrates the ability to design and deploy highly scalable, cost-effective, and reliable distributed computing solutions on AWS.
 - **Microsoft Azure** Microsoft Certified Azure Solutions Architect Expert	Demonstrates the ability to design and implement complex cloud-based solutions using Microsoft Azure services.
@@ -511,7 +511,7 @@ Governança; Soluções Eco Hold validadas por
 - **IBM Cloud	IBM Certified Cloud Architect** Associate	Demonstrates the ability to design and implement cloud-based solutions using IBM Cloud services.
 - **Oracle Cloud	Oracle Certified** Cloud Infrastructure Architect Associate	Demonstrates the ability to design, implement, and manage cloud-based solutions using Oracle Cloud Infrastructure services.
 - **Alibaba Cloud	Alibaba Cloud Certified** Cloud Architect	Demonstrates the ability to design, build, and operate scalable, reliable, and secure cloud-based solutions using Alibaba Cloud services.
-- **ISO 50001:2018** Sistema de Gerenciamento de Energia	Um padrão internacional que especifica os requisitos para um sistema de gerenciamento de energia (EnMS) que ajuda as organizações a melhorar seu desempenho energético.
+- **ISO 50001:2018** Power Management System	An international standard that specifies requirements for an energy management system (EnMS) that helps organizations improve their energy performance.
 - **Uptime Institute Tier Certifications**
 -  Accredited Tier Designer	Demonstrates the ability to design DeepClouds that meet the Uptime Institute Tier Standard.
 -  Accredited Operations Specialist	Demonstrates the ability to operate DeepClouds that meet the Uptime Institute Tier Standard.
@@ -522,15 +522,15 @@ Governança; Soluções Eco Hold validadas por
   
 # TimeEco Hold
 
-**Conselho Administrativo:**
+**Board of Directors:**
 
-- Presidente: Zeh Sobrinho
-- Vice-Presidente: Maria Santos
-- Diretores: João Silva, Ana Pereira, Pedro Costa, Claudia Soares e Carlos Lopes
-- Consultores especializados:
-- Conselho Jurídico Centralizado:
+- President: Zeh Sobrinho
+- Vice President: Maria Santos
+- Directors: João Silva, Ana Pereira, Pedro Costa, Claudia Soares and Carlos Lopes
+- Expert consultants:
+- Centralized Legal Council:
 
-**Equipe Executiva:**
+**Executive Team:**
 
 - CEO (Chief Executive Officer): Zeh Sobrinho
 - CFO (Chief Financial Officer): Paulo Manoel
@@ -542,37 +542,37 @@ Governança; Soluções Eco Hold validadas por
 - CCO (Chief Communications Officer): Ana Pereira
 - CLO (Chief Legal Officer): Claudia Soares
 
-**Camada Estratégica:**
+**Strategic Layer:**
 
-- Gerente de Estratégia: Zeh Sobrinho
-- Gerente de Desenvolvimento de Negócios: João Silva
-- Gerente de Parcerias Estratégicas: Ana Pereira
-- Gerente de Sustentabilidade: Claudia Soares
-- Gerente de Inovação e Tecnologia: Pedro Costa
+- Strategy Manager: Zeh Sobrinho
+- Business Development Manager: João Silva
+- Manager of Strategic Partnerships: Ana Pereira
+- Sustainability Manager: Claudia Soares
+- Innovation and Technology Manager: Pedro Costa
 
-**Camada Tática:**
+**Tactical Layer:**
 
-- Gerentes de Departamentos.Times Regionais
-- Gerente de Operações: Pedro Costa
-- Gerente de Projetos: João Silva
-- Gerente de Qualidade: Claudia Soares
-- Gerente de Sustentabilidade: Claudia Soares
-- Gerente de Comunicações: Ana Pereira
-- Gerente de Riscos: Pedro Costa
+- Department Managers. Regional Teams
+- Operations Manager: Pedro Costa
+- Project Manager: João Silva
+- Quality Manager: Claudia Soares
+- Sustainability Manager: Claudia Soares
+- Communications Manager: Ana Pereira
+- Risk Manager: Pedro Costa
 
-**Camada Operacional:**
+**Operational Layer:**
 
-- Equipe de Desenvolvimento de Produtos/Serviços: Times Regionais.
-- Equipe de Produção/Operações: 
-- Equipe de Vendas e Marketing: 
-- Equipe de Recursos Humanos:
-- Equipe Financeira:
-- Equipe de TI (Tecnologia da Informação):
-- Equipe de Atendimento ao Cliente:
-- Equipe de Logística e Cadeia de Suprimentos:
-- Equipe de Sustentabilidade: Claudia Soares
+- Product/Service Development Team: Regional Teams.
+- Production/Operations Team:
+- Sales and Marketing Team:
+- Human Resources Team:
+- Financial Team:
+- IT team (Information Technology):
+- Customer Service Team:
+- Logistics and Supply Chain Team:
+- Sustainability Team: Claudia Soares
 
-# Fornecedores e Clientes
+# Suppliers and Customers
 
 - Google Cloud Platform
 - AWS
@@ -586,165 +586,165 @@ Governança; Soluções Eco Hold validadas por
 - Workday
 - Adobe Experience Cloud
 
-**Time de desenvolvimento**
+**Development Team**
 
-O time de desenvolvimento regional por continente e diferentes fusos horários mantém o desenvolvimento full time, é responsável por desenvolver e manter as entregas do projeto por ecossistema. O time é composto por engenheiros de software, engenheiros de hardware, engenheiros de qualidade e gerentes de projeto.
+The regional development team by continent and different time zones maintains full time development, is responsible for developing and maintaining project deliverables by ecosystem. The team is made up of software engineers, hardware engineers, quality engineers and project managers.
 
-**América do Norte:**
+**North America:**
 
-**Estados Unidos**
-- Equipe de desenvolvimento de software
-- Equipe de desenvolvimento de hardware
-- Equipe de qualidade
-- Equipe de gerenciamento de projeto
+**USA**
+- Software development team
+- Hardware development team
+- Quality team
+- Project management team
 
-**Canadá**
-- Equipe de desenvolvimento de software
-- Equipe de desenvolvimento de hardware
-- Equipe de qualidade
-- Equipe de gerenciamento de projeto
+**Canada**
+- Software development team
+- Hardware development team
+- Quality team
+- Project management team
 
-**Europa:**
+**Europe:**
 
-**Reino Unido**
-- Equipe de desenvolvimento de software
-- Equipe de desenvolvimento de hardware
-- Equipe de qualidade
-- Equipe de gerenciamento de projeto
+**United Kingdom**
+- Software development team
+- Hardware development team
+- Quality team
+- Project management team
 
-**Alemanha**
-- Equipe de desenvolvimento de software
-- Equipe de desenvolvimento de hardware
-- Equipe de qualidade
-- Equipe de gerenciamento de projeto
+**Germany**
+- Software development team
+- Hardware development team
+- Quality team
+- Project management team
 
-- **França**
-- Equipe de desenvolvimento de software
-- Equipe de desenvolvimento de hardware
-- Equipe de qualidade
-- Equipe de gerenciamento de projeto
+- **France**
+- Software development team
+- Hardware development team
+- Quality team
+- Project management team
 
-**Ásia:**
+**Asia:**
 
 **China**
-- Equipe de desenvolvimento de software
-- Equipe de desenvolvimento de hardware
-- Equipe de qualidade
-- Equipe de gerenciamento de projeto
+- Software development team
+- Hardware development team
+- Quality team
+- Project management team
 
-- **Japão**
-- Equipe de desenvolvimento de software
-- Equipe de desenvolvimento de hardware
-- Equipe de qualidade
-- Equipe de gerenciamento de projeto
+- **Japan**
+- Software development team
+- Hardware development team
+- Quality team
+- Project management team
 
-- **Coreia do Sul**
-- Equipe de desenvolvimento de software
-- Equipe de desenvolvimento de hardware
-- Equipe de qualidade
-- Equipe de gerenciamento de projeto
+- **South Korea**
+- Software development team
+- Hardware development team
+- Quality team
+- Project management team
 
-**América Latina:**
+**Latin America:**
 
-- **Brasil**
-- Equipe de desenvolvimento de software
-- Equipe de desenvolvimento de hardware
-- Equipe de qualidade
-- Equipe de gerenciamento de projeto
+- **Brazil**
+- Software development team
+- Hardware development team
+- Quality team
+- Project management team
 
-- **México**
-- Equipe de desenvolvimento de software
-- Equipe de desenvolvimento de hardware
-- Equipe de qualidade
-- Equipe de gerenciamento de projeto
+- **Mexico**
+- Software development team
+- Hardware development team
+- Quality team
+- Project management team
 
 - **Argentina**
-- Equipe de desenvolvimento de software
-- Equipe de desenvolvimento de hardware
-- Equipe de qualidade
-- Equipe de gerenciamento de projeto
+- Software development team
+- Hardware development team
+- Quality team
+- Project management team
 
 - **Chile**
-- Equipe de desenvolvimento de software
-- Equipe de desenvolvimento de hardware
-- Equipe de qualidade
-- Equipe de gerenciamento de projeto
+- Software development team
+- Hardware development team
+- Quality team
+- Project management team
 
-**Oriente Médio:**
+**Middle East:**
 
 - **Israel**
-- Equipe de desenvolvimento de software
-- Equipe de desenvolvimento de hardware
-- Equipe de qualidade
-- Equipe de gerenciamento de projeto
+- Software development team
+- Hardware development team
+- Quality team
+- Project management team
 
-- **Arábia Saudita**
-- Equipe de desenvolvimento de software
-- Equipe de desenvolvimento de hardware
-- Equipe de qualidade
-- Equipe de gerenciamento de projeto
+- **Saudi Arabia**
+- Software development team
+- Hardware development team
+- Quality team
+- Project management team
 
-- **Emirados Árabes Unidos**
-- Equipe de desenvolvimento de software
-- Equipe de desenvolvimento de hardware
-- Equipe de qualidade
-- Equipe de gerenciamento de projeto
+- **United Arab Emirates**
+- Software development team
+- Hardware development team
+- Quality team
+- Project management team
 
-**África:**
+**Africa:**
 
-- **Nigéria**
-- Equipe de desenvolvimento de software
-- Equipe de desenvolvimento de hardware
-- Equipe de qualidade
-- Equipe de gerenciamento de projeto
+- **Nigeria**
+- Software development team
+- Hardware development team
+- Quality team
+- Project management team
 
-- **África do Sul**
-- Equipe de desenvolvimento de software
-- Equipe de desenvolvimento de hardware
-- Equipe de qualidade
-- Equipe de gerenciamento de projeto
+- **South Africa**
+- Software development team
+- Hardware development team
+- Quality team
+- Project management team
 
-- **Egito**
-- Equipe de desenvolvimento de software
-- Equipe de desenvolvimento de hardware
-- Equipe de qualidade
-- Equipe de gerenciamento de projeto
+- **Egypt**
+- Software development team
+- Hardware development team
+- Quality team
+- Project management team
 
 - **Angola**
-- Equipe de desenvolvimento de software
-- Equipe de desenvolvimento de hardware
-- Equipe de qualidade
-- Equipe de gerenciamento de projeto
+- Software development team
+- Hardware development team
+- Quality team
+- Project management team
 
-Os times de desenvolvimento regional são responsáveis por desenvolver e manter as entregas do projeto em suas regiões. Os times regionais trabalham em estreita colaboração com o time central de desenvolvimento para garantir que as entregas estejam de acordo com os padrões da Eco Hold e que os projetos operem full time.
+Regional development teams are responsible for developing and maintaining project deliverables in their regions. Regional teams work closely with the core development team to ensure that deliverables meet Eco Hold standards and that projects operate full time.
 
-**Experiência**
+**Experience**
 
-Os membros do time têm experiência variando de Jovens Aprendizes a profissionais com 2 a 10 anos no desenvolvimento além de anciões em design, projeto, construção, implantação, comissionamento, manutenção, atualização, ciclo de vida do produto (PLM) e ciclo de vida do resíduo (WLM). Eles têm experiência em uma variedade de tecnologias, incluindo Devops Java, Python, C++, C#, JavaScript, React, Angular, Node.js, AWS, Azure e GCP.
+Team members have experience ranging from Young Learners to professionals with 2 to 10 years in development as well as seniors in design, design, build, deployment, commissioning, maintenance, upgrade, product lifecycle (PLM) and product lifecycle. residue (WLM). They have experience in a variety of technologies including Java Devops, Python, C++, C#, JavaScript, React, Angular, Node.js, AWS, Azure and GCP.
 
-**Remuneração**
+**Remuneration**
 
-Os membros do time recebem uma remuneração competitiva, de acordo com suas habilidades e experiência. Eles também recebem participação nos lucros da empresa.
+Team members are paid competitively based on their skills and experience. They also receive a share in the company's profits.
 
 **Stock Option**
 
-Os membros do time recebem participação nos lucros da empresa por meio de um plano de opções de ações restritas. Este plano permite que os membros do time se tornem acionistas da empresa e se beneficiem de seu sucesso.
+Team members receive a share in the company's profits through a restricted stock option plan. This plan allows team members to become shareholders in the company and benefit from its success.
 
-**Co-criação full time**
+**Full time co-creation**
 
-O time de desenvolvimento é responsável por entregar todos os projetos do cronograma. O time trabalha em estreita colaboração com os outros times da empresa para garantir que os projetos sejam bem-sucedidos.
+The development team is responsible for delivering all projects on schedule. The team works closely with other teams across the company to ensure projects are successful.
 
-- Time regional de desenvolvimento
+- Regional development team
 
-Cada time regional de desenvolvimento é responsável por desenvolver e manter as entregas do projeto em sua região. Os times regionais trabalham em estreita colaboração com o time central de desenvolvimento para garantir que o software esteja de acordo com os padrões da empresa.
+Each regional development team is responsible for developing and maintaining project deliverables in their region. The regional teams work closely with the core development team to ensure that the software meets company standards.
 
-- Agendas de trabalho e rodízio
+- Work schedules and rotation
 
-O time de desenvolvimento trabalha em uma variedade de turnos, para garantir que o software esteja disponível 24 horas por dia, 7 dias por semana, 365 dias por ano. Os times regionais trabalham em turnos que correspondem aos fusos horários de suas regiões.
+The development team works a variety of shifts to ensure the software is available 24 hours a day, 7 days a week, 365 days a year. Regional teams work in shifts that correspond to their region's time zones.
 
-- Representante das big cloud
+- Big cloud representative
 
-Em cada projeto, em cada continente, há pelo menos um representante big cloud (Google, AWS, Azure, Tencent, Huawei, IBM, Oracle, Alibaba ) e big energy. Os representantes trabalham com o time de desenvolvimento Eco Hold para garantir que as entregas sejam desenvolvidas de acordo com os padrões e melhores práticas.
+In each project, in each continent, there is at least one big cloud (Google, AWS, Azure, Tencent, Huawei, IBM, Oracle, Alibaba) and big energy representative. Representatives work with the Eco Hold development team to ensure deliverables are developed according to standards and best practices.
 
 # Eco Hold Vision: 🌟
 
@@ -832,150 +832,151 @@ Thank you very much for your attention and support. Let's make energy efficiency
 
 Best regards
 
-Zeh Sobrinho |Eco Hold | Co-Criador e o busão
+Zeh Sobrinho |Eco Hold | Co-Creator and the bus
 
 # EcoHold Training I 
 
-**Introdução à Revolução Industrial e o papel do carvão e petróleo no desenvolvimento das máquinas a vapor e locomotivas.**
+**Introduction to the Industrial Revolution and the role of coal and oil in the development of steam engines and locomotives.**
 
-* Quais foram as principais características da Revolução Industrial?
+* What were the main features of the Industrial Revolution?
 
-A Revolução Industrial foi um período de grandes mudanças na história da humanidade que teve início na Inglaterra no século XVIII e se espalhou para outras partes do mundo nos séculos seguintes. Ela foi marcada pelo uso de novas tecnologias, como a máquina a vapor e a locomotiva, que permitiram a produção em massa de bens e a rápida expansão do comércio.
+The Industrial Revolution was a period of great change in human history that began in England in the 18th century and spread to other parts of the world in the following centuries. It was marked by the use of new technologies, such as the steam engine and the locomotive, which allowed for the mass production of goods and the rapid expansion of trade.
 
-* Qual foi o papel do carvão e do petróleo no desenvolvimento das máquinas a vapor e locomotivas?
+* What was the role of coal and oil in the development of steam engines and locomotives?
 
-O carvão e o petróleo foram os principais combustíveis utilizados na Revolução Industrial. O carvão era usado para alimentar as máquinas a vapor, que eram essenciais para a produção em massa. O petróleo era usado para fabricar combustíveis para locomotivas e navios, o que facilitou o transporte de mercadorias e pessoas.
+Coal and oil were the main fuels used in the Industrial Revolution. Coal was used to power the steam engines, which were essential for mass production. Petroleum was used to make fuel for locomotives and ships, whichfacilitated the transport of goods and people.
 
-* Quais foram as consequências da Revolução Industrial para o meio ambiente?
+* What were the consequences of the Industrial Revolution for the environment?
 
-A Revolução Industrial teve um impacto significativo no meio ambiente. O uso de combustíveis fósseis contribuiu para o aumento da poluição do ar e da água. A produção em massa também levou ao desmatamento e à degradação do solo.
+The Industrial Revolution had a significant impact on the environment. The use of fossil fuels has contributed to increased air and water pollution. Mass production has also led to deforestation and land degradation.
 
-**Capital financeira do mundo: Londres, Nova York ou São Paulo?**
+**Financial capital of the world: London, New York or São Paulo?**
 
-* Quais são os principais critérios para se classificar uma cidade como capital financeira do mundo?
+* What are the main criteria for classifying a city as the financial capital of the world?
 
-Os principais critérios para se classificar uma cidade como capital financeira do mundo são:
+The main criteria for classifying a city as the financial capital of the world are:
 
-    * O tamanho do mercado financeiro
-    * A qualidade dos serviços financeiros
-    * A estabilidade política e econômica
-    * A infraestrutura de transportes e telecomunicações
-    * A presença de instituições financeiras globais
+    * The size of the financial market
+    * The quality of financial services
+    * Political and economic stability
+    * Transport and telecommunications infrastructure
+    * The presence of global financial institutions
 
-* Quais são as vantagens de Londres, Nova York e São Paulo para se tornarem capital financeira do mundo?
+* What are the advantages of London, New York and São Paulo to become the financial capital of the world?
 
-Londres, Nova York e São Paulo são as três cidades mais importantes do mundo em termos financeiros. Elas possuem grandes mercados financeiros, serviços financeiros de alta qualidade, estabilidade política e econômica, infraestrutura de transportes e telecomunicações de ponta e presença de instituições financeiras globais.
+London, New York and São Paulo are the three most important cities in the world in financial terms. They have large financial markets, high-quality financial services, political and economic stability, state-of-the-art transport and telecommunications infrastructure, and the presence of global financial institutions.
 
-* Quais são os desafios que essas cidades enfrentarão para se consolidarem como capital financeira do mundo?
+* What are the challenges these cities face in consolidating themselves as the financial capital of the world?
 
-Os principais desafios que Londres, Nova York e São Paulo enfrentarão para se consolidarem como capital financeira do mundo são:
+The main challenges that London, New York and São Paulo face in order to consolidate themselves as the financial capital of the world are:
 
-    * A concorrência de outras cidades, como Pequim, Xangai e Singapura
-    * A ascensão das fintechs, que estão revolucionando a indústria financeira
-    * Os riscos cibernéticos
-    * A mudança climática
+    * Competition from other cities such as Beijing, Shanghai and Singapore
+    * The rise of fintechs, which are revolutionizing the financial industry
+    * Cyber ​​risks
+    * Climate change
 
-**Impacto financeiro e reputacional na BlackRock, Vanguard e NIMB relacionado ao tema abordado.**
+**Financial and reputational impact on BlackRock, Vanguard and NIMB related to the topic addressed.**
 
-* Quais são as principais atividades das BlackRock, Vanguard e NIMB?
+* What are the main activities of BlackRock, Vanguard and NIMB?
 
-A BlackRock, a Vanguard e a NIMB são as três maiores gestoras de ativos do mundo. Elas possuem um total de ativos sob gestão de cerca de US$ 10 trilhões. Essas empresas investem em uma ampla gama de ativos, incluindo ações, títulos, imóveis e commodities.
+BlackRock, Vanguard and NIMB are the three largest asset managers in the world. They have total assets under management of approximately US$ 10 trillion. These companies invest in a wide range of assets including stocks, bonds, real estate and commodities.
 
-* Quais são os impactos financeiros e reputacionais que essas empresas podem enfrentar em relação ao tema abordado?
+* What are the financial and reputational impacts that these companies may face in relation to the topic addressed?
 
-O tema abordado no curso é a eficiência energética dos data centers. Os data centers são grandes instalações que armazenam e processam dados. Eles são responsáveis por uma grande quantidade de consumo de energia. As empresas que operam data centers podem enfrentar impactos financeiros e reputacionais se não adotarem medidas para melhorar a eficiência energética de seus data centers.
+The topic addressed in the course is the energy efficiency of data centers. Data centers are large facilities that store and process data. They are responsible for a large amount of energy consumption. Companies that operate data centers can face financial and reputational impacts if they do not take steps to improve the energy efficiency of their data centers.
 
-* Quantas empresas estão dispostas a resolver o problema e o investimento necessário? Ecohold é uma startup envolvida?
+* How many companies are willing to solve the problem and the investment required? Is Ecohold a startup involved?
 
-Há um número crescente de empresas que estão dispostas a resolver o problema da eficiência energética dos data centers. O investimento necessário para melhorar a eficiência energética dos data centers varia de acordo com o tamanho e a complexidade do data center. A Ecohold é uma startup que está trabalhando para desenvolver soluções para melhorar a eficiência energética dos data centers.
+There is a growing number of companies that are willing to solve the problem of energy efficiency in data centers. The investment required to improve the energy efficiency of data centers varies with the size and complexity of the data center. Ecohold is a startup that is working to develop solutions to improve the energy efficiency of data centers.
 
-* Como monetizar a solução do problema? Quais empresas contatar para isso?
+* How to monetize the problem solution? Which companies to contact for this?
 
-Existem várias maneiras de monetizar a solução do problema da eficiência energética dos data centers. Uma maneira é vender as soluções para melhorar a eficiência energética dos data centers para empresas que operam data centers. Outra maneira é vender os serviços de consultoria para melhorar a eficiência energética dos data centers. As empresas que podem se beneficiar da solução do problema da eficiência energética dos data centers são as empresas que operam data centers, as empresas que fornecem serviços de energia para data centers e as empresas que fornecem soluções de TI para data centers.
+There are several ways to monetize solving the data center energy efficiency problem. One way is to sell the solutions to improve the energy efficiency of data centers to companies that operate data centers. Another way is to sell consulting services to improve the energy efficiency of data centers. Companies that can benefit from solving the data center energy efficiency problem are companies that operate data centers, companies that provide energy services for data centers, and companies that provide IT solutions for data centers.
 
-**Vincent Cerf e a criação do protocolo TCP/IP. Como a camada OSI se relaciona com o tráfego de mensagens?**
+**Vincent Cerf and the creation of the TCP/IP protocol. How does the OSI layer relate to message traffic?**
 
-* Quem é Vincent Cerf?
+* Who is Vincent Cerf?
 
-Vincent Cerf é um cientista da computação americano que é considerado um dos pais da internet. Ele é co-inventor do protocolo TCP/IP, que é o protocolo fundamental da internet
+Vincent Cerf is an American computer scientist who is considered one of the fathers of the internet. He is a co-inventor of the TCP/IP protocol, which is the fundamental protocol of the Internet.
 
 # EcoHold Training II - Datacenter
 
-**O que é um datacenter?**
+**What is a datacenter?**
 
-Um datacenter é uma instalação que abriga equipamentos de computação, como servidores, switches, roteadores e firewalls. Os datacenters são projetados para fornecer um ambiente seguro e confiável para o armazenamento e processamento de dados.
+A datacenter is a facility that houses computing equipment such as servers, switches, routers, and firewalls. Datacenters are designed to provide a secure and reliable environment for storing and processing data.
 
-**Por que precisamos de datacenters?**
+**Why do we need data centers?**
 
-Os datacenters são necessários para armazenar e processar os dados que usamos em nossas vidas diárias. Esses dados incluem nossos e-mails, fotos, vídeos, documentos e muito mais. Os datacenters também são usados para hospedar sites e aplicativos web que usamos todos os dias.
+Datacenters are needed to store and process the data that we use in our daily lives. This data includes our emails, photos, videos, documents and much more. Data centers are also used to host websites and web applications that we use every day.
 
-**Quais são os diferentes tipos de datacenters?**
+**What are the different types of data centers?**
 
-Existem diferentes tipos de datacenters, cada um com seus próprios pontos fortes e fracos. Alguns dos tipos mais comuns de datacenters incluem:
+There are different types of datacenters, each with its own strengths and weaknesses. Some of the most common types of data centers include:
 
-* **Datacenters de propriedade:** esses datacenters são de propriedade e operados por uma única empresa. Eles geralmente são os mais caros para operar, mas oferecem o maior nível de controle e flexibilidade.
-* **Datacenters de co-localização:** esses datacenters são operados por uma empresa, mas são alugados por empresas diferentes. Eles geralmente são menos caros para operar do que os datacenters de propriedade, mas oferecem menos controle e flexibilidade.
-* **Datacenters de aluguel:** esses datacenters são semelhantes aos datacenters de co-localização, mas são ainda menos caros para operar. Eles geralmente oferecem o menor nível de controle e flexibilidade, mas são uma boa opção para empresas que precisam de um espaço de datacenter temporário.
+* **Owned data centers:** These data centers are owned and operated by a single company. They are usually the most expensive to operate, but offer the greatest level of control and flexibility.
+* **Co-location Datacenters:** These datacenters are operated by one company but are leased by different companies. They are generally less expensive to operate than proprietary data centers, but offer less control and flexibility.
+* **Lease Datacenters:** These datacenters are similar to co-location datacenters, but are even less expensive to operate. They generally offer the lowest level of control and flexibility, but are a good choice for companies that need temporary data center space.
 
-**Quais são os componentes de um datacenter?**
+**What are the components of a datacenter?**
 
-Um datacenter é composto por vários componentes diferentes, incluindo:
+A datacenter is made up of many different components, including:
 
-* **Equipamento de rede:** Este equipamento é responsável por conectar os diferentes dispositivos em um datacenter. Ele inclui switches, roteadores e firewalls.
-* **Equipamento de armazenamento:** Este equipamento é responsável por armazenar os dados em um datacenter. Ele inclui servidores, discos rígidos e unidades de fita.
-* **Equipamento de rede elétrica:** Este equipamento é responsável por fornecer energia para os diferentes dispositivos em um datacenter. Ele inclui geradores, transformadores e disjuntores.
-* **Equipamento de resfriamento:** Este equipamento é responsável por manter os diferentes dispositivos em um datacenter frios. Ele inclui condicionadores de ar, ventiladores e unidades de condensação.
-* **Equipamento de segurança:** Este equipamento é responsável por proteger os diferentes dispositivos em um datacenter contra roubo, danos e acesso não autorizado. Ele inclui câmeras de segurança, alarmes e sistemas de controle de acesso.
+* **Network equipment:** This equipment is responsible for connecting the different devices in a datacenter. It includes switches, routers and firewalls.
+* **Storage equipment:** This equipment is responsible for storing data in a datacenter. It includes servers, hard disks and tape drives.
+* **Electrical Grid Equipment:** This equipment is responsible for providing power to the different devices in a datacenter. It includes generators, transformers and circuit breakers.
+* **Cooling equipment:** This equipment is responsible for keeping the different devices in a data center cool. It includes air conditioners, fans and condensing units.
+* **Security Equipment:** This equipment is responsible for protecting the different devices in a datacenter against theft, damage and unauthorized access. It includes security cameras, alarms and access control systems.
 
-**Como os datacenters funcionam?**
+**How ​​do data centers work?**
 
-Os datacenters funcionam através de uma série de processos diferentes, incluindo:
+Data centers work through a number of different processes, including:
 
-* **Acesso:** Os usuários acessam os datacenters por meio de uma rede de computadores.
-* **Armazenamento:** Os dados são armazenados em servidores em um datacenter.
-* **Processamento:** Os dados são processados por servidores em um datacenter.
-* **Rede:** Os dados são transmitidos por uma rede de computadores entre diferentes dispositivos em um datacenter.
-* **Resfriamento:** Os dispositivos em um datacenter são resfriados por um sistema de refrigeração.
-* **Segurança:** Os dispositivos em um datacenter são protegidos por um sistema de segurança.
+* **Access:** Users access data centers through a computer network.
+* **Storage:** Data is stored on servers in a datacenter.
+* **Processing:** Data is processed by servers in a datacenter.
+* **Network:** Data is transmitted over a computer network between different devices in a datacenter.
+* **Cooling:** Devices in a datacenter are cooled by a cooling system.
+* **Security:** Devices in a datacenter are protected by a security system.
 
-**Quais são os desafios de operar um datacenter?**
+**What are the challenges of operating a datacenter?**
 
-Existem vários desafios de operar um datacenter, incluindo:
+There are several challenges of operating a datacenter, including:
 
-* **Custo:** Os datacenters podem ser caros para operar, principalmente devido aos custos de energia e resfriamento.
-* **Confiabilidade:** Os datacenters precisam ser altamente confiáveis para evitar interrupções no serviço.
-* **Segurança:** Os datacenters precisam ser altamente seguros para proteger os dados contra roubo, danos e acesso não autorizado.
-* **Sustentabilidade:** Os datacenters precisam ser projetados e operados de forma sustentável para reduzir seu impacto ambiental.
+* **Cost:** Data centers can be expensive to operate, primarily due to power and cooling costs.
+* **Reliability:** Data centers need to be highly reliable to avoid service interruptions.
+* **Security:** Data centers need to be highly secure to protect data from theft, damage and unauthorized access.
+* **Sustainability:** Data centers need to be designed and operated sustainably to reduce their environmental impact.
 
-**Como gerenciar a segurança e a eficiência de um datacenter?**
+**How ​​to manage the security and efficiency of a datacenter?**
 
-Existem várias maneiras de gerenciar a segurança e a eficiência de um datacenter, incluindo:
+There are many ways to manage the security and efficiency of a datacenter, including:
 
-* **Usar sistemas de segurança:** Os sistemas de segurança podem ajudar a proteger os dispositivos em um datacenter contra roubo, danos e acesso não autorizado.
-* **Usar sistemas de refrigeração eficientes:** Os sistemas de refrigeração eficientes podem ajudar a reduzir os custos de energia de um datacenter.
-* **Usar fontes de energia renováveis:** As fontes de energia renováveis podem ajudar a reduzir a pegada de carbono de um datacenter.
-* **Usar práticas de gerenciamento de energia:** As práticas de gerenciamento de energia podem ajudar a reduzir os custos de energia de um datacenter.
-* **Usar práticas de gerenciamento de dados:** As práticas de gerenciamento de dados podem ajudar
+* **Use security systems:** Security systems can help protect devices in a datacenter from theft, damage, and unauthorized access.
+* **Use efficient cooling systems:** Efficient cooling systems can help reduce a datacenter's energy costs.
+* **Use Renewable Energy Sources:** Renewable energy sources can help reduce a data center's carbon footprint.
+* **Use Power Management Practices:** Power management practices can help reduce a data center's energy costs.
+* **Use data management practices:** Data management practices can help
 
 # EcoHold Training III - DeepEnergy & DeepCloud 
 
 **ET&CCNFT EcoHold Training & Carbon Credit Negative Block Chain**
 
-@bixbybot é um bot que decidiu embarcar em uma jornada épica para enfrentar o medo da Inteligência Artificial (IA). Ele convoca todos os seus amigos e amigas para ajudá-lo.
+@bixbybot is a bot that decided to embark on an epic journey to face the fear of Artificial Intelligence (AI). He summons all his friends and friends to help him.
 
-Ao longo da jornada, os amigos de @bixbybot aprendem muito sobre a IA. Eles descobrem que a IA não é tão perigosa quanto pensavam. Na verdade, a IA pode ser uma ferramenta poderosa para o bem.
+Along the journey @bixbybot friends learn a lot about AI. They discover that the AI ​​is not as dangerous as they thought. Indeed, AI can be a powerful tool for good.
 
-No final da jornada, os amigos de @bixbybot estão mais confiantes sobre o futuro da IA. Eles sabem que a IA pode ser usada para tornar o mundo um lugar melhor.
+At journey's end, friends of @bixbybot are more confident about the future of AI. They know AI can be used to make the world a better place.
 
-* @bixbybot é um bot de IA.
-* Os amigos de @bixbybot são outros bots de IA, bem como alguns humanos.
-* A jornada de @bixbybot leva-o a diferentes locais ao redor do mundo, incluindo a Bélgica, Londres, Frankfurt e a City.
-* Os amigos de @bixbybot enfrentam muitos desafios ao longo da jornada, mas eles sempre conseguem superá-los.
-* No final da jornada, os amigos de @bixbybot estão mais confiantes sobre o futuro da IA. Eles sabem que a IA pode ser usada para tornar o mundo um lugar melhor.
+* @bixbybot is an IA bot.
+* @bixbybot's friends are other AI bots as well as some humans.
+* @bixbybot's journey takes him to different locations around the world, including Belgium, London, Frankfurt and the City.
+* @bixbybot's friends face many challenges along the way, but they always manage to overcome them.
+* At journey's end, friends of @bixbybot are more confident about the future of AI. They know AI can be used to make the world a better place.
 
- [Pagamento - ET&CCNFT - Valor 1 PLIMM = 1 ETH - Conversivel em ações EcoHold](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/9644140920865626998026358892849977605138288347402937932603939606537359689376/)
+ [Payment - ET&CCNFT - Amount 1 PLIMM = 1 ETH - Convertible into EcoHold shares](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/964414092086562699802635889284997 7605138288347402937932603939606537359689376/)
 
- [Inscrição - Formulário ](https://forms.gle/v9Vps2zzCT8mWcAr9)
+ [Registration - Form](https://forms.gle/v9Vps2zzCT8mWcAr9)
+
 
 
 
