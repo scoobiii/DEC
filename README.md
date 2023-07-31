@@ -1020,7 +1020,7 @@ Sincerely,
 Pichai
 
 
- [Payment - ET&CCNFT - Amount 1 PLIMM = 1 ETH - Convertible into EcoHold shares](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/964414092086562699802635889284997 7605138288347402937932603939606537359689376/)
+ [Payment - ET&CCNFT EcoHold Training & Carbon Credit Negative Block Chain - Amount 1 PLIMM = 1 ETH - Convertible into EcoHold shares](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/9644140920865626998026358892849977605138288347402937932603939606537359689376)
 
  [Registration - Form](https://forms.gle/v9Vps2zzCT8mWcAr9)
 
