@@ -92,3 +92,188 @@ O 11º DeepServerRed será responsável por rodar seu processo igual a todos os 
 6. ☁️ **Integração com Ecossistema do GCP AWS Azure Oracle Alibaba Tencent IBM:** Integre a ferramenta com os serviços e recursos do Google Cloud Platform, AWS, Azure, Oracle, Alibaba, Tencent e IBM para oferecer uma experiência coesa e aprimorada aos usuários que já utilizam outros serviços dessas plataformas.
 
 Ao incorporar esses diferenciais ao projeto, você poderá destacar sua ferramenta no mercado e atrair usuários em busca de soluções mais fáceis de usar, inovadoras e bem suportadas para monitorar seus servidores em várias nuvens e ambientes. 🌈🚀🔧📈🔒
+
+APIs
+
+Google Cloud Monitoring API
+Google Cloud Logging API
+Google Cloud Compute Engine API
+Google Cloud Storage API
+Google Cloud BigQuery API
+Bibliotecas
+
+Python client library for the Google Cloud Monitoring API
+Python client library for the Google Cloud Logging API
+Python client library for the Google Cloud Compute Engine API
+Python client library for the Google Cloud Storage API
+Python client library for the Google Cloud BigQuery API
+
+# Consultas Bash
+
+gcloud compute instances list - Lista todas as instâncias de computação
+gcloud compute instances describe INSTANCE_NAME - Descreve uma instância de computação específica
+gcloud compute instances stop INSTANCE_NAME - Para uma instância de computação específica
+gcloud compute instances start INSTANCE_NAME - Inicia uma instância de computação específica
+gcloud compute instances delete INSTANCE_NAME - Apaga uma instância de computação específica
+gcloud compute instances get-serial-port-output INSTANCE_NAME - Obtém a saída da porta serial de uma instância de computação específica
+gcloud compute instances get-boot-disk INSTANCE_NAME - Obtém a unidade de inicialização de uma instância de computação específica
+gcloud compute instances get-network INSTANCE_NAME - Obtém a rede de uma instância de computação específica
+gcloud compute instances get-firewall INSTANCE_NAME - Obtém o firewall de uma instância de computação específica
+gcloud compute instances get-health INSTANCE_NAME - Obtém a saúde de uma instância de computação específica
+gcloud compute instances get-metadata INSTANCE_NAME - Obtém a meta de uma instância de computação específica
+gcloud compute instances get-zone INSTANCE_NAME - Obtém a zona de uma instância de computação específica
+gcloud compute instances get-machine-type INSTANCE_NAME - Obtém o tipo de máquina de uma instância de computação específica
+gcloud compute instances get-zone-name INSTANCE_NAME - Obtém o nome da zona de uma instância de computação específica
+gcloud compute instances get-zone-location INSTANCE_NAME - Obtém a localização da zona de uma instância de computação específica
+gcloud compute instances get-zone-availability INSTANCE_NAME - Obtém a disponibilidade da zona de uma instância de computação específica
+gcloud compute instances get-zone-price INSTANCE_NAME - Obtém o preço da zona de uma instância de computação específica
+gcloud compute instances get-zone-load INSTANCE_NAME - Obtém a carga da zona de uma instância de computação específica
+gcloud compute instances get-zone-latency INSTANCE_NAME - Obtém a latência da zona de uma instância de computação específica
+gcloud compute instances get-zone-throughput INSTANCE_NAME - Obtém o throughput da zona de uma instância de computação específica
+gcloud compute instances get-zone-reliability INSTANCE_NAME - Obtém a confiabilidade da zona de uma instância de computação específica
+gcloud compute instances get-zone-availability-zone INSTANCE_NAME - Obtém a zona de disponibilidade da zona de uma instância de computação específica
+gcloud compute instances get-zone-network-latency INSTANCE_NAME - Obtém a latência de rede da zona de uma instância de computação específica
+gcloud compute instances get-zone-network-throughput INSTANCE_NAME - Obtém o throughput de rede da zona de uma instância de computação específica
+gcloud compute instances get-zone-network-reliability INSTANCE_NAME - Obtém a confiabilidade de rede da zona de uma instância de computação específica
+gcloud compute instances get-zone-network-availability-zone INSTANCE_NAME - Obtém a zona de disponibilidade de rede da zona de uma instância de computação específica
+gcloud compute instances get-zone-network-latency-per-region INSTANCE_NAME - Obtém a latência de rede por região da zona de uma instância de computação específica
+gcloud compute instances get-zone-network-throughput-per-region INSTANCE_NAME - Obtém o throughput de rede por região da zona de uma instância de computação específica
+gcloud compute instances get-zone-network-reliability-per-region INSTANCE_NAME - Obtém a confiabilidade de rede
+
+
+** APIs e bibliotecas e consultas bash que você pode usar para obter as métricas de saúde, desempenho, disponibilidade e reputação do seu sistema:**
+
+Eficiência Energética (EE):
+API do Google Cloud Monitoring
+Biblioteca Prometheus
+Coletor de métricas do nó
+Agente Telegraf
+Sistema de log Loki
+Desempenho (DP):
+API do Google Cloud Monitoring
+Biblioteca Prometheus
+Coletor de métricas do nó
+Agente Telegraf
+Sistema de log Loki
+Risco (RS):
+API do Google Cloud Security Command Center
+Biblioteca Prometheus
+Coletor de métricas do nó
+Agente Telegraf
+Sistema de log Loki
+Reputação (RP):
+API do Google Cloud Monitoring
+Biblioteca Prometheus
+Coletor de métricas do nó
+Agente Telegraf
+Sistema de log Loki
+Para instalar as APIs e bibliotecas, você pode usar o seguinte comando:
+
+pip install <api_name>
+Por exemplo, para instalar a API do Google Cloud Monitoring, você pode usar o seguinte comando:
+
+pip install google-cloud-monitoring
+Para obter as métricas, você pode usar o seguinte comando:
+
+prometheus <metric>
+Por exemplo, para obter a métrica de consumo de energia, você pode usar o seguinte comando:
+
+prometheus node_cpu_energy
+Você também pode usar o Grafana para visualizar as métricas. Para instalar o Grafana, você pode usar o seguinte comando:
+
+sudo apt-get install grafana
+Depois de instalar o Grafana, você pode iniciá-lo usando o seguinte comando:
+
+grafana-server
+Você pode então acessar o Grafana no navegador usando o endereço http://localhost:3000.
+
+Depois de fazer login no Grafana, você pode criar um painel para visualizar as métricas. Para criar um painel, você pode seguir estas etapas:
+
+Clique no botão "Add Dashboard".
+Na janela "Add Dashboard", insira um nome para o painel e clique no botão "Create".
+Na visualização do painel, clique no botão "Add Query".
+Na janela "Add Query", insira a métrica que você deseja visualizar e clique no botão "Add".
+Você pode então arrastar e soltar os gráficos do painel para organizá-los como desejar.
+Você também pode usar o Grafana para criar alertas. Para criar um alerta, você pode seguir estas etapas:
+
+Clique no botão "Add Alert".
+Na janela "Add Alert", insira um nome para o alerta, selecione a métrica que você deseja monitorar e defina o limite de alerta.
+Você também pode definir ações que serão executadas quando o alerta for disparado.
+Clique no botão "Create" para criar o alerta.
+Usando essas APIs, bibliotecas e consultas, você pode monitorar a saúde, o desempenho, a disponibilidade e a reputação do seu sistema.
+
+**API e bibliotecas e consultas bash que você pode usar para obter eficiência energética (EE), desempenho (DP), risco (RS) e reputação (RP) para sua infraestrutura do GCP:**
+
+APIs
+
+Cloud Monitoring API
+Cloud Logging API
+Cloud Trace API
+Cloud Billing API
+Cloud Identity and Access Management (IAM) API
+Bibliotecas
+
+Google Cloud Platform Client Libraries for Python
+Google Cloud Platform Client Libraries for Java
+Google Cloud Platform Client Libraries for Go
+Google Cloud Platform Client Libraries for .NET
+Consultas Bash
+
+gcloud monitoring metrics list
+gcloud logging logs list
+gcloud trace traces list
+gcloud billing accounts list
+gcloud iam roles list
+Dados do sistema
+
+Número de CPUs
+Número de núcleos
+Total de TFLOPs
+Carga de trabalho total
+Número de usuários
+Número de processos
+Consumo de energia por processo
+Temperatura do gabinete
+Temperatura das memórias
+Temperatura real de todos os núcleos e média dos núcleos
+Ponto de orvalho máximo
+Armazenamento total
+Tráfego de rede total
+Total de TFLOPs usados
+Tráfego de rede máximo
+AEUF
+Eficiência de fluxo de ar
+Conformidade ASHRAE
+CUE
+Economia de CO2
+CCF
+DCiE
+DCPE
+DPPE
+DCPD
+DCSE
+Delta-T gabinete
+DH-UE
+DH-UR
+ERE
+ERF
+FVER
+GEC
+GUF
+HSE
+ITEE
+PUE
+SWaP
+Capacidade de energia desperdiçada
+TCE
+Temperatura do gabinete
+UPEE
+UPF
+Configuração de redundância externa
+
+Load balancing
+DNS
+CDN
+Firewall
+IPS
+Longs de configuração de redundancia externa de todos app dos gcp´s londres dia 19 de julho de 2018, 19, 20, 22 e 23
