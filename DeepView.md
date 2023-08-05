@@ -56,9 +56,7 @@ Os dados do sistema são os seguintes:
    - **DCSE:** Eficiência de Espaço do Data Center, avaliando o espaço utilizado pelo processamento efetivo.
    - **Delta-T gabinete:** Diferença de temperatura entre a entrada e a saída do ar no gabinete do servidor.
    - **DH-UE:** Uso Efetivo de Energia do Data Center, que mede o uso efetivo de energia no data center.
-   - **DH-UR:** Uso Real de Energia do Data Center, que mede o uso real de energia
-
- no data center.
+   - **DH-UR:** Uso Real de Energia do Data Center, que mede o uso real de energia no data center.
    - **ERE:** Eficiência de Refrigeração do Data Center, avaliando a eficiência do sistema de refrigeração.
    - **ERF:** Eficiência de Refrigeração do Free Cooling, medindo a eficiência do uso do free cooling.
    - **FVER:** Eficiência de Volume de Fluxo de Ar, que mede a eficiência do fluxo de ar no data center.
@@ -145,66 +143,58 @@ As seguintes consultas Bash podem ser usadas para obter informações sobre inst
 
 Essas ferramentas e comandos ajudarão você a obter várias informações sobre as instâncias de computação em sua conta do Google Cloud. Lembre-se de substituir `INSTANCE_NAME` pelo nome real da instância que você deseja consultar.
 
-** APIs e bibliotecas e consultas bash que você pode usar para obter as métricas de saúde, desempenho, disponibilidade e reputação do seu sistema:**
+Para monitorar as métricas de saúde, desempenho, disponibilidade e reputação do seu sistema usando as APIs, bibliotecas e consultas bash mencionadas, você pode seguir os seguintes passos:
 
-Eficiência Energética (EE):
-API do Google Cloud Monitoring
-Biblioteca Prometheus
-Coletor de métricas do nó
-Agente Telegraf
-Sistema de log Loki
-Desempenho (DP):
-API do Google Cloud Monitoring
-Biblioteca Prometheus
-Coletor de métricas do nó
-Agente Telegraf
-Sistema de log Loki
-Risco (RS):
-API do Google Cloud Security Command Center
-Biblioteca Prometheus
-Coletor de métricas do nó
-Agente Telegraf
-Sistema de log Loki
-Reputação (RP):
-API do Google Cloud Monitoring
-Biblioteca Prometheus
-Coletor de métricas do nó
-Agente Telegraf
-Sistema de log Loki
-Para instalar as APIs e bibliotecas, você pode usar o seguinte comando:
+## Instalação das APIs e bibliotecas
 
-pip install <api_name>
-Por exemplo, para instalar a API do Google Cloud Monitoring, você pode usar o seguinte comando:
+1. API do Google Cloud Monitoring: 
+   - Instalação usando `pip`:
+     ```
+     pip install google-cloud-monitoring
+     ```
 
-pip install google-cloud-monitoring
-Para obter as métricas, você pode usar o seguinte comando:
+2. Biblioteca Prometheus:
+   - A biblioteca Prometheus pode ser baixada diretamente do site oficial: https://prometheus.io/download/
+   - Siga as instruções de instalação fornecidas no site para o seu sistema operacional.
 
-prometheus <metric>
-Por exemplo, para obter a métrica de consumo de energia, você pode usar o seguinte comando:
+3. Coletor de métricas do nó:
+   - O coletor de métricas do nó (node_exporter) é um componente do Prometheus. Você pode encontrá-lo para download em: https://prometheus.io/download/
+   - Siga as instruções de instalação fornecidas no site para o seu sistema operacional.
 
-prometheus node_cpu_energy
-Você também pode usar o Grafana para visualizar as métricas. Para instalar o Grafana, você pode usar o seguinte comando:
+4. Agente Telegraf:
+   - O agente Telegraf pode ser baixado diretamente do site oficial: https://portal.influxdata.com/downloads/
+   - Siga as instruções de instalação fornecidas no site para o seu sistema operacional.
 
-sudo apt-get install grafana
-Depois de instalar o Grafana, você pode iniciá-lo usando o seguinte comando:
+5. Sistema de log Loki:
+   - O sistema de log Loki também faz parte do ecossistema do Prometheus. Você pode encontrar informações sobre como instalá-lo aqui: https://grafana.com/oss/loki/
 
-grafana-server
-Você pode então acessar o Grafana no navegador usando o endereço http://localhost:3000.
+## Obtendo métricas
 
-Depois de fazer login no Grafana, você pode criar um painel para visualizar as métricas. Para criar um painel, você pode seguir estas etapas:
+- Para obter métricas do Google Cloud Monitoring, você pode usar as chamadas da API apropriadas fornecidas na documentação da API do Google Cloud Monitoring.
 
-Clique no botão "Add Dashboard".
-Na janela "Add Dashboard", insira um nome para o painel e clique no botão "Create".
-Na visualização do painel, clique no botão "Add Query".
-Na janela "Add Query", insira a métrica que você deseja visualizar e clique no botão "Add".
-Você pode então arrastar e soltar os gráficos do painel para organizá-los como desejar.
-Você também pode usar o Grafana para criar alertas. Para criar um alerta, você pode seguir estas etapas:
+- Para obter métricas usando a biblioteca Prometheus, você pode utilizar as ferramentas do Prometheus como `promtool` ou usar o servidor Prometheus para coletar e armazenar as métricas. O coletor de métricas do nó (node_exporter) e o agente Telegraf também podem coletar e enviar métricas para o servidor Prometheus.
 
-Clique no botão "Add Alert".
-Na janela "Add Alert", insira um nome para o alerta, selecione a métrica que você deseja monitorar e defina o limite de alerta.
-Você também pode definir ações que serão executadas quando o alerta for disparado.
-Clique no botão "Create" para criar o alerta.
-Usando essas APIs, bibliotecas e consultas, você pode monitorar a saúde, o desempenho, a disponibilidade e a reputação do seu sistema.
+- Para consultar as métricas usando o Grafana, você precisa configurar os data sources para apontar para o servidor Prometheus e criar dashboards para visualizar as métricas desejadas.
+
+## Exemplo de uso do Grafana
+
+1. Instale o Grafana como mencionado anteriormente.
+
+2. Acesse o Grafana no navegador usando o endereço http://localhost:3000.
+
+3. Faça login no Grafana usando suas credenciais.
+
+4. Crie um painel para visualizar as métricas:
+   - Clique no botão "Add Dashboard".
+   - Na janela "Add Dashboard", insira um nome para o painel e clique no botão "Create".
+
+5. Adicione um gráfico ao painel para exibir uma métrica específica:
+   - Clique no botão "Add Query".
+   - Na janela "Add Query", insira a métrica que você deseja visualizar e clique no botão "Add".
+
+6. Você pode então personalizar o gráfico, adicionar mais métricas e criar alertas conforme necessário.
+
+Lembre-se de que a configuração e personalização do Grafana podem variar de acordo com suas necessidades e sistema operacional. É importante consultar a documentação oficial do Grafana e das outras ferramentas mencionadas para obter mais detalhes sobre a configuração e uso adequado.
 
 **API e bibliotecas e consultas bash que você pode usar para obter eficiência energética (EE), desempenho (DP), risco (RS) e reputação (RP) para sua infraestrutura do GCP:**
 
