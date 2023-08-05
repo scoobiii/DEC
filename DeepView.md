@@ -91,55 +91,59 @@ O 11º DeepServerRed será responsável por rodar seu processo igual a todos os 
 
 6. ☁️ **Integração com Ecossistema do GCP AWS Azure Oracle Alibaba Tencent IBM:** Integre a ferramenta com os serviços e recursos do Google Cloud Platform, AWS, Azure, Oracle, Alibaba, Tencent e IBM para oferecer uma experiência coesa e aprimorada aos usuários que já utilizam outros serviços dessas plataformas.
 
-Ao incorporar esses diferenciais ao projeto, você poderá destacar sua ferramenta no mercado e atrair usuários em busca de soluções mais fáceis de usar, inovadoras e bem suportadas para monitorar seus servidores em várias nuvens e ambientes. 🌈🚀🔧📈🔒
+Aqui estão as informações sobre as APIs, bibliotecas e consultas Bash relacionadas ao Google Cloud que podem ser usadas para obter informações sobre instâncias de computação:
 
-APIs
+## APIs
 
-Google Cloud Monitoring API
-Google Cloud Logging API
-Google Cloud Compute Engine API
-Google Cloud Storage API
-Google Cloud BigQuery API
-Bibliotecas
+1. Google Cloud Monitoring API
+2. Google Cloud Logging API
+3. Google Cloud Compute Engine API
+4. Google Cloud Storage API
+5. Google Cloud BigQuery API
 
-Python client library for the Google Cloud Monitoring API
-Python client library for the Google Cloud Logging API
-Python client library for the Google Cloud Compute Engine API
-Python client library for the Google Cloud Storage API
-Python client library for the Google Cloud BigQuery API
+## Bibliotecas
 
-# Consultas Bash
+1. Python client library for the Google Cloud Monitoring API
+2. Python client library for the Google Cloud Logging API
+3. Python client library for the Google Cloud Compute Engine API
+4. Python client library for the Google Cloud Storage API
+5. Python client library for the Google Cloud BigQuery API
 
-gcloud compute instances list - Lista todas as instâncias de computação
-gcloud compute instances describe INSTANCE_NAME - Descreve uma instância de computação específica
-gcloud compute instances stop INSTANCE_NAME - Para uma instância de computação específica
-gcloud compute instances start INSTANCE_NAME - Inicia uma instância de computação específica
-gcloud compute instances delete INSTANCE_NAME - Apaga uma instância de computação específica
-gcloud compute instances get-serial-port-output INSTANCE_NAME - Obtém a saída da porta serial de uma instância de computação específica
-gcloud compute instances get-boot-disk INSTANCE_NAME - Obtém a unidade de inicialização de uma instância de computação específica
-gcloud compute instances get-network INSTANCE_NAME - Obtém a rede de uma instância de computação específica
-gcloud compute instances get-firewall INSTANCE_NAME - Obtém o firewall de uma instância de computação específica
-gcloud compute instances get-health INSTANCE_NAME - Obtém a saúde de uma instância de computação específica
-gcloud compute instances get-metadata INSTANCE_NAME - Obtém a meta de uma instância de computação específica
-gcloud compute instances get-zone INSTANCE_NAME - Obtém a zona de uma instância de computação específica
-gcloud compute instances get-machine-type INSTANCE_NAME - Obtém o tipo de máquina de uma instância de computação específica
-gcloud compute instances get-zone-name INSTANCE_NAME - Obtém o nome da zona de uma instância de computação específica
-gcloud compute instances get-zone-location INSTANCE_NAME - Obtém a localização da zona de uma instância de computação específica
-gcloud compute instances get-zone-availability INSTANCE_NAME - Obtém a disponibilidade da zona de uma instância de computação específica
-gcloud compute instances get-zone-price INSTANCE_NAME - Obtém o preço da zona de uma instância de computação específica
-gcloud compute instances get-zone-load INSTANCE_NAME - Obtém a carga da zona de uma instância de computação específica
-gcloud compute instances get-zone-latency INSTANCE_NAME - Obtém a latência da zona de uma instância de computação específica
-gcloud compute instances get-zone-throughput INSTANCE_NAME - Obtém o throughput da zona de uma instância de computação específica
-gcloud compute instances get-zone-reliability INSTANCE_NAME - Obtém a confiabilidade da zona de uma instância de computação específica
-gcloud compute instances get-zone-availability-zone INSTANCE_NAME - Obtém a zona de disponibilidade da zona de uma instância de computação específica
-gcloud compute instances get-zone-network-latency INSTANCE_NAME - Obtém a latência de rede da zona de uma instância de computação específica
-gcloud compute instances get-zone-network-throughput INSTANCE_NAME - Obtém o throughput de rede da zona de uma instância de computação específica
-gcloud compute instances get-zone-network-reliability INSTANCE_NAME - Obtém a confiabilidade de rede da zona de uma instância de computação específica
-gcloud compute instances get-zone-network-availability-zone INSTANCE_NAME - Obtém a zona de disponibilidade de rede da zona de uma instância de computação específica
-gcloud compute instances get-zone-network-latency-per-region INSTANCE_NAME - Obtém a latência de rede por região da zona de uma instância de computação específica
-gcloud compute instances get-zone-network-throughput-per-region INSTANCE_NAME - Obtém o throughput de rede por região da zona de uma instância de computação específica
-gcloud compute instances get-zone-network-reliability-per-region INSTANCE_NAME - Obtém a confiabilidade de rede
+## Consultas Bash
 
+As seguintes consultas Bash podem ser usadas para obter informações sobre instâncias de computação:
+
+1. `gcloud compute instances list` - Lista todas as instâncias de computação.
+2. `gcloud compute instances describe INSTANCE_NAME` - Descreve uma instância de computação específica.
+3. `gcloud compute instances stop INSTANCE_NAME` - Para uma instância de computação específica.
+4. `gcloud compute instances start INSTANCE_NAME` - Inicia uma instância de computação específica.
+5. `gcloud compute instances delete INSTANCE_NAME` - Apaga uma instância de computação específica.
+6. `gcloud compute instances get-serial-port-output INSTANCE_NAME` - Obtém a saída da porta serial de uma instância de computação específica.
+7. `gcloud compute instances get-boot-disk INSTANCE_NAME` - Obtém a unidade de inicialização de uma instância de computação específica.
+8. `gcloud compute instances get-network INSTANCE_NAME` - Obtém a rede de uma instância de computação específica.
+9. `gcloud compute instances get-firewall INSTANCE_NAME` - Obtém o firewall de uma instância de computação específica.
+10. `gcloud compute instances get-health INSTANCE_NAME` - Obtém a saúde de uma instância de computação específica.
+11. `gcloud compute instances get-metadata INSTANCE_NAME` - Obtém a meta de uma instância de computação específica.
+12. `gcloud compute instances get-zone INSTANCE_NAME` - Obtém a zona de uma instância de computação específica.
+13. `gcloud compute instances get-machine-type INSTANCE_NAME` - Obtém o tipo de máquina de uma instância de computação específica.
+14. `gcloud compute instances get-zone-name INSTANCE_NAME` - Obtém o nome da zona de uma instância de computação específica.
+15. `gcloud compute instances get-zone-location INSTANCE_NAME` - Obtém a localização da zona de uma instância de computação específica.
+16. `gcloud compute instances get-zone-availability INSTANCE_NAME` - Obtém a disponibilidade da zona de uma instância de computação específica.
+17. `gcloud compute instances get-zone-price INSTANCE_NAME` - Obtém o preço da zona de uma instância de computação específica.
+18. `gcloud compute instances get-zone-load INSTANCE_NAME` - Obtém a carga da zona de uma instância de computação específica.
+19. `gcloud compute instances get-zone-latency INSTANCE_NAME` - Obtém a latência da zona de uma instância de computação específica.
+20. `gcloud compute instances get-zone-throughput INSTANCE_NAME` - Obtém o throughput da zona de uma instância de computação específica.
+21. `gcloud compute instances get-zone-reliability INSTANCE_NAME` - Obtém a confiabilidade da zona de uma instância de computação específica.
+22. `gcloud compute instances get-zone-availability-zone INSTANCE_NAME` - Obtém a zona de disponibilidade da zona de uma instância de computação específica.
+23. `gcloud compute instances get-zone-network-latency INSTANCE_NAME` - Obtém a latência de rede da zona de uma instância de computação específica.
+24. `gcloud compute instances get-zone-network-throughput INSTANCE_NAME` - Obtém o throughput de rede da zona de uma instância de computação específica.
+25. `gcloud compute instances get-zone-network-reliability INSTANCE_NAME` - Obtém a confiabilidade de rede da zona de uma instância de computação específica.
+26. `gcloud compute instances get-zone-network-availability-zone INSTANCE_NAME` - Obtém a zona de disponibilidade de rede da zona de uma instância de computação específica.
+27. `gcloud compute instances get-zone-network-latency-per-region INSTANCE_NAME` - Obtém a latência de rede por região da zona de uma instância de computação específica.
+28. `gcloud compute instances get-zone-network-throughput-per-region INSTANCE_NAME` - Obtém o throughput de rede por região da zona de uma instância de computação específica.
+29. `gcloud compute instances get-zone-network-reliability-per-region INSTANCE_NAME` - Obtém a confiabilidade de rede por região da zona de uma instância de computação específica.
+
+Essas ferramentas e comandos ajudarão você a obter várias informações sobre as instâncias de computação em sua conta do Google Cloud. Lembre-se de substituir `INSTANCE_NAME` pelo nome real da instância que você deseja consultar.
 
 ** APIs e bibliotecas e consultas bash que você pode usar para obter as métricas de saúde, desempenho, disponibilidade e reputação do seu sistema:**
 
