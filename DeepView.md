@@ -208,76 +208,75 @@ Usando essas APIs, bibliotecas e consultas, você pode monitorar a saúde, o des
 
 **API e bibliotecas e consultas bash que você pode usar para obter eficiência energética (EE), desempenho (DP), risco (RS) e reputação (RP) para sua infraestrutura do GCP:**
 
-APIs
+## APIs
 
-Cloud Monitoring API
-Cloud Logging API
-Cloud Trace API
-Cloud Billing API
-Cloud Identity and Access Management (IAM) API
-Bibliotecas
+1. Cloud Monitoring API
+2. Cloud Logging API
+3. Cloud Trace API
+4. Cloud Billing API
+5. Cloud Identity and Access Management (IAM) API
 
-Google Cloud Platform Client Libraries for Python
-Google Cloud Platform Client Libraries for Java
-Google Cloud Platform Client Libraries for Go
-Google Cloud Platform Client Libraries for .NET
-Consultas Bash
+## Bibliotecas
 
-gcloud monitoring metrics list
-gcloud logging logs list
-gcloud trace traces list
-gcloud billing accounts list
-gcloud iam roles list
-Dados do sistema
+- Google Cloud Platform Client Libraries for Python
+- Google Cloud Platform Client Libraries for Java
+- Google Cloud Platform Client Libraries for Go
+- Google Cloud Platform Client Libraries for .NET
 
-Número de CPUs
-Número de núcleos
-Total de TFLOPs
-Carga de trabalho total
-Número de usuários
-Número de processos
-Consumo de energia por processo
-Temperatura do gabinete
-Temperatura das memórias
-Temperatura real de todos os núcleos e média dos núcleos
-Ponto de orvalho máximo
-Armazenamento total
-Tráfego de rede total
-Total de TFLOPs usados
-Tráfego de rede máximo
-AEUF
-Eficiência de fluxo de ar
-Conformidade ASHRAE
-CUE
-Economia de CO2
-CCF
-DCiE
-DCPE
-DPPE
-DCPD
-DCSE
-Delta-T gabinete
-DH-UE
-DH-UR
-ERE
-ERF
-FVER
-GEC
-GUF
-HSE
-ITEE
-PUE
-SWaP
-Capacidade de energia desperdiçada
-TCE
-Temperatura do gabinete
-UPEE
-UPF
-Configuração de redundância externa
+## Consultas Bash
 
-Load balancing
-DNS
-CDN
-Firewall
-IPS
-Longs de configuração de redundancia externa de todos app dos gcp´s londres dia 19 de julho de 2018, 19, 20, 22 e 23
+1. `gcloud monitoring metrics list` - Lista as métricas disponíveis no Cloud Monitoring.
+2. `gcloud logging logs list` - Lista os logs disponíveis no Cloud Logging.
+3. `gcloud trace traces list` - Lista os traces disponíveis no Cloud Trace.
+4. `gcloud billing accounts list` - Lista as contas de faturamento associadas à conta do Google Cloud.
+5. `gcloud iam roles list` - Lista os papéis (roles) disponíveis no IAM.
+
+## Dados do sistema
+
+A seguir estão alguns dos dados do sistema que você pode coletar para avaliar a eficiência energética, desempenho, risco e reputação da sua infraestrutura do GCP:
+
+- Número de CPUs
+- Número de núcleos
+- Total de TFLOPs (Operações de Ponto Flutuante por Segundo)
+- Carga de trabalho total
+- Número de usuários
+- Número de processos
+- Consumo de energia por processo
+- Temperatura do gabinete
+- Temperatura das memórias
+- Temperatura real de todos os núcleos e média dos núcleos
+- Ponto de orvalho máximo (máxima temperatura permitida sem condensação)
+- Armazenamento total
+- Tráfego de rede total
+- Total de TFLOPs usados
+- Tráfego de rede máximo
+- AEUF (Availability Energy Use Factor)
+- Eficiência de fluxo de ar
+- Conformidade ASHRAE (American Society of Heating, Refrigerating, and Air-Conditioning Engineers)
+- CUE (Coefficient of Utilization Efficiency)
+- Economia de CO2
+- CCF (Carbon Contribution Factor)
+- DCiE (Data Center Infrastructure Efficiency)
+- DCPE (Data Center Performance Efficiency)
+- DPPE (Data Center Productivity Per Energy)
+- DCPD (Data Center Productivity Per Dollar)
+- DCSE (Data Center Service Efficiency)
+- Delta-T gabinete (diferença de temperatura entre a entrada e saída do ar no gabinete)
+- DH-UE (Delta-H entalpia de resfriamento economizado)
+- DH-UR (Delta-H entalpia de resfriamento rejeitado)
+- ERE (Energy Reuse Effectiveness)
+- ERF (Energy Reuse Factor)
+- FVER (Flow Volume Efficiency Ratio)
+- GEC (Green Energy Coefficient)
+- GUF (Green Utilization Factor)
+- HSE (High-Performance and Energy-Efficient Computing)
+- ITEE (Information Technology Energy Efficiency)
+- PUE (Power Usage Effectiveness)
+- SWaP (Size, Weight, and Power)
+- Capacidade de energia desperdiçada
+- TCE (Total Cost of Energy)
+- Temperatura do gabinete
+- UPEE (Utilization and Performance Energy Efficiency)
+- UPF (Utilization and Performance Factor)
+
+Porém, vale ressaltar que nem todos esses dados podem ser obtidos diretamente através do GCP ou suas APIs. Algumas informações podem ser coletadas através de ferramentas de monitoramento específicas, sensores de hardware ou análises adicionais. É recomendável avaliar quais dados são relevantes para suas necessidades específicas e buscar as ferramentas adequadas para coletá-los.
