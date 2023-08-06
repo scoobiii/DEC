@@ -407,13 +407,13 @@ November 29, 2006 at 01:30 pm
 
 # Outros bixos
 
-Data:	Mon, 28 Nov 2005 07:32:15 -0800
+>Data:	Mon, 28 Nov 2005 07:32:15 -0800
 De:	"Horst Simon"
 Para:	"José Soares Sobrinho"
-Assunto:	 Re: tflops/energy
+>Assunto:	 **Re: tflops/energy**
 
-José,
->This is a good and timely suggestion, but it will require a lot of
+>José,
+This is a good and timely suggestion, but it will require a lot of
 research to actually do it. Vendors often don't publish their power
 consumption. Also we need a whole system number, including memory and
 disk, and that is hard to come by.
