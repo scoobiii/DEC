@@ -411,16 +411,17 @@ Data:	Mon, 28 Nov 2005 07:32:15 -0800
 De:	"Horst Simon"
 Para:	"José Soares Sobrinho"
 Assunto:	 Re: tflops/energy
+
 José,
-This is a good and timely suggestion, but it will require a lot of
+>This is a good and timely suggestion, but it will require a lot of
 research to actually do it. Vendors often don't publish their power
 consumption. Also we need a whole system number, including memory and
 disk, and that is hard to come by.
-Horst
+>Horst
 
-José Soares Sobrinho wrote:
->Friends, please to include to next top500 the
->tflops/energy relation
+>José Soares Sobrinho wrote:
+Friends, please to include to next top500 the
+tflops/energy relation
 >josé
 
 
