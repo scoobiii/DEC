@@ -387,6 +387,24 @@ Essas APIs, bibliotecas e consultas bash permitirão que você obtenha informaç
 
 Espero que essas informações sejam úteis para o desenvolvimento do projeto "Deep Energy e Deep Cloud" e do "Projeto: DeepView by Ecohold". Se você tiver mais alguma dúvida ou precisar de mais informações, sinta-se à vontade para perguntar! Boa sorte com o seu projeto! 🚀🌈
 
+# Lambança 0.1
+Gartner: Fueling the Future of Business
+Blog home
+Blog post
+Obituary on the Financial Crisis – and Lehman Brothers
+By Andrew White | September 02, 2010 | 0 Comments
+
+Economy
+As I waited for my plane to Detroit day before yesterday I was browsing my CNBC news reader on my iPhone.  I spotted an article I found very interested: Crisis Panel Chair: Politics May Have Doomed Lehman.  The chair of another inquiry into the financial crises, the Financial Crisis Inquiry Commission, Phil Angelides, has concluded that the thin veil of legality that apparently prevented the government from saving Lehman was not factual, and that more likely, politics and policy may have led to that company’s demise.   Really? 
+
+In February I wrote a book review of Hank Paulsen’s new book: 
+
+Book of the Month (February): On The Brink: Inside the Race to Stop the Collapse of the Global Financial System, Henry M. Paulson, Jr, Business Plus, 2009.  Hank Paulson pulls back some of the curtain that exposes his view of what took place mostly in 2008, as he battled......
+
+# Lambança 0.0
+Gartner Inc. : Gartner Says 50 Percent of Data Centers Will Have Insufficient Power and Cooling Capacity by 2008
+November 29, 2006 at 01:30 pm
+
 # Outros bixos
 
 Data:	Mon, 28 Nov 2005 07:32:15 -0800
