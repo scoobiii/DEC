@@ -329,6 +329,8 @@ Deep Cloud: The Deep Cloud is a cloud computing system that is powered by Deep E
 the "**Index Deep Cloud**" and assign the gradeAI to o designer **Deep Cloud da Eco Hold**
 Table with normalized KPIs and their respective weights:
 
+| BenchMark 2023 |GCP London                                 LD4, LD5, LD6, LD7 | IBM SAO01, SAO02, SA003                                                                                                           |
+|-------------------------------------------------|------------------------------------------------------------------------------|----------|---------|--------------------------------------------------------|
 | Característica                                   | Cálculo                                                                      | Unidade  | Objetivo | Medidas                                                 |
 |-------------------------------------------------|------------------------------------------------------------------------------|----------|---------|--------------------------------------------------------|
 | Fator de Utilização do Economizador de Ar (AEUF) | Tempo de Utilização do Economizador de Ar / Tempo Total                       | Porcentagem | Maximizar | Frequência de uso de ar externo para resfriamento grátis |
@@ -354,6 +356,8 @@ Table with normalized KPIs and their respective weights:
 | Eficiência de Energia de Equipamentos de TI (ITEE) | Capacidade de TI / Energia de TI                                             | Razão     | Maximizar | Eficiência da utilização da capacidade de energia por
 
 
+| Estimativas by GCP e Bard |
+|-----|----------|-------------|-------------|-------------|------------|------|
 | KPI | Greatness | Minimum Value | Maximum Value | Ideal Value | Excellence | Weight |
 |-----|----------|-------------|-------------|-------------|------------|------|
 | AEUF | % | 0 | 100 | 90 | 95 | 0.05 |
@@ -386,7 +390,7 @@ Table with normalized KPIs and their respective weights:
 | UPF | % | 0 | 100 | 90 | 95 | 0.05 |
 
 
-|<img src="https://www.sunbirddcim.com/sites/default/files/Sunbird_InfoGraphic_Top30SustMtrcs-01.jpg" width="80%" height="80%" />|
+|<img src="https://www.vertiv.com/4a860b/contentassets/d0094b62241b4566b024387b8d52d75a/graphic_05_800x2250_top-30-metrics_pt-latam.png" width="80%" height="80%" />|
 
 **NGH2 DataCloud** NGH2 DataCloud is a cloud computing system that is powered and integrated into the power plantTHINK2 Deep Energy, 95/5%. The N2Deep Cloud is capable of providing scalable and efficient computing, storage and network services locally in urban areas, supplied by Hybrid Natural Gas and Hydrogen Turbines, technology available and validated by the market and large global suppliers.
 
@@ -466,7 +470,8 @@ The Deep Sun Project will be financed through the sale of carbon credit NFTs. Th
 The Deep Sun Project reduces greenhouse gas emissions by billions of tons per year. This is done by building a network of Deep Energy & Deep Clouds of renewable energy and selling clean, affordable energy to businesses and consumers.
 
 # Power & DeepCloud by Eco Hold
-
+|Deep Global Power, Cloud, Cooling, City |
+|---|---|---|---|---|---|---|---|---|---|
 | Site ID | Local |🌍 Google Earth Link | Latitude/Longitude | Area (km²) | UTC | Deep Energy IN(TW) | Deep Cloud Conta (GW) |Deep Energy OUT Receitas (TW) | Região |
 |---|---|---|---|---|---|---|---|---|---|
 | P&DCEH1 | Sahara, Libya | [Google Earth](https://earth.google.com/web/@8.84006633,4.89731038,250.61724907a,10980922.26193372d,30.00000163y,0h,0t,0r/data=MikKJwolCiExU01QSkVQQ3lHUXVmak9HTnMxT3JMamVZM19hMHBxZFAgAToDCgEw?authuser=0)  | 27.6826, 15.8389 | 363.48 | +2 | 0.727 | 1 | 0.717 | Africa |
