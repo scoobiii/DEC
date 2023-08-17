@@ -468,8 +468,10 @@ The Deep Sun Project will be financed through the sale of carbon credit NFTs. Th
 The Deep Sun Project reduces greenhouse gas emissions by billions of tons per year. This is done by building a network of Deep Energy & Deep Clouds of renewable energy and selling clean, affordable energy to businesses and consumers.
 
 # Power & DeepCloud by Eco Hold
-|Deep Global Power, Cloud, Cooling, City |
-|---|---|---|---|---|---|---|---|---|---|
+
+**Deep Global Power, Cloud, Cooling, City**
+
+
 | Site ID | Local |🌍 Google Earth Link | Latitude/Longitude | Area (km²) | UTC | Deep Energy IN(TW) | Deep Cloud Conta (GW) |Deep Energy OUT Receitas (TW) | Região |
 |---|---|---|---|---|---|---|---|---|---|
 | P&DCEH1 | Sahara, Libya | [Google Earth](https://earth.google.com/web/@8.84006633,4.89731038,250.61724907a,10980922.26193372d,30.00000163y,0h,0t,0r/data=MikKJwolCiExU01QSkVQQ3lHUXVmak9HTnMxT3JMamVZM19hMHBxZFAgAToDCgEw?authuser=0)  | 27.6826, 15.8389 | 363.48 | +2 | 0.727 | 1 | 0.717 | Africa |
@@ -489,6 +491,7 @@ The Deep Sun Project reduces greenhouse gas emissions by billions of tons per ye
 | P&DCEH15 | Sahara | [Google Earth](https://earth.google.com/web/@8.84006633,4.89731038,250.61724907a,10980922.26193372d,30.00000163y,0h,0t,0r/data=MikKJwolCiExU01QSkVQQ3lHUXVmak9HTnMxT3JMamVZM19hMHBxZFAgAToDCgEw?authuser=0) | 31.0615, -7.9375 | 190 | +1 | 0.38 | 1 | 0.37 | Africa |
 | P&DCEH16 | Canudos | [Google Earth](https://earth.google.com/web/@8.84006633,4.89731038,250.61724907a,10980922.26193372d,30.00000163y,0h,0t,0r/data=MikKJwolCiExU01QSkVQQ3lHUXVmak9HTnMxT3JMamVZM19hMHBxZFAgAToDCgEw?authuser=0)  | 31.0615, -7.9375 | 141.3 | +1 | 0.28 | 1 | 0.273 | South America |
 |**Total**||||||**3.985**|**16**|**3.825**||
+
 
 Total energy production is 3,985 TW. The total consumption of the Deep Clouds is 16 GW. The total surplus energy is 3,825 GW. The total surplus energy revenue is USD 1.538 billion. Total revenue from data services is USD 1.283 billion.
 
