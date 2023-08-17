@@ -329,10 +329,10 @@ Deep Cloud: The Deep Cloud is a cloud computing system that is powered by Deep E
 the "**Index Deep Cloud**" and assign the gradeAI to o designer **Deep Cloud da Eco Hold**
 Table with normalized KPIs and their respective weights:
 
-| BenchMark 2023 |GCP London                                 LD4, LD5, LD6, LD7 | IBM SAO01, SAO02, SA003                                                                                                           |
-|-------------------------------------------------|------------------------------------------------------------------------------|----------|---------|--------------------------------------------------------|
-| Característica                                   | Cálculo                                                                      | Unidade  | Objetivo | Medidas                                                 |
-|-------------------------------------------------|------------------------------------------------------------------------------|----------|---------|--------------------------------------------------------|
+**BenchMark 2023 GCP LD4 LD5 LD6 LD7 & IBM SAO01 SAO02 SA003 2020**
+
+| Característica| Cálculo| Unidade  | Objetivo | Medidas|
+|-----|----------|-------------|-------------|-------------|
 | Fator de Utilização do Economizador de Ar (AEUF) | Tempo de Utilização do Economizador de Ar / Tempo Total                       | Porcentagem | Maximizar | Frequência de uso de ar externo para resfriamento grátis |
 | Eficiência do Fluxo de Ar (Airflow Efficiency)  | Potência do Ventilador / Fluxo de Ar                                          | W / cfm | Minimizar | Eficiência de movimentação de ar da entrada à saída   |
 | Gabinetes Conformes com Padrões ASHRAE            | Racks na Faixa Recomendada pela ASHRAE / Total de Racks                      | Porcentagem | Maximizar | Progresso em direção às condições ambientais ideais     |
@@ -356,10 +356,9 @@ Table with normalized KPIs and their respective weights:
 | Eficiência de Energia de Equipamentos de TI (ITEE) | Capacidade de TI / Energia de TI                                             | Razão     | Maximizar | Eficiência da utilização da capacidade de energia por
 
 
-| Estimativas by GCP e Bard |
+| Estimativas by GCP e Bard |||||||
 |-----|----------|-------------|-------------|-------------|------------|------|
 | KPI | Greatness | Minimum Value | Maximum Value | Ideal Value | Excellence | Weight |
-|-----|----------|-------------|-------------|-------------|------------|------|
 | AEUF | % | 0 | 100 | 90 | 95 | 0.05 |
 | Airflow Efficiency | l/s/rack | 0 | 1000 | 600 | 750 | 0.05 |
 | ASHRAE Standard Compliant Cabinets | % | 0 | 100 | 90 | 95 | 0.05 |
