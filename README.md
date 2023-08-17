@@ -293,6 +293,8 @@ Deep Cloud: The Deep Cloud is a cloud computing system that is powered by Deep E
   
 **Index Deep Cloud** The IDC is an indicator between a numerical range and a color gradient between blue and pink that indicates how close or far the DataCloud is to the ideal of energy efficiency.
 
+
+
                 - "Air Economizer Utilization Factor (AEUF)",
                 - "Airflow Efficiency",
                 - "ASHRAE Standard Compliant Cabinets",
@@ -327,6 +329,31 @@ Deep Cloud: The Deep Cloud is a cloud computing system that is powered by Deep E
 the "**Index Deep Cloud**" and assign the gradeAI to o designer **Deep Cloud da Eco Hold**
 Table with normalized KPIs and their respective weights:
 
+| Característica                                   | Cálculo                                                                      | Unidade  | Objetivo | Medidas                                                 |
+|-------------------------------------------------|------------------------------------------------------------------------------|----------|---------|--------------------------------------------------------|
+| Fator de Utilização do Economizador de Ar (AEUF) | Tempo de Utilização do Economizador de Ar / Tempo Total                       | Porcentagem | Maximizar | Frequência de uso de ar externo para resfriamento grátis |
+| Eficiência do Fluxo de Ar (Airflow Efficiency)  | Potência do Ventilador / Fluxo de Ar                                          | W / cfm | Minimizar | Eficiência de movimentação de ar da entrada à saída   |
+| Gabinetes Conformes com Padrões ASHRAE            | Racks na Faixa Recomendada pela ASHRAE / Total de Racks                      | Porcentagem | Maximizar | Progresso em direção às condições ambientais ideais     |
+| Eficiência de Uso de Carbono (Carbon Usage Effectiveness, CUE) | Emissões de CO2 / Energia de TI | kg CO2 / kWh | Minimizar | Sustentabilidade geral de um centro de dados            |
+| Economia de CO2 (CO2 Savings)                     | Possíveis Emissões de CO2 / Emissões de CO2 Reais                           | Razão     | Maximizar | Emissões de CO2 evitadas devido a esforços de eficiência |
+| Fator de Capacidade de Resfriamento (CCF)         | Capacidade de Resfriamento / Carga Crítica                                    | Razão     | Minimizar | Eficiência geral do sistema de resfriamento do data center |
+| Eficiência da Infraestrutura do Data Center (DCiE) | Energia de TI / Energia da Instalação                                         | Porcentagem | Maximizar | Porcentagem de energia total da instalação usada por equipamentos de TI |
+| Eficiência de Desempenho do Data Center (DCPE)    | Trabalho Útil / Energia da Instalação                                          | Trabalho / kWh | Maximizar | Eficiência do desempenho do data center                |
+| Desempenho por Energia do Data Center (DPPE)      | Trabalho / (Energia Total - Energia Verde)                                   | Razão     | Maximizar | Eficiência energética do data center, incluindo equipamentos de TI e infraestrutura |
+| Densidade de Energia do Data Center (DCPD)        | Consumo de Energia do Rack / Rack                                             | kW / Rack | Maximizar | Comparação entre consumo de energia do rack e capacidade de energia do rack |
+| Eficiência de Espaço do Data Center (DCSE)        | Utilização do Espaço RU x Utilização do Espaço do Piso                       | Porcentagem | Maximizar | Eficiência no uso do espaço do data center            |
+| Delta-T por Gabinete                             | Temperatura de Exaustão - Temperatura de Entrada                            | °C ou °F  | Otimizar | Eficiência do fluxo de ar para resfriamento de equipamentos |
+| Eficiência de Utilização de Hardware Implementado (DH-UE) | Sistemas Mínimos para Lidar com Carga Máxima / Total de Sistemas | Porcentagem | Maximizar | Eficiência de utilização de servidores e sistemas de armazenamento |
+| Razão de Utilização de Hardware Implementado (DH-UR) | Servidores Executando Aplicações ao Vivo / Total de Servidores         | Porcentagem | Maximizar | Quantidade de energia desperdiçada por sistemas inativos |
+| Eficiência de Reutilização de Energia (ERE)      | (Energia Total - Energia Reutilizada) / Energia de TI                      | Razão     | Minimizar | Eficiência energética geral se a energia estiver sendo reutilizada fora do data center |
+| Fator de Reutilização de Energia (ERF)           | Energia Reutilizada / Energia Total                                          | Porcentagem | Maximizar | Quantidade de energia reutilizada fora do data center |
+| Razão de Energia Fixa para Variável (FVER)        | Energia Fixa / Energia Variável                                              | Razão     | Minimizar | Quantidade de energia visada para redução ou eliminação |
+| Coeficiente de Energia Verde (GEC)               | Energia Verde / Energia Total                                                | Porcentagem | Maximizar | Quantidade de energia renovável gerada no local      |
+| Fator de Utilização da Rede (GUF)                | Tempo em que a Energia Gerada Localmente Cobriu a Demanda de Energia / Tempo Total | Porcentagem | Minimizar | Frequência com que o data center é alimentado por energia gerada no local |
+| Eficiência do Sistema de HVAC (HSE)              | Energia de TI / Energia do Sistema de HVAC                                   | Razão     | Maximizar | Eficiência geral do sistema de resfriamento do data center |
+| Eficiência de Energia de Equipamentos de TI (ITEE) | Capacidade de TI / Energia de TI                                             | Razão     | Maximizar | Eficiência da utilização da capacidade de energia por
+
+
 | KPI | Greatness | Minimum Value | Maximum Value | Ideal Value | Excellence | Weight |
 |-----|----------|-------------|-------------|-------------|------------|------|
 | AEUF | % | 0 | 100 | 90 | 95 | 0.05 |
@@ -357,6 +384,9 @@ Table with normalized KPIs and their respective weights:
 | Cabinet Temperature | °C | 0 | 10 | 5 | 2.5 | 0.05 |
 | AWESOME | % | 0 | 100 | 90 | 95 | 0.05 |
 | UPF | % | 0 | 100 | 90 | 95 | 0.05 |
+
+
+|<img src="https://www.sunbirddcim.com/sites/default/files/Sunbird_InfoGraphic_Top30SustMtrcs-01.jpg" width="80%" height="80%" />|
 
 **NGH2 DataCloud** NGH2 DataCloud is a cloud computing system that is powered and integrated into the power plantTHINK2 Deep Energy, 95/5%. The N2Deep Cloud is capable of providing scalable and efficient computing, storage and network services locally in urban areas, supplied by Hybrid Natural Gas and Hydrogen Turbines, technology available and validated by the market and large global suppliers.
 
