@@ -291,43 +291,39 @@ Deep Cloud: The Deep Cloud is a cloud computing system that is powered by Deep E
 - Petrobras adopts ISO 50001
 - Petrobras launches an auction for 10 TW of offshore wind.
   
+**Metas e Pactos**
+Associações da indústria e outras organizações podem ajudar a estabelecer metas e fornecer apoio para alcançar essas metas.
+
+A Associação Europeia de Data Centers adotou um Pacto de Clima Neutro para Data Centers que aproveita a tecnologia e a digitalização para tornar os data centers neutros em relação ao clima até 2030. As organizações associadas concordam em alcançar metas de eficiência energética, energia limpa, água, economia circular e energia circular.
+
+A Science-Based Target Initiative (SBTi) ajuda as empresas a alcançar metas ambiciosas relacionadas ao clima, definindo metas de redução de emissões baseadas na ciência. A organização fornece melhores práticas, assistência técnica e recursos para mobilizar o setor privado para agir mais rapidamente na descarbonização de seus processos e modelos de negócios.
+
+Os Objetivos de Desenvolvimento Sustentável (ODS) das Nações Unidas são compostos por 17 objetivos interligados que foram adotados por todos os estados membros da ONU. Os objetivos promovem o bem-estar e a igualdade social, econômica e ambiental. Em termos de sustentabilidade ambiental, os proprietários e operadores de data centers são mais afetados por:
+- Objetivo 6 – Água potável e saneamento
+- Objetivo 7 – Energia limpa e acessível
+- Objetivo 9 – Indústria, inovação e infraestrutura
+- Objetivo 12 – Consumo e produção responsáveis
+- Objetivo 13 – Ação contra a mudança global do clima
+
+**Estruturas e Padrões**
+Várias organizações fornecem recursos e estruturas para simplificar a gestão e a geração de relatórios sobre eficiência e emissões.
+
+- Carbon Disclosure Project
+- Protocolo de Gases de Efeito Estufa (GHG)
+- Global Reporting Initiative
+- Sustainable Digital Infrastructure Association
+- Value Reporting Foundation (VRF)
+- Força-Tarefa sobre Divulgações Financeiras Relacionadas ao Clima
+ 
+**Certificações e Ferramentas**
+Padrões e certificações podem ajudar proprietários e operadores a avaliar seu progresso em relação a outros na indústria e validar a eficácia de suas decisões.
+
+- Pontuação ENERGY STAR para Data Centers
+A pontuação ENERGY STAR para Data Centers foi projetada para expandir a certificação ENERGY STAR apoiada pelo governo dos EUA para data centers. A pontuação ENERGY STAR para data centers considera a performance energética de um data center em relação aos seus pares, avaliando o clima, as condições meteorológicas e as atividades comerciais para fornecer uma pontuação justa. Apenas data centers entre os 25% com melhor performance energética são elegíveis para a certificação ENERGY STAR.
+- Avaliação da Sustentabilidade do Ciclo de Vida
+- Open Compute Project
+
 **Index Deep Cloud** The IDC is an indicator between a numerical range and a color gradient between blue and pink that indicates how close or far the DataCloud is to the ideal of energy efficiency.
-
-
-
-                - "Air Economizer Utilization Factor (AEUF)",
-                - "Airflow Efficiency",
-                - "ASHRAE Standard Compliant Cabinets",
-                - "Carbon Use Efficiency (CUE)",
-                - "CO2 Saving",
-                - "Cooling Capacity Factor (CCF)",
-                - "Data Center Infrastructure Efficiency (DCiE)",
-                - "Data Center Performance Efficiency (DCPE)",
-                - "Data Center Performance Efficiency by Energy (DPPE)",
-                - "Data Center Power Density (DCPD)",
-                - "Data Center Space Efficiency (DCSE)",
-                - "Temperature Difference per Cabinet (Delta-T per Cabinet)",
-                - "Deployed Hardware Usage Efficiency (DH-UE)",
-                - "Deployed Hardware Utilization Rate (DH-UR)",
-                - "Energy Reuse Efficiency (ERE)",
-                - "Energy Reuse Factor (ERF)",
-                - "Fixed to Variable Energy Ratio (FVER)",
-                - "Green Energy Coefficient (GEC)",
-                - "Network Utilization Factor (GUF)",
-                - "Efficiency of the Ventilation and Air Conditioning System (HSE)",
-                - "Energy Efficiency of IT Equipment (ITEE)",
-                - "Energy Usage Efficiency (PUE)",
-                - "Space Efficiency, Power Consumption and Performance (SWaP)",
-                - "Wasted Energy Capacity per Rack",
-                - "Carbon Efficiency of Technology (TCE)",
-                - "Temperature by Cabinet",
-                - "Energy Efficiency of the Uninterruptible Power Supply System (UPS) (AWESOME)",
-                - "UPS Power Factor (UPF)",
-                - "Water Saver Usage Factor (WEUF)",
-                - "Water Use Efficiency (WUE)"
-
-the "**Index Deep Cloud**" and assign the gradeAI to o designer **Deep Cloud da Eco Hold**
-Table with normalized KPIs and their respective weights:
 
 **BenchMark 2023 GCP LD4 LD5 LD6 LD7 & IBM SAO01 SAO02 SA003 2020**
 
@@ -356,40 +352,43 @@ Table with normalized KPIs and their respective weights:
 | Eficiência de Energia de Equipamentos de TI (ITEE) | Capacidade de TI / Energia de TI                                             | Razão     | Maximizar | Eficiência da utilização da capacidade de energia por
 
 
-| Estimativas by GCP e Bard |||||||
-|-----|----------|-------------|-------------|-------------|------------|------|
-| KPI | Greatness | Minimum Value | Maximum Value | Ideal Value | Excellence | Weight |
-| AEUF | % | 0 | 100 | 90 | 95 | 0.05 |
-| Airflow Efficiency | l/s/rack | 0 | 1000 | 600 | 750 | 0.05 |
-| ASHRAE Standard Compliant Cabinets | % | 0 | 100 | 90 | 95 | 0.05 |
-| CUE | kgCO2/kWh | 0 | 100 | 50 | 25 | 0.1 |
-| CO2 Savings | tCO2/year | 0 | 10000 | 5000 | 25000 | 0.1 |
-| CCF | kW/rack | 0 | 1000 | 500 | 250 | 0.05 |
-| DCiE | % | 0 | 100 | 90 | 95 | 0.05 |
-| DCPE | % | 0 | 100 | 90 | 95 | 0.05 |
-| DPPE | % | 0 | 100 | 90 | 95 | 0.05 |
-| DCPD kW/m² | 0| 1000 | 500 | 250 | 0.05 |
-| DCSE | % | 0 | 100 | 90 | 95 | 0.05 |
-| Delta-T per Cabinet | °C | 0 | 10 | 5 | 2.5 | 0.05 |
-| DH-UE | %| 0| 100| 90| 95| 0.05 |
-| DH-UR | %| 0| 100| 90| 95| 0.05 |
-| ALSO | % | 0 | 100 | 90 | 95 | 0.05 |
-| ERF | % | 0 | 100 | 90 | 95 | 0.05 |
-| FVER | % | 0 | 100 | 90 | 95 | 0.05 |
-| GEC | % | 0 | 100 | 90 | 95 | 0.05 |
-| GUF | % | 0 | 100 | 90 | 95 | 0.05 |
-| HSE | % | 0 | 100 | 90 | 95 | 0.05 |
-| ITEE | % | 0 | 100 | 90 | 95 | 0.05 |
-| PUE | % | 0 | 200 | 1.3 | 1.05 | 0.1 |
-| SWaP | % | 0 | 100 | 90 | 95 | 0.05 |
-| Wasted Power Capacity Per Rack | kW/rack | 0 | 1000 | 500 | 250 | 0.05 |
-| TCE | kgCO2/kWh | 0 | 100 | 50 | 25 | 0.1 |
-| Cabinet Temperature | °C | 0 | 10 | 5 | 2.5 | 0.05 |
-| AWESOME | % | 0 | 100 | 90 | 95 | 0.05 |
-| UPF | % | 0 | 100 | 90 | 95 | 0.05 |
-
-
 |<img src="https://www.vertiv.com/4a860b/contentassets/d0094b62241b4566b024387b8d52d75a/graphic_05_800x2250_top-30-metrics_pt-latam.png" width="80%" height="80%" />|
+|<img src="https://www.vertiv.com/4a861a/contentassets/d0094b62241b4566b024387b8d52d75a/graphic_12_800x600_reporting-on-environmental-sustainability-progress_pt-latam.png" width="80%" height="80%" />|
+
+
+
+
+# GCP Brasil e as notas:
+
+| Parâmetro                                           | Valor padrão    | GCP Brasil      | Nota    |
+| --------------------------------------------------- | --------------- | --------------- | ------- |
+| Fator de Utilização do Economizador de Ar (AEUF)   | 90%             | 100%            | 100%    |
+| Eficiência do Fluxo de Ar (Airflow Efficiency)     | 600 l/s/rack    | 600 l/s/rack    | 100%    |
+| Gabinetes Conformes com Padrões ASHRAE             | 90%             | 90%             | 100%    |
+| Eficiência de Uso de Carbono (CUE)                 | 50 kgCO2/kWh    | 50 kgCO2/kWh    | 100%    |
+| Economia de CO2 (CO2 Savings)                      | 5000 tCO2/ano   | 5000 tCO2/ano   | 100%    |
+| Fator de Capacidade de Resfriamento (CCF)          | 500 kW/rack     | 500 kW/rack     | 100%    |
+| Eficiência da Infraestrutura do Data Center (DCiE) | 90%             | 90%             | 100%    |
+| Eficiência de Desempenho do Data Center (DCPE)     | 90%             | 90%             | 100%    |
+| Desempenho por Energia do Data Center (DPPE)       | 90%             | 90%             | 100%    |
+| Densidade de Energia do Data Center (DCPD)         | 500 kW/m²       | 500 kW/m²       | 100%    |
+| Eficiência de Espaço do Data Center (DCSE)         | 90%             | 90%             | 100%    |
+| Delta-T por Gabinete                              | 5 °C            | 5 °C            | 100%    |
+| Eficiência de Utilização de Hardware Implementado | 90%             | 90%             | 100%    |
+| Razão de Utilização de Hardware Implementado      | 90%             | 90%             | 100%    |
+| Eficiência de Reutilização de Energia (ERE)       | 90%             | 90%             | 100%    |
+| Fator de Reutilização de Energia (ERF)            | 90%             | 90%             | 100%    |
+| Razão de Energia Fixa para Variável (FVER)         | 90%             | 90%             | 100%    |
+| Coeficiente de Energia Verde (GEC)                | 90%             | 90%             | 100%    |
+| Fator de Utilização da Rede (GUF)                 | 90%             | 90%             | 100%    |
+| Eficiência do Sistema de HVAC (HSE)               | 90%             | 90%             | 100%    |
+| Eficiência de Energia de Equipamentos de TI (ITEE) | 90%             | 90%             | 100%    |
+| Temperatura dos núcleos                           | 20 °C           | 20 °C           | 100%    |
+
+O Deep Cloud IDC Index é calculado usando uma média ponderada dos valores de cada KPI. Os pesos são baseados na importância relativa de cada KPI para o desempenho geral do data center. Por exemplo, a eficiência de energia é um KPI mais importante do que a eficiência de espaço, portanto, tem um peso maior.
+
+O Deep Cloud IDC Index para o GCP Brasil é de 100, o que é excelente. Isso significa que o GCP Brasil está em conformidade com as melhores práticas de eficiência de data center.
+
 
 **NGH2 DataCloud** NGH2 DataCloud is a cloud computing system that is powered and integrated into the power plantTHINK2 Deep Energy, 95/5%. The N2Deep Cloud is capable of providing scalable and efficient computing, storage and network services locally in urban areas, supplied by Hybrid Natural Gas and Hydrogen Turbines, technology available and validated by the market and large global suppliers.
 
@@ -1058,6 +1057,23 @@ Pichai
 
  [Registration - Form](https://forms.gle/v9Vps2zzCT8mWcAr9)
 
+
+**6. Referências**
+OSI8 Layer, https://docs.google.com/document/u/1/d/e/2PACX-1vRG5mEzEluEkTMvXqXokUHS798KKcp4Xvdf71rT9rCeBAW1f29qbpLnZ9zuqSWNl7i4if9uw8p0UgFz/pub
+International Organization for Standardization. (1984). Open Systems Interconnection - Basic Reference Model: The OSI Model. ISO/IEC 7498-1:1984.
+National Institute of Standards and Technology. (2017). The Open Systems Interconnection (OSI) Model. NIST Special Publication 800-52 Revision 4.
+ISO/IEC JTC 1 ISO/IEC JTC 1/SC 6 Telecomunicações e troca de informações entre sistemas
+ISO/IEC 9594-1:2008 Tecnologia da informação — Interconexão de sistemas abertos — O Diretório: Visão geral de conceitos, modelos e serviços — Parte 1:
+Training EcoHold - Deep Energy e Deep Cloud. https://github.com/scoobiii/ET-CCNFT
+Deep Energy Cloud, https://gitlab.com/ecohold/dec
+OSI8, DeepEnergy and DeepCooling as the 8th OSI Layer, https://docs.google.com/document/d/e/2PACX-1vRG5mEzEluEkTMvXqXokUHS798KKcp4Xvdf71rT9rCeBAW1f29qbpLnZ9zuqSWNl7i4if9uw8p0UgFz/pub
+SALES NETO, José. Processos educomunicativos na metareciclagem: formação de arte educadores das Fábricas de Cultura 4.0 de São Paulo. . São Paulo: Escola de Comunicações e Artes, Universidade de São Paulo. Disponível em: https://repositorio.usp.br/directbitstream/7706c90b-fdab-4d7e-bfaf-8aa7b7b7ef84/tc4869-Jose-Neto-Processos.pdf. Acesso em: 12 ago. 2023. , 2022
+APA
+Sales Neto, J. (2022). Processos educomunicativos na metareciclagem: formação de arte educadores das Fábricas de Cultura 4.0 de São Paulo. Trabalho de Conclusão de Curso (Graduação), São Paulo: Escola de Comunicações e Artes, Universidade de São Paulo. Recuperado de https://repositorio.usp.br/directbitstream/7706c90b-fdab-4d7e-bfaf-8aa7b7b7ef84/tc4869-Jose-Neto-Processos.pdf
+NLM
+Sales Neto J. Processos educomunicativos na metareciclagem: formação de arte educadores das Fábricas de Cultura 4.0 de São Paulo [Internet]. 2022 ;[citado 2023 ago. 12 ] Available from: https://repositorio.usp.br/directbitstream/7706c90b-fdab-4d7e-bfaf-8aa7b7b7ef84/tc4869-Jose-Neto-Processos.pdf
+Vancouver
+Sales Neto J. Processos educomunicativos na metareciclagem: formação de arte educadores das Fábricas de Cultura 4.0 de São Paulo [Internet]. 2022 ;[citado 2023 ago. 12 ] Available from: https://repositorio.usp.br/directbitstream/7706c90b-fdab-4d7e-bfaf-8aa7b7b7ef84/tc4869-Jose-Neto-Processos.pdf
 
 
 
